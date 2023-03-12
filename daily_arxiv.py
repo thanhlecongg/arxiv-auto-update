@@ -360,7 +360,7 @@ def demo(**config):
     max_results = config['max_results']
     publish_readme = config['publish_readme']
     publish_gitpage = config['publish_gitpage']
-    publish_wechat = config['publish_wechat']
+    # publish_wechat = config['publish_wechat']
     show_badge = config['show_badge']
 
     b_update = config['update_paper_links']
@@ -404,16 +404,16 @@ def demo(**config):
             use_tc=False, use_b2t=False)
 
     # 3. Update docs/wechat.md file
-    if publish_wechat:
-        json_file = config['json_wechat_path']
-        md_file   = config['md_wechat_path']
-        # TODO: duplicated update paper links!!!
-        if config['update_paper_links']:
-            update_paper_links(json_file)
-        else:    
-            update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
+    # if publish_wechat:
+    #     json_file = config['json_wechat_path']
+    #     md_file   = config['md_wechat_path']
+    #     # TODO: duplicated update paper links!!!
+    #     if config['update_paper_links']:
+    #         update_paper_links(json_file)
+    #     else:    
+    #         update_json_file(json_file, data_collector_web)
+    #     json_to_md(json_file, md_file, task ='Update Wechat', \
+    #         to_web=False, use_title= False, show_badge = show_badge)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
