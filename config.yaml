@@ -5,7 +5,7 @@ repo_name: "arxiv-auto-update"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 10
+max_results: 25
 
 publish_readme: True
 publish_gitpage: True
@@ -22,18 +22,17 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "APR": 
-        filters: ["Bug", "Repair"]
-    # "SFM":
-    #     filters: ["SFM", "Structure from Motion"]
-    # "Visual Localization":
-    #     filters: ["Visual Localization","Camera Localization",
-    #               "Camera Re-localisation","Loop Closure Detection",
-    #               "visual place recognition","image retrieval"]
-    # "Keypoint Detection":
-    #     filters: ["Keypoint Detection", "Feature Descriptor"]
-    # "Image Matching":
-    #     filters: ["Image Matching", "Keypoint Matching", 
-    #               "Line Segment Detection", "Local Feature Matching"]
-    # "NeRF":
-    #     filters: ["NeRF"]
+    "Automated Program Repair": 
+        filters: ["Automated Program Repair", "Program Repair", "Automated Bug Fixing"]
+    "Automated Patch Correctness Assessment": 
+        filters: ["Automated Patch Correctness Assessment", "Patch Validation"]
+    "Code Naturalness": 
+        filters: ["Code Naturalness"]
+    "Bug/Vulnerability Management": 
+        filters: ["Bug Management", "Vulnerability Management", "Vulnerability-Fixing Commit", "Software Component Analysis"]
+    "Regression Bugs/Bug Inducing Commit": 
+        filters: ["Bug Inducing Commit", "Regression Bug"]
+    "Defect Prediction": 
+        filters: ["Defect Prediction"]
+    "Bug Explanation": 
+        filters: ["Bug Explanation", "Defect Explanation"]

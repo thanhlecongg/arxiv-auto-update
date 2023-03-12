@@ -27,6 +27,7 @@ def load_config(config_file:str) -> dict:
         EXCAPE = '\"'
         QUOTA = '' # NO-USE
         OR = 'OR' # TODO
+        AND = 'AND'
         def parse_filters(filters:list):
             ret = ''
             for idx in range(0,len(filters)):
