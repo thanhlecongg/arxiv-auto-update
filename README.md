@@ -50,6 +50,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-03-10**|**Self-supervised Training Sample Difficulty Balancing for Local Descriptor Learning**|Jiahan Zhang et.al.|[2303.06124](http://arxiv.org/abs/2303.06124)|null|
 |**2023-01-29**|**Boosting Automated Patch Correctness Prediction via Pre-trained Language Model**|Quanjun Zhang et.al.|[2301.12453](http://arxiv.org/abs/2301.12453)|null|
 |**2023-01-09**|**A Survey of Learning-based Automated Program Repair**|Quanjun Zhang et.al.|[2301.03270](http://arxiv.org/abs/2301.03270)|**[link](https://github.com/quanjunzhang/awesomelearningapr)**|
 |**2023-01-03**|**Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning**|Thanh Le-Cong et.al.|[2301.01113](http://arxiv.org/abs/2301.01113)|**[link](https://github.com/thanhlecongg/Invalidator)**|
