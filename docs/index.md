@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-13**|**InferFix: End-to-End Program Repair with LLMs**|Matthew Jin et.al.|[2303.07263](http://arxiv.org/abs/2303.07263)|null|
 |**2023-03-01**|**The Inversive Relationship Between Bugs and Patches: An Empirical Study**|Jinhan Kim et.al.|[2303.00303](http://arxiv.org/abs/2303.00303)|null|
 |**2023-03-02**|**PatchZero: Zero-Shot Automatic Patch Correctness Assessment**|Xin Zhou et.al.|[2303.00202](http://arxiv.org/abs/2303.00202)|null|
 |**2023-02-27**|**Impact of Code Language Models on Automated Program Repair**|Nan Jiang et.al.|[2302.05020](http://arxiv.org/abs/2302.05020)|**[link](https://github.com/lin-tan/clm)**|
@@ -58,6 +59,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2005-08-11**|**Entropy coding with Variable Length Re-writing Systems**|Herve Jegou et.al.|[cs/0508058](http://arxiv.org/abs/cs/0508058)|null|
+|**2023-03-13**|**xASTNN: Improved Code Representations for Industrial Practice**|Zhiwei Xu et.al.|[2303.07104](http://arxiv.org/abs/2303.07104)|null|
 |**2023-03-04**|**Good Gottesman-Kitaev-Preskill codes from the NTRU cryptosystem**|Jonathan Conrad et.al.|[2303.02432](http://arxiv.org/abs/2303.02432)|null|
 |**2022-11-22**|**Is this correct? Let's check!**|Omri Ben-Eliezer et.al.|[2211.12301](http://arxiv.org/abs/2211.12301)|null|
 |**2022-08-11**|**CodeBERT-nt: code naturalness via CodeBERT**|Ahmed Khanfir et.al.|[2208.06042](http://arxiv.org/abs/2208.06042)|null|
