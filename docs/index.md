@@ -18,6 +18,7 @@ layout: default
 |**2023-01-29**|**Boosting Automated Patch Correctness Prediction via Pre-trained Language Model**|Quanjun Zhang et.al.|[2301.12453](http://arxiv.org/abs/2301.12453)|null|
 |**2023-01-20**|**An Analysis of the Automatic Bug Fixing Performance of ChatGPT**|Dominik Sobania et.al.|[2301.08653](http://arxiv.org/abs/2301.08653)|null|
 |**2023-01-09**|**A Survey of Learning-based Automated Program Repair**|Quanjun Zhang et.al.|[2301.03270](http://arxiv.org/abs/2301.03270)|**[link](https://github.com/quanjunzhang/awesomelearningapr)**|
+|**2023-03-17**|**Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning**|Thanh Le-Cong et.al.|[2301.01113](http://arxiv.org/abs/2301.01113)|**[link](https://github.com/thanhlecongg/Invalidator)**|
 |**2022-12-29**|**A Bayesian Framework for Automated Debugging**|Sungmin Kang et.al.|[2212.13773](http://arxiv.org/abs/2212.13773)|null|
 |**2022-12-21**|**Improving Automated Program Repair with Domain Adaptation**|Armin Zirak et.al.|[2212.11414](http://arxiv.org/abs/2212.11414)|null|
 |**2022-12-22**|**Detect-Localize-Repair: A Unified Framework for Learning to Debug with CodeT5**|Nghi D. Q. Bui et.al.|[2211.14875](http://arxiv.org/abs/2211.14875)|null|
