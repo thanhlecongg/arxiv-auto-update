@@ -25,13 +25,11 @@ keywords:
         filters: ["Automated Program Repair", "Program Repair", "Automated Bug Fixing"]
     "Automated Patch Correctness Assessment": 
         filters: ["Automated Patch Correctness Assessment", "Patch Validation"]
-    "Code Naturalness": 
-        filters: ["Code Naturalness"]
+    "Code Summarization": 
+        filters: ["Code Summarization", "Code Explanation", "Bug Explanation", "Defect Explanation"]
     "Bug/Vulnerability Management": 
         filters: ["Bug Management", "Vulnerability Management", "Vulnerability-Fixing Commit", "Software Component Analysis"]
     "Regression Bugs/Bug Inducing Commit": 
         filters: ["Bug Inducing Commit", "Regression Bug"]
     "Defect Prediction": 
         filters: ["Defect Prediction"]
-    "Bug Explanation": 
-        filters: ["Bug Explanation", "Defect Explanation"]
