@@ -5,7 +5,7 @@ repo_name: "arxiv-auto-update"
 show_authors: False
 show_links: False
 show_badge: False
-max_results: 25
+max_results: 15
 
 publish_readme: True
 publish_gitpage: True
