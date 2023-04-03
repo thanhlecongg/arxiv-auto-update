@@ -1,4 +1,4 @@
-## Updated on 2023.04.02
+## Updated on 2023.04.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -11,6 +11,7 @@
     <li><a href=#Regression-Bugs/Bug-Inducing-Commit>Regression Bugs/Bug Inducing Commit</a></li>
     <li><a href=#Defect-Prediction>Defect Prediction</a></li>
     <li><a href=#Bug-Explanation>Bug Explanation</a></li>
+    <li><a href=#Code-Summarization>Code Summarization</a></li>
   </ol>
 </details>
 
@@ -47,7 +48,7 @@
 |**2022-07-22**|**Test-based Patch Clustering for Automatically-Generated Patches Assessment**|Matias Martinez et.al.|[2207.11082](http://arxiv.org/abs/2207.11082)|null|
 |**2022-07-21**|**BigIssue: A Realistic Bug Localization Benchmark**|Paul Kassianik et.al.|[2207.10739](http://arxiv.org/abs/2207.10739)|null|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## Automated Patch Correctness Assessment
 
@@ -67,7 +68,7 @@
 |**2020-03-31**|**RESTORE: Retrospective Fault Localization Enhancing Automated Program Repair**|Tongtong Xu et.al.|[1906.01778](http://arxiv.org/abs/1906.01778)|null|
 |**2020-09-28**|**A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark**|He Ye et.al.|[1805.03454](http://arxiv.org/abs/1805.03454)|**[link](https://github.com/KTH/quixbugs-experiment)**|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## Code Naturalness
 
@@ -96,7 +97,7 @@
 |**2011-09-05**|**Quantized Compute and Forward: A Low-Complexity Architecture for Distributed Antenna Systems**|Song-Nam Hong et.al.|[1109.0800](http://arxiv.org/abs/1109.0800)|null|
 |**2007-07-29**|**Embedded Rank Distance Codes for ISI channels**|S. Dusad et.al.|[0707.4311](http://arxiv.org/abs/0707.4311)|null|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## Bug/Vulnerability Management
 
@@ -120,7 +121,7 @@
 |**2017-05-15**|**Software Vulnerability Analysis Using CPE and CVE**|Luis Alberto Benthin Sanguino et.al.|[1705.05347](http://arxiv.org/abs/1705.05347)|null|
 |**2012-09-28**|**Vulnerability Management for an Enterprise Resource Planning System**|Shivani Goel et.al.|[1209.6484](http://arxiv.org/abs/1209.6484)|null|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## Regression Bugs/Bug Inducing Commit
 
@@ -138,7 +139,7 @@
 |**2021-01-21**|**TAOS-CI: Lightweight & Modular Continuous Integration System for Edge Computing**|Geunsik Lim et.al.|[2101.08889](http://arxiv.org/abs/2101.08889)|null|
 |**2015-05-06**|**Localization of real world regression Bugs using single execution**|Dekel Cohen et.al.|[1505.01286](http://arxiv.org/abs/1505.01286)|null|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## Defect Prediction
 
@@ -170,7 +171,7 @@
 |**2022-03-07**|**Online Adaptable Bug Localization for Rapidly Evolving Software**|Agnieszka Ciborowska et.al.|[2203.03544](http://arxiv.org/abs/2203.03544)|**[link](https://github.com/aciborowska/jingo)**|
 |**2022-04-30**|**ApacheJIT: A Large Dataset for Just-In-Time Defect Prediction**|Hossein Keshavarz et.al.|[2203.00101](http://arxiv.org/abs/2203.00101)|null|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
 ## Bug Explanation
 
@@ -179,5 +180,37 @@
 |**2023-03-15**|**Defectors: A Large, Diverse Python Dataset for Defect Prediction**|Parvez Mahbub et.al.|[2303.04738](http://arxiv.org/abs/2303.04738)|null|
 |**2016-10-27**|**Learning Likely Invariants to Explain Why a Program Fails**|Jun Sun et.al.|[1610.08607](http://arxiv.org/abs/1610.08607)|null|
 
-<p align=right>(<a href=#Updated-on-20230402>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
+
+## Code Summarization
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2023-03-28**|**Label Smoothing Improves Neural Source Code Summarization**|Sakib Haque et.al.|[2303.16178](http://arxiv.org/abs/2303.16178)|null|
+|**2023-03-28**|**One Adapter for All Programming Languages? Adapter Tuning for Code Search and Summarization**|Deze Wang et.al.|[2303.15822](http://arxiv.org/abs/2303.15822)|**[link](https://github.com/wangdeze18/multilingual-adapter-for-se)**|
+|**2023-03-16**|**Can Generative Pre-trained Transformers (GPT) Pass Assessments in Higher Education Programming Courses?**|Jaromir Savelka et.al.|[2303.09325](http://arxiv.org/abs/2303.09325)|null|
+|**2023-03-16**|**Exploring Distributional Shifts in Large Language Models for Code Analysis**|Shushan Arakelyan et.al.|[2303.09128](http://arxiv.org/abs/2303.09128)|null|
+|**2023-03-09**|**Large Language Models (GPT) Struggle to Answer Multiple-Choice Questions about Code**|Jaromir Savelka et.al.|[2303.08033](http://arxiv.org/abs/2303.08033)|null|
+|**2023-03-10**|**Model-Agnostic Syntactical Information for Pre-Trained Programming Language Models**|Iman Saberi et.al.|[2303.06233](http://arxiv.org/abs/2303.06233)|null|
+|**2023-03-09**|**Greener yet Powerful: Taming Large Code Generation Models with Quantization**|Xiaokai Wei et.al.|[2303.05378](http://arxiv.org/abs/2303.05378)|null|
+|**2023-03-15**|**Defectors: A Large, Diverse Python Dataset for Defect Prediction**|Parvez Mahbub et.al.|[2303.04738](http://arxiv.org/abs/2303.04738)|null|
+|**2023-03-04**|**Demystifying What Code Summarization Models Learned**|Yu Wang et.al.|[2303.02333](http://arxiv.org/abs/2303.02333)|null|
+|**2023-02-08**|**Automating Code-Related Tasks Through Transformers: The Impact of Pre-training**|Rosalia Tufano et.al.|[2302.04048](http://arxiv.org/abs/2302.04048)|**[link](https://github.com/rosaliatufano/impact_pre-training)**|
+|**2023-02-07**|**Keeping Pace with Ever-Increasing Data: Towards Continual Learning of Code Intelligence Models**|Shuzheng Gao et.al.|[2302.03482](http://arxiv.org/abs/2302.03482)|**[link](https://github.com/reliablecoding/repeat)**|
+|**2023-01-06**|**Stealthy Backdoor Attack for Code Models**|Zhou Yang et.al.|[2301.02496](http://arxiv.org/abs/2301.02496)|null|
+|**2022-12-20**|**A Survey on Pretrained Language Models for Neural Code Intelligence**|Yichen Xu et.al.|[2212.10079](http://arxiv.org/abs/2212.10079)|null|
+|**2022-12-13**|**ERNIE-Code: Beyond English-Centric Cross-lingual Pretraining for Programming Languages**|Yekun Chai et.al.|[2212.06742](http://arxiv.org/abs/2212.06742)|null|
+|**2022-12-09**|**Automatically Generating CS Learning Materials with Large Language Models**|Stephen MacNeil et.al.|[2212.05113](http://arxiv.org/abs/2212.05113)|null|
+|**2022-11-25**|**CodeExp: Explanatory Code Document Generation**|Haotian Cui et.al.|[2211.15395](http://arxiv.org/abs/2211.15395)|**[link](https://github.com/subercui/codeexp)**|
+|**2023-03-03**|**CLAWSAT: Towards Both Robust and Accurate Code Models**|Jinghan Jia et.al.|[2211.11711](http://arxiv.org/abs/2211.11711)|**[link](https://github.com/optml-group/claw-sat)**|
+|**2022-11-19**|**Do Pre-trained Language Models Indeed Understand Software Engineering Tasks?**|Yao Li et.al.|[2211.10623](http://arxiv.org/abs/2211.10623)|null|
+|**2022-11-04**|**Experiences from Using Code Explanations Generated by Large Language Models in a Web Software Development E-Book**|Stephen MacNeil et.al.|[2211.02265](http://arxiv.org/abs/2211.02265)|null|
+|**2022-10-21**|**Low-Resources Project-Specific Code Summarization**|Rui Xie et.al.|[2210.11843](http://arxiv.org/abs/2210.11843)|**[link](https://github.com/pkuserc/mpcos_ase2022)**|
+|**2022-09-21**|**Extreme Multi-Domain, Multi-Task Learning With Unified Text-to-Text Transfer Transformers**|Adebayo Oshingbesan et.al.|[2209.10106](http://arxiv.org/abs/2209.10106)|**[link](https://github.com/dehbaiyor/idlfall2021project)**|
+|**2022-09-19**|**MMF3: Neural Code Summarization Based on Multi-Modal Fine-Grained Feature Fusion**|Zheng Ma et.al.|[2209.08978](http://arxiv.org/abs/2209.08978)|**[link](https://github.com/transm2/mmf3)**|
+|**2022-08-26**|**Towards Code Summarization of APIs Using NLP Techniques**|AmirHossein Naghshzan et.al.|[2208.06318](http://arxiv.org/abs/2208.06318)|null|
+|**2022-07-24**|**No More Fine-Tuning? An Experimental Evaluation of Prompt Tuning in Code Intelligence**|Chaozheng Wang et.al.|[2207.11680](http://arxiv.org/abs/2207.11680)|**[link](https://github.com/adf1178/pt4code)**|
+|**2022-10-16**|**Are We Building on the Rock? On the Importance of Data Preprocessing for Code Summarization**|Lin Shi et.al.|[2207.05579](http://arxiv.org/abs/2207.05579)|**[link](https://github.com/builtontherock/fse22_builtontherock)**|
+
+<p align=right>(<a href=#Updated-on-20230403>back to top</a>)</p>
 
