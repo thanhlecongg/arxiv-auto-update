@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-03-31**|**A Survey on Automated Program Repair Techniques**|Kai Huang et.al.|[2303.18184](http://arxiv.org/abs/2303.18184)|null|
 |**2023-03-18**|**Revisiting the Plastic Surgery Hypothesis via Large Language Models**|Chunqiu Steven Xia et.al.|[2303.10494](http://arxiv.org/abs/2303.10494)|null|
 |**2023-03-13**|**InferFix: End-to-End Program Repair with LLMs**|Matthew Jin et.al.|[2303.07263](http://arxiv.org/abs/2303.07263)|null|
 |**2023-03-01**|**The Inversive Relationship Between Bugs and Patches: An Empirical Study**|Jinhan Kim et.al.|[2303.00303](http://arxiv.org/abs/2303.00303)|null|
