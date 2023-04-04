@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-03**|**RunBugRun -- An Executable Dataset for Automated Program Repair**|Julian Aron Prenner et.al.|[2304.01102](http://arxiv.org/abs/2304.01102)|null|
+|**2023-04-01**|**Keep the Conversation Going: Fixing 162 out of 337 bugs for $0.42 each using ChatGPT**|Chunqiu Steven Xia et.al.|[2304.00385](http://arxiv.org/abs/2304.00385)|null|
 |**2023-03-31**|**A Survey on Automated Program Repair Techniques**|Kai Huang et.al.|[2303.18184](http://arxiv.org/abs/2303.18184)|null|
 |**2023-03-18**|**Revisiting the Plastic Surgery Hypothesis via Large Language Models**|Chunqiu Steven Xia et.al.|[2303.10494](http://arxiv.org/abs/2303.10494)|null|
 |**2023-03-13**|**InferFix: End-to-End Program Repair with LLMs**|Matthew Jin et.al.|[2303.07263](http://arxiv.org/abs/2303.07263)|null|
