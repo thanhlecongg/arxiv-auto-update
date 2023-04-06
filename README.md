@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-05**|**FPGA-Patch: Mitigating Remote Side-Channel Attacks on FPGAs using Dynamic Patch Generation**|Mahya Morid Ahmadi et.al.|[2304.02510](http://arxiv.org/abs/2304.02510)|null|
+|**2023-04-05**|**MUFIN: Improving Neural Repair Models with Back-Translation**|André Silva et.al.|[2304.02301](http://arxiv.org/abs/2304.02301)|null|
+|**2023-04-05**|**Explainable Automated Debugging via Large Language Model-driven Scientific Debugging**|Sungmin Kang et.al.|[2304.02195](http://arxiv.org/abs/2304.02195)|null|
 |**2023-04-03**|**RunBugRun -- An Executable Dataset for Automated Program Repair**|Julian Aron Prenner et.al.|[2304.01102](http://arxiv.org/abs/2304.01102)|null|
 |**2023-04-01**|**Keep the Conversation Going: Fixing 162 out of 337 bugs for $0.42 each using ChatGPT**|Chunqiu Steven Xia et.al.|[2304.00385](http://arxiv.org/abs/2304.00385)|null|
 |**2023-04-05**|**A Survey on Automated Program Repair Techniques**|Kai Huang et.al.|[2303.18184](http://arxiv.org/abs/2303.18184)|**[link](https://github.com/huangknipc/apr-survey)**|
