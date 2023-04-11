@@ -152,6 +152,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-10**|**In-situ crack and keyhole pore detection in laser directed energy deposition through acoustic signal and deep learning**|Lequn Chen et.al.|[2304.04598](http://arxiv.org/abs/2304.04598)|null|
 |**2023-03-15**|**Defectors: A Large, Diverse Python Dataset for Defect Prediction**|Parvez Mahbub et.al.|[2303.04738](http://arxiv.org/abs/2303.04738)|null|
 |**2023-02-13**|**A Systematic Literature Review of Explainable AI for Software Engineering**|Ahmad Haji Mohammadkhani et.al.|[2302.06065](http://arxiv.org/abs/2302.06065)|null|
 |**2023-02-08**|**CCRep: Learning Code Change Representations via Pre-Trained Code Model and Query Back**|Zhongxin Liu et.al.|[2302.03924](http://arxiv.org/abs/2302.03924)|**[link](https://github.com/zju-ctag/ccrep)**|
@@ -193,6 +194,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-08**|**Comparing Code Explanations Created by Students and Large Language Models**|Juho Leinonen et.al.|[2304.03938](http://arxiv.org/abs/2304.03938)|null|
 |**2023-04-02**|**Better Language Models of Code through Self-Improvement**|Hung Quoc To et.al.|[2304.01228](http://arxiv.org/abs/2304.01228)|null|
 |**2023-03-28**|**Label Smoothing Improves Neural Source Code Summarization**|Sakib Haque et.al.|[2303.16178](http://arxiv.org/abs/2303.16178)|null|
 |**2023-03-28**|**One Adapter for All Programming Languages? Adapter Tuning for Code Search and Summarization**|Deze Wang et.al.|[2303.15822](http://arxiv.org/abs/2303.15822)|**[link](https://github.com/wangdeze18/multilingual-adapter-for-se)**|
