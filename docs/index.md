@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-11**|**Teaching Large Language Models to Self-Debug**|Xinyun Chen et.al.|[2304.05128](http://arxiv.org/abs/2304.05128)|null|
+|**2023-04-11**|**A Data Set of Generalizable Python Code Change Patterns**|Akalanka Galappaththi et.al.|[2304.04983](http://arxiv.org/abs/2304.04983)|null|
 |**2023-04-05**|**FPGA-Patch: Mitigating Remote Side-Channel Attacks on FPGAs using Dynamic Patch Generation**|Mahya Morid Ahmadi et.al.|[2304.02510](http://arxiv.org/abs/2304.02510)|null|
 |**2023-04-05**|**MUFIN: Improving Neural Repair Models with Back-Translation**|André Silva et.al.|[2304.02301](http://arxiv.org/abs/2304.02301)|**[link](https://github.com/andre15silva/mufin)**|
 |**2023-04-05**|**Explainable Automated Debugging via Large Language Model-driven Scientific Debugging**|Sungmin Kang et.al.|[2304.02195](http://arxiv.org/abs/2304.02195)|null|
@@ -170,6 +172,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-11**|**Evaluating AIGC Detectors on Code Content**|Jian Wang et.al.|[2304.05193](http://arxiv.org/abs/2304.05193)|null|
+|**2023-04-11**|**Teaching Large Language Models to Self-Debug**|Xinyun Chen et.al.|[2304.05128](http://arxiv.org/abs/2304.05128)|null|
 |**2023-04-08**|**Comparing Code Explanations Created by Students and Large Language Models**|Juho Leinonen et.al.|[2304.03938](http://arxiv.org/abs/2304.03938)|null|
 |**2023-04-02**|**Better Language Models of Code through Self-Improvement**|Hung Quoc To et.al.|[2304.01228](http://arxiv.org/abs/2304.01228)|null|
 |**2023-03-28**|**Label Smoothing Improves Neural Source Code Summarization**|Sakib Haque et.al.|[2303.16178](http://arxiv.org/abs/2303.16178)|null|
