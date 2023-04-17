@@ -172,6 +172,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-13**|**Improving Few-Shot Prompts with Relevant Static Analysis Products**|Toufique Ahmed et.al.|[2304.06815](http://arxiv.org/abs/2304.06815)|null|
 |**2023-04-11**|**Evaluating AIGC Detectors on Code Content**|Jian Wang et.al.|[2304.05193](http://arxiv.org/abs/2304.05193)|null|
 |**2023-04-11**|**Teaching Large Language Models to Self-Debug**|Xinyun Chen et.al.|[2304.05128](http://arxiv.org/abs/2304.05128)|null|
 |**2023-04-08**|**Comparing Code Explanations Created by Students and Large Language Models**|Juho Leinonen et.al.|[2304.03938](http://arxiv.org/abs/2304.03938)|null|
