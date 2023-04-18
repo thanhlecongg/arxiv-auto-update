@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-17**|**A study on Prompt Design, Advantages and Limitations of ChatGPT for Deep Learning Program Repair**|Jialun Cao et.al.|[2304.08191](http://arxiv.org/abs/2304.08191)|null|
+|**2023-04-16**|**Automated Program Repair Based on Code Review: How do Pre-trained Transformer Models Perform?**|Rishov Paul et.al.|[2304.07840](http://arxiv.org/abs/2304.07840)|null|
 |**2023-04-11**|**Teaching Large Language Models to Self-Debug**|Xinyun Chen et.al.|[2304.05128](http://arxiv.org/abs/2304.05128)|null|
 |**2023-04-11**|**A Data Set of Generalizable Python Code Change Patterns**|Akalanka Galappaththi et.al.|[2304.04983](http://arxiv.org/abs/2304.04983)|null|
 |**2023-04-05**|**FPGA-Patch: Mitigating Remote Side-Channel Attacks on FPGAs using Dynamic Patch Generation**|Mahya Morid Ahmadi et.al.|[2304.02510](http://arxiv.org/abs/2304.02510)|null|
@@ -196,6 +198,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-15**|**Constructing Effective In-Context Demonstration for Code Intelligence Tasks: An Empirical Study**|Shuzheng Gao et.al.|[2304.07575](http://arxiv.org/abs/2304.07575)|null|
 |**2023-04-13**|**Improving Few-Shot Prompts with Relevant Static Analysis Products**|Toufique Ahmed et.al.|[2304.06815](http://arxiv.org/abs/2304.06815)|null|
 |**2023-04-11**|**Evaluating AIGC Detectors on Code Content**|Jian Wang et.al.|[2304.05193](http://arxiv.org/abs/2304.05193)|null|
 |**2023-04-11**|**Teaching Large Language Models to Self-Debug**|Xinyun Chen et.al.|[2304.05128](http://arxiv.org/abs/2304.05128)|null|
