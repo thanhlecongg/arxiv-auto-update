@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-04-20**|**Fully Autonomous Programming with Large Language Models**|Vadim Liventsev et.al.|[2304.10423](http://arxiv.org/abs/2304.10423)|null|
 |**2023-04-17**|**A study on Prompt Design, Advantages and Limitations of ChatGPT for Deep Learning Program Repair**|Jialun Cao et.al.|[2304.08191](http://arxiv.org/abs/2304.08191)|null|
 |**2023-04-16**|**Automated Program Repair Based on Code Review: How do Pre-trained Transformer Models Perform?**|Rishov Paul et.al.|[2304.07840](http://arxiv.org/abs/2304.07840)|null|
 |**2023-04-11**|**Teaching Large Language Models to Self-Debug**|Xinyun Chen et.al.|[2304.05128](http://arxiv.org/abs/2304.05128)|null|
