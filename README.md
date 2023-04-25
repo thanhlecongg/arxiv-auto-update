@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-24**|**ITER: Iterative Neural Repair for Multi-Location Patches**|He Ye et.al.|[2304.12015](http://arxiv.org/abs/2304.12015)|null|
+|**2023-04-24**|**Is ChatGPT the Ultimate Programming Assistant -- How far is it?**|Haoye Tian et.al.|[2304.11938](http://arxiv.org/abs/2304.11938)|null|
 |**2023-04-20**|**Fully Autonomous Programming with Large Language Models**|Vadim Liventsev et.al.|[2304.10423](http://arxiv.org/abs/2304.10423)|null|
 |**2023-04-17**|**A study on Prompt Design, Advantages and Limitations of ChatGPT for Deep Learning Program Repair**|Jialun Cao et.al.|[2304.08191](http://arxiv.org/abs/2304.08191)|null|
 |**2023-04-16**|**Automated Program Repair Based on Code Review: How do Pre-trained Transformer Models Perform?**|Rishov Paul et.al.|[2304.07840](http://arxiv.org/abs/2304.07840)|null|
@@ -200,6 +202,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-04-24**|**Is ChatGPT the Ultimate Programming Assistant -- How far is it?**|Haoye Tian et.al.|[2304.11938](http://arxiv.org/abs/2304.11938)|null|
 |**2023-04-15**|**Constructing Effective In-Context Demonstration for Code Intelligence Tasks: An Empirical Study**|Shuzheng Gao et.al.|[2304.07575](http://arxiv.org/abs/2304.07575)|null|
 |**2023-04-13**|**Improving Few-Shot Prompts with Relevant Static Analysis Products**|Toufique Ahmed et.al.|[2304.06815](http://arxiv.org/abs/2304.06815)|null|
 |**2023-04-11**|**Evaluating AIGC Detectors on Code Content**|Jian Wang et.al.|[2304.05193](http://arxiv.org/abs/2304.05193)|null|
