@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-06**|**Accelerating Patch Validation for Program Repair with Interception-Based Execution Scheduling**|Yuan-An Xiao et.al.|[2305.03955](http://arxiv.org/abs/2305.03955)|null|
 |**2023-04-25**|**TraceFixer: Execution Trace-Driven Program Repair**|Islem Bouzenia et.al.|[2304.12743](http://arxiv.org/abs/2304.12743)|null|
 |**2023-04-24**|**ITER: Iterative Neural Repair for Multi-Location Patches**|He Ye et.al.|[2304.12015](http://arxiv.org/abs/2304.12015)|null|
 |**2023-04-24**|**Is ChatGPT the Ultimate Programming Assistant -- How far is it?**|Haoye Tian et.al.|[2304.11938](http://arxiv.org/abs/2304.11938)|null|
@@ -56,6 +57,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-06**|**Accelerating Patch Validation for Program Repair with Interception-Based Execution Scheduling**|Yuan-An Xiao et.al.|[2305.03955](http://arxiv.org/abs/2305.03955)|null|
 |**2023-03-10**|**Self-supervised Training Sample Difficulty Balancing for Local Descriptor Learning**|Jiahan Zhang et.al.|[2303.06124](http://arxiv.org/abs/2303.06124)|null|
 |**2023-01-29**|**Boosting Automated Patch Correctness Prediction via Pre-trained Language Model**|Quanjun Zhang et.al.|[2301.12453](http://arxiv.org/abs/2301.12453)|null|
 |**2023-01-09**|**A Survey of Learning-based Automated Program Repair**|Quanjun Zhang et.al.|[2301.03270](http://arxiv.org/abs/2301.03270)|**[link](https://github.com/quanjunzhang/awesomelearningapr)**|
@@ -141,7 +143,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-05-05**|**Data Complexity: A New Perspective for Analyzing the Difficulty of Defect Prediction Tasks**|Xiaohui Wan et.al.|[2305.03615](http://arxiv.org/abs/2305.03615)|null|
+|**2023-05-05**|**Data Complexity: A New Perspective for Analyzing the Difficulty of Defect Prediction Tasks**|Xiaohui Wan et.al.|[2305.03615](http://arxiv.org/abs/2305.03615)|**[link](https://github.com/wan-xiaohui/dc4sdp)**|
 |**2023-04-10**|**In-situ crack and keyhole pore detection in laser directed energy deposition through acoustic signal and deep learning**|Lequn Chen et.al.|[2304.04598](http://arxiv.org/abs/2304.04598)|null|
 |**2023-04-11**|**Defectors: A Large, Diverse Python Dataset for Defect Prediction**|Parvez Mahbub et.al.|[2303.04738](http://arxiv.org/abs/2303.04738)|null|
 |**2023-02-13**|**A Systematic Literature Review of Explainable AI for Software Engineering**|Ahmad Haji Mohammadkhani et.al.|[2302.06065](http://arxiv.org/abs/2302.06065)|null|
