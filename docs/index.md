@@ -105,6 +105,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-23**|**Adversarial Machine Learning and Cybersecurity: Risks, Challenges, and Legal Implications**|Micah Musser et.al.|[2305.14553](http://arxiv.org/abs/2305.14553)|null|
 |**2023-04-18**|**An Analysis of How Many Undiscovered Vulnerabilities Remain in Information Systems**|Jonathan M Spring et.al.|[2304.09259](http://arxiv.org/abs/2304.09259)|null|
 |**2023-04-04**|**A Static Analysis Platform for Investigating Security Trends in Repositories**|Tim Sonnekalb et.al.|[2304.01725](http://arxiv.org/abs/2304.01725)|**[link](https://gitlab.com/dlr-dw/sast-tool-platform)**|
 |**2023-03-05**|**Understanding Bugs in Multi-Language Deep Learning Frameworks**|Zengyang Li et.al.|[2303.02695](http://arxiv.org/abs/2303.02695)|null|
