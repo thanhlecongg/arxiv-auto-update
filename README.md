@@ -166,6 +166,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-06**|**Detecting Concept Drift for the reliability prediction of Software Defects using Instance Interpretation**|Zeynab Chitsazian et.al.|[2305.16323](http://arxiv.org/abs/2305.16323)|null|
 |**2023-05-23**|**Multimodal sensor fusion for real-time location-dependent defect detection in laser-directed energy deposition**|Lequn Chen et.al.|[2305.13596](http://arxiv.org/abs/2305.13596)|null|
 |**2023-05-05**|**Data Complexity: A New Perspective for Analyzing the Difficulty of Defect Prediction Tasks**|Xiaohui Wan et.al.|[2305.03615](http://arxiv.org/abs/2305.03615)|**[link](https://github.com/wan-xiaohui/dc4sdp)**|
 |**2023-04-10**|**In-situ crack and keyhole pore detection in laser directed energy deposition through acoustic signal and deep learning**|Lequn Chen et.al.|[2304.04598](http://arxiv.org/abs/2304.04598)|null|
