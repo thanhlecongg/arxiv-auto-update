@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-29**|**How Effective Are Neural Networks for Fixing Security Vulnerabilities**|Yi Wu et.al.|[2305.18607](http://arxiv.org/abs/2305.18607)|null|
 |**2023-05-16**|**Neural Program Repair with Program Dependence Analysis and Effective Filter Mechanism**|Yuwei Zhang et.al.|[2305.09315](http://arxiv.org/abs/2305.09315)|null|
 |**2023-05-12**|**Where to Look When Repairing Code? Comparing the Attention of Neural Models and Developers**|Dominik Huber et.al.|[2305.07287](http://arxiv.org/abs/2305.07287)|null|
 |**2023-05-06**|**Accelerating Patch Validation for Program Repair with Interception-Based Execution Scheduling**|Yuan-An Xiao et.al.|[2305.03955](http://arxiv.org/abs/2305.03955)|null|
