@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.05.31
+## Updated on 2023.06.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
