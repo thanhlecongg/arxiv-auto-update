@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Majority Rule: better patching via Self-Consistency**|Toufique Ahmed et.al.|[2306.00108](http://arxiv.org/abs/2306.00108)|null|
 |**2023-05-29**|**How Effective Are Neural Networks for Fixing Security Vulnerabilities**|Yi Wu et.al.|[2305.18607](http://arxiv.org/abs/2305.18607)|null|
 |**2023-05-16**|**Neural Program Repair with Program Dependence Analysis and Effective Filter Mechanism**|Yuwei Zhang et.al.|[2305.09315](http://arxiv.org/abs/2305.09315)|null|
 |**2023-05-12**|**Where to Look When Repairing Code? Comparing the Attention of Neural Models and Developers**|Dominik Huber et.al.|[2305.07287](http://arxiv.org/abs/2305.07287)|null|
@@ -147,6 +148,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-05-31**|**Building Manufacturing Deep Learning Models with Minimal and Imbalanced Training Data Using Domain Adaptation and Data Augmentation**|Adrian Shuai Li et.al.|[2306.00202](http://arxiv.org/abs/2306.00202)|null|
 |**2023-05-06**|**Detecting Concept Drift for the reliability prediction of Software Defects using Instance Interpretation**|Zeynab Chitsazian et.al.|[2305.16323](http://arxiv.org/abs/2305.16323)|null|
 |**2023-05-23**|**Multimodal sensor fusion for real-time location-dependent defect detection in laser-directed energy deposition**|Lequn Chen et.al.|[2305.13596](http://arxiv.org/abs/2305.13596)|null|
 |**2023-05-05**|**Data Complexity: A New Perspective for Analyzing the Difficulty of Defect Prediction Tasks**|Xiaohui Wan et.al.|[2305.03615](http://arxiv.org/abs/2305.03615)|**[link](https://github.com/wan-xiaohui/dc4sdp)**|
