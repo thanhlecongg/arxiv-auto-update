@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-02**|**Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors**|Yun Peng et.al.|[2306.01394](http://arxiv.org/abs/2306.01394)|null|
 |**2023-05-31**|**Majority Rule: better patching via Self-Consistency**|Toufique Ahmed et.al.|[2306.00108](http://arxiv.org/abs/2306.00108)|null|
 |**2023-05-29**|**How Effective Are Neural Networks for Fixing Security Vulnerabilities**|Yi Wu et.al.|[2305.18607](http://arxiv.org/abs/2305.18607)|null|
 |**2023-05-16**|**Neural Program Repair with Program Dependence Analysis and Effective Filter Mechanism**|Yuwei Zhang et.al.|[2305.09315](http://arxiv.org/abs/2305.09315)|null|
@@ -190,6 +191,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-02**|**Active Code Learning: Benchmarking Sample-Efficient Training of Code Models**|Qiang Hu et.al.|[2306.01250](http://arxiv.org/abs/2306.01250)|null|
 |**2023-05-22**|**Automatic Code Summarization via ChatGPT: How Far Are We?**|Weisong Sun et.al.|[2305.12865](http://arxiv.org/abs/2305.12865)|null|
 |**2023-05-18**|**Tram: A Token-level Retrieval-augmented Mechanism for Source Code Summarization**|Tong Ye et.al.|[2305.11074](http://arxiv.org/abs/2305.11074)|null|
 |**2023-05-16**|**Towards Modeling Human Attention from Eye Movements for Neural Source Code Summarization**|Aakash Bansal et.al.|[2305.09773](http://arxiv.org/abs/2305.09773)|null|
