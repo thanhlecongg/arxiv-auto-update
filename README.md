@@ -19,7 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-06-02**|**Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors**|Yun Peng et.al.|[2306.01394](http://arxiv.org/abs/2306.01394)|null|
+|**2023-06-04**|**Towards Efficient Controller Synthesis Techniques for Logical LTL Games**|Stanly Samuel et.al.|[2306.02427](http://arxiv.org/abs/2306.02427)|null|
+|**2023-06-02**|**Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors**|Yun Peng et.al.|[2306.01394](http://arxiv.org/abs/2306.01394)|**[link](https://github.com/johnnypeng18/typefix)**|
 |**2023-05-31**|**Majority Rule: better patching via Self-Consistency**|Toufique Ahmed et.al.|[2306.00108](http://arxiv.org/abs/2306.00108)|null|
 |**2023-05-29**|**How Effective Are Neural Networks for Fixing Security Vulnerabilities**|Yi Wu et.al.|[2305.18607](http://arxiv.org/abs/2305.18607)|null|
 |**2023-05-16**|**Neural Program Repair with Program Dependence Analysis and Effective Filter Mechanism**|Yuwei Zhang et.al.|[2305.09315](http://arxiv.org/abs/2305.09315)|null|
