@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-06-10**|**Automated Code Editing with Search-Generate-Modify**|Changshu Liu et.al.|[2306.06490](http://arxiv.org/abs/2306.06490)|null|
 |**2023-06-09**|**Reinforcement Learning for Mutation Operator Selection in Automated Program Repair**|Carol Hanna et.al.|[2306.05792](http://arxiv.org/abs/2306.05792)|null|
 |**2023-06-04**|**Towards Efficient Controller Synthesis Techniques for Logical LTL Games**|Stanly Samuel et.al.|[2306.02427](http://arxiv.org/abs/2306.02427)|null|
 |**2023-06-02**|**Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors**|Yun Peng et.al.|[2306.01394](http://arxiv.org/abs/2306.01394)|**[link](https://github.com/johnnypeng18/typefix)**|
