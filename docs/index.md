@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.06.15
+## Updated on 2023.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -199,7 +199,7 @@ layout: default
 |**2023-05-22**|**Automatic Code Summarization via ChatGPT: How Far Are We?**|Weisong Sun et.al.|[2305.12865](http://arxiv.org/abs/2305.12865)|null|
 |**2023-05-18**|**Tram: A Token-level Retrieval-augmented Mechanism for Source Code Summarization**|Tong Ye et.al.|[2305.11074](http://arxiv.org/abs/2305.11074)|null|
 |**2023-05-16**|**Towards Modeling Human Attention from Eye Movements for Neural Source Code Summarization**|Aakash Bansal et.al.|[2305.09773](http://arxiv.org/abs/2305.09773)|null|
-|**2023-05-03**|**GPTutor: a ChatGPT-powered programming tool for code explanation**|Eason Chen et.al.|[2305.01863](http://arxiv.org/abs/2305.01863)|null|
+|**2023-06-15**|**GPTutor: a ChatGPT-powered programming tool for code explanation**|Eason Chen et.al.|[2305.01863](http://arxiv.org/abs/2305.01863)|**[link](https://github.com/rayhuang880301/gptutor-extension)**|
 |**2023-04-24**|**Is ChatGPT the Ultimate Programming Assistant -- How far is it?**|Haoye Tian et.al.|[2304.11938](http://arxiv.org/abs/2304.11938)|null|
 |**2023-04-15**|**Constructing Effective In-Context Demonstration for Code Intelligence Tasks: An Empirical Study**|Shuzheng Gao et.al.|[2304.07575](http://arxiv.org/abs/2304.07575)|null|
 |**2023-04-13**|**Improving Few-Shot Prompts with Relevant Static Analysis Products**|Toufique Ahmed et.al.|[2304.06815](http://arxiv.org/abs/2304.06815)|null|
