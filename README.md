@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-05**|**An Exploratory Literature Study on Sharing and Energy Use of Language Models for Source Code**|Max Hort et.al.|[2307.02443](http://arxiv.org/abs/2307.02443)|null|
 |**2023-06-10**|**Automated Code Editing with Search-Generate-Modify**|Changshu Liu et.al.|[2306.06490](http://arxiv.org/abs/2306.06490)|**[link](https://github.com/sargamteam/sargam)**|
 |**2023-06-09**|**Reinforcement Learning for Mutation Operator Selection in Automated Program Repair**|Carol Hanna et.al.|[2306.05792](http://arxiv.org/abs/2306.05792)|null|
 |**2023-06-04**|**Towards Efficient Controller Synthesis Techniques for Logical LTL Games**|Stanly Samuel et.al.|[2306.02427](http://arxiv.org/abs/2306.02427)|null|
