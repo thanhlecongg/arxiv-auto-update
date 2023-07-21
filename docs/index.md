@@ -155,6 +155,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-19**|**Imperfections are not 0 K: free energy of point defects in crystals**|Irea Mosquera-Lois et.al.|[2307.10451](http://arxiv.org/abs/2307.10451)|null|
 |**2023-06-27**|**A Meta-analytical Comparison of Naive Bayes and Random Forest for Software Defect Prediction**|Ch Muhammad Awais et.al.|[2306.15369](http://arxiv.org/abs/2306.15369)|**[link](https://github.com/cm-awais/sdp_nb_rf_meta_analysis)**|
 |**2023-06-14**|**Explainable Software Defect Prediction from Cross Company Project Metrics Using Machine Learning**|Susmita Haldar et.al.|[2306.08655](http://arxiv.org/abs/2306.08655)|null|
 |**2023-05-31**|**Building Manufacturing Deep Learning Models with Minimal and Imbalanced Training Data Using Domain Adaptation and Data Augmentation**|Adrian Shuai Li et.al.|[2306.00202](http://arxiv.org/abs/2306.00202)|null|
