@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Exploring Security Commits in Python**|Shiyu Sun et.al.|[2307.11853](http://arxiv.org/abs/2307.11853)|null|
 |**2023-07-14**|**Software Testing with Large Language Model: Survey, Landscape, and Vision**|Junjie Wang et.al.|[2307.07221](http://arxiv.org/abs/2307.07221)|null|
 |**2023-07-11**|**Tests4Py: A Benchmark for System Testing**|Marius Smytzek et.al.|[2307.05147](http://arxiv.org/abs/2307.05147)|null|
 |**2023-07-05**|**An Exploratory Literature Study on Sharing and Energy Use of Language Models for Source Code**|Max Hort et.al.|[2307.02443](http://arxiv.org/abs/2307.02443)|null|
@@ -155,6 +156,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-23**|**Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems**|Ray Islam et.al.|[2307.12237](http://arxiv.org/abs/2307.12237)|null|
 |**2023-07-19**|**Imperfections are not 0 K: free energy of point defects in crystals**|Irea Mosquera-Lois et.al.|[2307.10451](http://arxiv.org/abs/2307.10451)|null|
 |**2023-06-27**|**A Meta-analytical Comparison of Naive Bayes and Random Forest for Software Defect Prediction**|Ch Muhammad Awais et.al.|[2306.15369](http://arxiv.org/abs/2306.15369)|**[link](https://github.com/cm-awais/sdp_nb_rf_meta_analysis)**|
 |**2023-06-14**|**Explainable Software Defect Prediction from Cross Company Project Metrics Using Machine Learning**|Susmita Haldar et.al.|[2306.08655](http://arxiv.org/abs/2306.08655)|null|
@@ -200,7 +202,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-21**|**Statement-based Memory for Neural Source Code Summarization**|Aakash Bansal et.al.|[2307.11709](http://arxiv.org/abs/2307.11709)|null|
+|**2023-07-21**|**Statement-based Memory for Neural Source Code Summarization**|Aakash Bansal et.al.|[2307.11709](http://arxiv.org/abs/2307.11709)|**[link](https://github.com/aakashba/smncode2022)**|
 |**2023-07-18**|**An Empirical Study on the Effectiveness of Noisy Label Learning for Program Understanding**|Wenhan Wang et.al.|[2307.08990](http://arxiv.org/abs/2307.08990)|null|
 |**2023-07-17**|**Utilization of Pre-trained Language Model for Adapter-based Knowledge Transfer in Software Engineering**|Iman Saberi et.al.|[2307.08540](http://arxiv.org/abs/2307.08540)|null|
 |**2023-07-15**|**Multilingual Adapter-based Knowledge Aggregation on Code Summarization for Low-Resource Languages**|Iman Saberi et.al.|[2307.07854](http://arxiv.org/abs/2307.07854)|null|
