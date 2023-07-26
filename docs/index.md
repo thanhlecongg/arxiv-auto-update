@@ -9,7 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-07-21**|**Exploring Security Commits in Python**|Shiyu Sun et.al.|[2307.11853](http://arxiv.org/abs/2307.11853)|null|
+|**2023-07-24**|**Graph Neural Networks For Mapping Variables Between Programs -- Extended Version**|Pedro Orvalho et.al.|[2307.13014](http://arxiv.org/abs/2307.13014)|**[link](https://github.com/pmorvalho/ecai23-gnns-for-mapping-variables-between-programs)**|
+|**2023-07-21**|**Exploring Security Commits in Python**|Shiyu Sun et.al.|[2307.11853](http://arxiv.org/abs/2307.11853)|**[link](https://github.com/sunlab-gmu/pysecdb)**|
 |**2023-07-14**|**Software Testing with Large Language Model: Survey, Landscape, and Vision**|Junjie Wang et.al.|[2307.07221](http://arxiv.org/abs/2307.07221)|null|
 |**2023-07-11**|**Tests4Py: A Benchmark for System Testing**|Marius Smytzek et.al.|[2307.05147](http://arxiv.org/abs/2307.05147)|null|
 |**2023-07-05**|**An Exploratory Literature Study on Sharing and Energy Use of Language Models for Source Code**|Max Hort et.al.|[2307.02443](http://arxiv.org/abs/2307.02443)|null|
