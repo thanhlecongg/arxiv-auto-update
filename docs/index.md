@@ -157,6 +157,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-31**|**Investigating and Improving Latent Density Segmentation Models for Aleatoric Uncertainty Quantification in Medical Imaging**|M. M. Amaan Valiuddin et.al.|[2307.16694](http://arxiv.org/abs/2307.16694)|null|
 |**2023-07-23**|**Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems**|Ray Islam et.al.|[2307.12237](http://arxiv.org/abs/2307.12237)|null|
 |**2023-07-19**|**Imperfections are not 0 K: free energy of point defects in crystals**|Irea Mosquera-Lois et.al.|[2307.10451](http://arxiv.org/abs/2307.10451)|null|
 |**2023-06-27**|**A Meta-analytical Comparison of Naive Bayes and Random Forest for Software Defect Prediction**|Ch Muhammad Awais et.al.|[2306.15369](http://arxiv.org/abs/2306.15369)|**[link](https://github.com/cm-awais/sdp_nb_rf_meta_analysis)**|
