@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Program Repair by Fuzzing over Patch and Input Space**|Yuntong Zhang et.al.|[2308.00666](http://arxiv.org/abs/2308.00666)|null|
+|**2023-08-01**|**Patch Space Exploration using Static Analysis Feedback**|Yuntong Zhang et.al.|[2308.00294](http://arxiv.org/abs/2308.00294)|null|
 |**2023-07-29**|**Graph Neural Networks For Mapping Variables Between Programs -- Extended Version**|Pedro Orvalho et.al.|[2307.13014](http://arxiv.org/abs/2307.13014)|**[link](https://github.com/pmorvalho/ecai23-gnns-for-mapping-variables-between-programs)**|
 |**2023-07-21**|**Exploring Security Commits in Python**|Shiyu Sun et.al.|[2307.11853](http://arxiv.org/abs/2307.11853)|**[link](https://github.com/sunlab-gmu/pysecdb)**|
 |**2023-07-14**|**Software Testing with Large Language Model: Survey, Landscape, and Vision**|Junjie Wang et.al.|[2307.07221](http://arxiv.org/abs/2307.07221)|null|
@@ -82,6 +84,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Program Repair by Fuzzing over Patch and Input Space**|Yuntong Zhang et.al.|[2308.00666](http://arxiv.org/abs/2308.00666)|null|
 |**2023-05-06**|**Accelerating Patch Validation for Program Repair with Interception-Based Execution Scheduling**|Yuan-An Xiao et.al.|[2305.03955](http://arxiv.org/abs/2305.03955)|null|
 |**2023-03-10**|**Self-supervised Training Sample Difficulty Balancing for Local Descriptor Learning**|Jiahan Zhang et.al.|[2303.06124](http://arxiv.org/abs/2303.06124)|null|
 |**2023-01-29**|**Boosting Automated Patch Correctness Prediction via Pre-trained Language Model**|Quanjun Zhang et.al.|[2301.12453](http://arxiv.org/abs/2301.12453)|null|
