@@ -144,6 +144,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-09**|**Evaluating SZZ Implementations: An Empirical Study on the Linux Kernel**|Yunbo Lyu et.al.|[2308.05060](http://arxiv.org/abs/2308.05060)|null|
 |**2023-01-25**|**Backward Compatibility During Data Updates by Weight Interpolation**|Raphael Schumann et.al.|[2301.10546](http://arxiv.org/abs/2301.10546)|null|
 |**2023-02-15**|**Fonte: Finding Bug Inducing Commits from Failures**|Gabin An et.al.|[2212.06376](http://arxiv.org/abs/2212.06376)|**[link](https://github.com/coinse/fonte)**|
 |**2022-12-07**|**Utilizing Source Code Syntax Patterns to Detect Bug Inducing Commits using Machine Learning Models**|Md Nadim et.al.|[2212.03399](http://arxiv.org/abs/2212.03399)|null|
