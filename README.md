@@ -232,6 +232,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-10**|**AST-MHSA : Code Summarization using Multi-Head Self-Attention**|Yeshwanth Nagaraj et.al.|[2308.05646](http://arxiv.org/abs/2308.05646)|null|
 |**2023-08-08**|**Generative AI in Computing Education: Perspectives of Students and Instructors**|Cynthia Zastudil et.al.|[2308.04309](http://arxiv.org/abs/2308.04309)|null|
 |**2023-07-21**|**Statement-based Memory for Neural Source Code Summarization**|Aakash Bansal et.al.|[2307.11709](http://arxiv.org/abs/2307.11709)|**[link](https://github.com/aakashba/smncode2022)**|
 |**2023-07-18**|**An Empirical Study on the Effectiveness of Noisy Label Learning for Program Understanding**|Wenhan Wang et.al.|[2307.08990](http://arxiv.org/abs/2307.08990)|null|
