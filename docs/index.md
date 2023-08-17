@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-16**|**LeakPair: Proactive Repairing of Memory Leaks in Single Page Web Applications**|Arooba Shahoor et.al.|[2308.08144](http://arxiv.org/abs/2308.08144)|null|
 |**2023-08-01**|**Program Repair by Fuzzing over Patch and Input Space**|Yuntong Zhang et.al.|[2308.00666](http://arxiv.org/abs/2308.00666)|null|
 |**2023-08-01**|**Patch Space Exploration using Static Analysis Feedback**|Yuntong Zhang et.al.|[2308.00294](http://arxiv.org/abs/2308.00294)|null|
 |**2023-07-29**|**Graph Neural Networks For Mapping Variables Between Programs -- Extended Version**|Pedro Orvalho et.al.|[2307.13014](http://arxiv.org/abs/2307.13014)|**[link](https://github.com/pmorvalho/ecai23-gnns-for-mapping-variables-between-programs)**|
