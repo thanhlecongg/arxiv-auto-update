@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.20
+## Updated on 2023.08.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -21,7 +21,7 @@ layout: default
 |**2023-06-09**|**Reinforcement Learning for Mutation Operator Selection in Automated Program Repair**|Carol Hanna et.al.|[2306.05792](http://arxiv.org/abs/2306.05792)|null|
 |**2023-06-04**|**Towards Efficient Controller Synthesis Techniques for Logical LTL Games**|Stanly Samuel et.al.|[2306.02427](http://arxiv.org/abs/2306.02427)|null|
 |**2023-06-02**|**Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors**|Yun Peng et.al.|[2306.01394](http://arxiv.org/abs/2306.01394)|**[link](https://github.com/johnnypeng18/typefix)**|
-|**2023-05-31**|**Majority Rule: better patching via Self-Consistency**|Toufique Ahmed et.al.|[2306.00108](http://arxiv.org/abs/2306.00108)|null|
+|**2023-08-16**|**Better patching using LLM prompting, via Self-Consistency**|Toufique Ahmed et.al.|[2306.00108](http://arxiv.org/abs/2306.00108)|null|
 |**2023-05-29**|**How Effective Are Neural Networks for Fixing Security Vulnerabilities**|Yi Wu et.al.|[2305.18607](http://arxiv.org/abs/2305.18607)|null|
 |**2023-05-16**|**Neural Program Repair with Program Dependence Analysis and Effective Filter Mechanism**|Yuwei Zhang et.al.|[2305.09315](http://arxiv.org/abs/2305.09315)|null|
 |**2023-05-12**|**Where to Look When Repairing Code? Comparing the Attention of Neural Models and Developers**|Dominik Huber et.al.|[2305.07287](http://arxiv.org/abs/2305.07287)|null|
