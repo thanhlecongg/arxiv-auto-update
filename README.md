@@ -136,6 +136,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**STEAM: Simulating the InTeractive BEhavior of ProgrAMmers for Automatic Bug Fixing**|Yuwei Zhang et.al.|[2308.14460](http://arxiv.org/abs/2308.14460)|null|
 |**2023-05-23**|**Adversarial Machine Learning and Cybersecurity: Risks, Challenges, and Legal Implications**|Micah Musser et.al.|[2305.14553](http://arxiv.org/abs/2305.14553)|null|
 |**2023-04-18**|**An Analysis of How Many Undiscovered Vulnerabilities Remain in Information Systems**|Jonathan M Spring et.al.|[2304.09259](http://arxiv.org/abs/2304.09259)|null|
 |**2023-04-04**|**A Static Analysis Platform for Investigating Security Trends in Repositories**|Tim Sonnekalb et.al.|[2304.01725](http://arxiv.org/abs/2304.01725)|**[link](https://gitlab.com/dlr-dw/sast-tool-platform)**|
@@ -183,6 +184,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**Human-in-the-loop online just-in-time software defect prediction**|Xutong Liu et.al.|[2308.13707](http://arxiv.org/abs/2308.13707)|null|
+|**2023-08-25**|**Software Defect Prediction by Online Learning Considering Defect Overlooking**|Yuta Yamasaki et.al.|[2308.13582](http://arxiv.org/abs/2308.13582)|null|
 |**2023-08-15**|**Investigating and Improving Latent Density Segmentation Models for Aleatoric Uncertainty Quantification in Medical Imaging**|M. M. Amaan Valiuddin et.al.|[2307.16694](http://arxiv.org/abs/2307.16694)|null|
 |**2023-07-23**|**Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems**|Ray Islam et.al.|[2307.12237](http://arxiv.org/abs/2307.12237)|null|
 |**2023-07-19**|**Imperfections are not 0 K: free energy of point defects in crystals**|Irea Mosquera-Lois et.al.|[2307.10451](http://arxiv.org/abs/2307.10451)|null|
@@ -234,6 +237,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-28**|**Distilled GPT for Source Code Summarization**|Chia-Yi Su et.al.|[2308.14731](http://arxiv.org/abs/2308.14731)|**[link](https://github.com/apcl-research/jam-cgpt)**|
+|**2023-08-26**|**EditSum: A Retrieve-and-Edit Framework for Source Code Summarization**|Jia Allen Li et.al.|[2308.13775](http://arxiv.org/abs/2308.13775)|null|
 |**2023-08-25**|**SoTaNa: The Open-Source Software Development Assistant**|Ensheng Shi et.al.|[2308.13416](http://arxiv.org/abs/2308.13416)|**[link](https://github.com/deepsoftwareanalytics/sotana)**|
 |**2023-08-23**|**Benchmarking Causal Study to Interpret Large Language Models for Source Code**|Daniel Rodriguez-Cardenas et.al.|[2308.12415](http://arxiv.org/abs/2308.12415)|null|
 |**2023-08-14**|**Semantic Similarity Loss for Neural Source Code Summarization**|Chia-Yi Su et.al.|[2308.07429](http://arxiv.org/abs/2308.07429)|**[link](https://github.com/apcl-research/funcom-useloss)**|
