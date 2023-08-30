@@ -120,6 +120,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-29**|**Shedding Light on CVSS Scoring Inconsistencies: A User-Centric Study on Evaluating Widespread Security Vulnerabilities**|Julia Wunder et.al.|[2308.15259](http://arxiv.org/abs/2308.15259)|null|
 |**2023-08-28**|**STEAM: Simulating the InTeractive BEhavior of ProgrAMmers for Automatic Bug Fixing**|Yuwei Zhang et.al.|[2308.14460](http://arxiv.org/abs/2308.14460)|null|
 |**2023-05-23**|**Adversarial Machine Learning and Cybersecurity: Risks, Challenges, and Legal Implications**|Micah Musser et.al.|[2305.14553](http://arxiv.org/abs/2305.14553)|null|
 |**2023-04-18**|**An Analysis of How Many Undiscovered Vulnerabilities Remain in Information Systems**|Jonathan M Spring et.al.|[2304.09259](http://arxiv.org/abs/2304.09259)|null|
@@ -164,6 +165,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-28**|**Evaluation of Key Spatiotemporal Learners for Print Track Anomaly Classification Using Melt Pool Image Streams**|Lynn Cherif et.al.|[2308.14861](http://arxiv.org/abs/2308.14861)|null|
 |**2023-08-25**|**Human-in-the-loop online just-in-time software defect prediction**|Xutong Liu et.al.|[2308.13707](http://arxiv.org/abs/2308.13707)|null|
 |**2023-08-25**|**Software Defect Prediction by Online Learning Considering Defect Overlooking**|Yuta Yamasaki et.al.|[2308.13582](http://arxiv.org/abs/2308.13582)|null|
 |**2023-08-15**|**Investigating and Improving Latent Density Segmentation Models for Aleatoric Uncertainty Quantification in Medical Imaging**|M. M. Amaan Valiuddin et.al.|[2307.16694](http://arxiv.org/abs/2307.16694)|null|
