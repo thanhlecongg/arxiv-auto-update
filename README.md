@@ -186,7 +186,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-08-28**|**Evaluation of Key Spatiotemporal Learners for Print Track Anomaly Classification Using Melt Pool Image Streams**|Lynn Cherif et.al.|[2308.14861](http://arxiv.org/abs/2308.14861)|null|
-|**2023-08-25**|**Human-in-the-loop online just-in-time software defect prediction**|Xutong Liu et.al.|[2308.13707](http://arxiv.org/abs/2308.13707)|null|
+|**2023-08-25**|**Human-in-the-loop online just-in-time software defect prediction**|Xutong Liu et.al.|[2308.13707](http://arxiv.org/abs/2308.13707)|**[link](https://github.com/liu906/hitl-online-just-in-time-defect-prediction)**|
 |**2023-08-25**|**Software Defect Prediction by Online Learning Considering Defect Overlooking**|Yuta Yamasaki et.al.|[2308.13582](http://arxiv.org/abs/2308.13582)|null|
 |**2023-08-15**|**Investigating and Improving Latent Density Segmentation Models for Aleatoric Uncertainty Quantification in Medical Imaging**|M. M. Amaan Valiuddin et.al.|[2307.16694](http://arxiv.org/abs/2307.16694)|null|
 |**2023-07-23**|**Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems**|Ray Islam et.al.|[2307.12237](http://arxiv.org/abs/2307.12237)|null|
