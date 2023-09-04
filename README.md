@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair**|Yuxiang Wei et.al.|[2309.00608](http://arxiv.org/abs/2309.00608)|**[link](https://github.com/ise-uiuc/Repilot)**|
 |**2023-08-16**|**LeakPair: Proactive Repairing of Memory Leaks in Single Page Web Applications**|Arooba Shahoor et.al.|[2308.08144](http://arxiv.org/abs/2308.08144)|null|
 |**2023-08-01**|**Program Repair by Fuzzing over Patch and Input Space**|Yuntong Zhang et.al.|[2308.00666](http://arxiv.org/abs/2308.00666)|null|
 |**2023-08-01**|**Patch Space Exploration using Static Analysis Feedback**|Yuntong Zhang et.al.|[2308.00294](http://arxiv.org/abs/2308.00294)|null|
@@ -239,6 +240,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-01**|**Laminar: A New Serverless Stream-based Framework with Semantic Code Search and Code Completion**|Zaynab Zahra et.al.|[2309.00584](http://arxiv.org/abs/2309.00584)|null|
 |**2023-08-28**|**Distilled GPT for Source Code Summarization**|Chia-Yi Su et.al.|[2308.14731](http://arxiv.org/abs/2308.14731)|**[link](https://github.com/apcl-research/jam-cgpt)**|
 |**2023-08-26**|**EditSum: A Retrieve-and-Edit Framework for Source Code Summarization**|Jia Allen Li et.al.|[2308.13775](http://arxiv.org/abs/2308.13775)|null|
 |**2023-08-25**|**SoTaNa: The Open-Source Software Development Assistant**|Ensheng Shi et.al.|[2308.13416](http://arxiv.org/abs/2308.13416)|**[link](https://github.com/deepsoftwareanalytics/sotana)**|
