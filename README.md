@@ -137,6 +137,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**Using a Nearest-Neighbour, BERT-Based Approach for Scalable Clone Detection**|Muslim Chochlov et.al.|[2309.02182](http://arxiv.org/abs/2309.02182)|null|
+|**2023-09-05**|**VFFINDER: A Graph-based Approach for Automated Silent Vulnerability-Fix Identification**|Son Nguyen et.al.|[2309.01971](http://arxiv.org/abs/2309.01971)|null|
 |**2023-08-29**|**Shedding Light on CVSS Scoring Inconsistencies: A User-Centric Study on Evaluating Widespread Security Vulnerabilities**|Julia Wunder et.al.|[2308.15259](http://arxiv.org/abs/2308.15259)|null|
 |**2023-08-28**|**STEAM: Simulating the InTeractive BEhavior of ProgrAMmers for Automatic Bug Fixing**|Yuwei Zhang et.al.|[2308.14460](http://arxiv.org/abs/2308.14460)|null|
 |**2023-05-23**|**Adversarial Machine Learning and Cybersecurity: Risks, Challenges, and Legal Implications**|Micah Musser et.al.|[2305.14553](http://arxiv.org/abs/2305.14553)|null|
@@ -186,6 +188,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**A study on the impact of pre-trained model on Just-In-Time defect prediction**|Yuxiang Guo et.al.|[2309.02317](http://arxiv.org/abs/2309.02317)|null|
 |**2023-08-28**|**Evaluation of Key Spatiotemporal Learners for Print Track Anomaly Classification Using Melt Pool Image Streams**|Lynn Cherif et.al.|[2308.14861](http://arxiv.org/abs/2308.14861)|null|
 |**2023-08-25**|**Human-in-the-loop online just-in-time software defect prediction**|Xutong Liu et.al.|[2308.13707](http://arxiv.org/abs/2308.13707)|**[link](https://github.com/liu906/hitl-online-just-in-time-defect-prediction)**|
 |**2023-08-25**|**Software Defect Prediction by Online Learning Considering Defect Overlooking**|Yuta Yamasaki et.al.|[2308.13582](http://arxiv.org/abs/2308.13582)|null|
@@ -240,6 +243,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**Revisiting File Context for Source Code Summarization**|Aakash Bansal et.al.|[2309.02326](http://arxiv.org/abs/2309.02326)|null|
 |**2023-09-01**|**Laminar: A New Serverless Stream-based Framework with Semantic Code Search and Code Completion**|Zaynab Zahra et.al.|[2309.00584](http://arxiv.org/abs/2309.00584)|null|
 |**2023-08-28**|**Distilled GPT for Source Code Summarization**|Chia-Yi Su et.al.|[2308.14731](http://arxiv.org/abs/2308.14731)|**[link](https://github.com/apcl-research/jam-cgpt)**|
 |**2023-08-26**|**EditSum: A Retrieve-and-Edit Framework for Source Code Summarization**|Jia Allen Li et.al.|[2308.13775](http://arxiv.org/abs/2308.13775)|null|
