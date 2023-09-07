@@ -168,6 +168,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-06**|**Method-Level Bug Severity Prediction using Source Code Metrics and LLMs**|Ehsan Mashhadi et.al.|[2309.03044](http://arxiv.org/abs/2309.03044)|null|
 |**2023-09-05**|**A study on the impact of pre-trained model on Just-In-Time defect prediction**|Yuxiang Guo et.al.|[2309.02317](http://arxiv.org/abs/2309.02317)|null|
 |**2023-08-28**|**Evaluation of Key Spatiotemporal Learners for Print Track Anomaly Classification Using Melt Pool Image Streams**|Lynn Cherif et.al.|[2308.14861](http://arxiv.org/abs/2308.14861)|null|
 |**2023-08-25**|**Human-in-the-loop online just-in-time software defect prediction**|Xutong Liu et.al.|[2308.13707](http://arxiv.org/abs/2308.13707)|**[link](https://github.com/liu906/hitl-online-just-in-time-defect-prediction)**|
