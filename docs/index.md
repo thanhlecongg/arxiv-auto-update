@@ -168,6 +168,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-07**|**Predicting Defective Visual Code Changes in a Multi-Language AAA Video Game Project**|Kalvin Eng et.al.|[2309.03414](http://arxiv.org/abs/2309.03414)|null|
+|**2023-09-07**|**Identifying Defect-Inducing Changes in Visual Code**|Kalvin Eng et.al.|[2309.03411](http://arxiv.org/abs/2309.03411)|null|
 |**2023-09-06**|**Method-Level Bug Severity Prediction using Source Code Metrics and LLMs**|Ehsan Mashhadi et.al.|[2309.03044](http://arxiv.org/abs/2309.03044)|null|
 |**2023-09-05**|**A study on the impact of pre-trained model on Just-In-Time defect prediction**|Yuxiang Guo et.al.|[2309.02317](http://arxiv.org/abs/2309.02317)|null|
 |**2023-08-28**|**Evaluation of Key Spatiotemporal Learners for Print Track Anomaly Classification Using Melt Pool Image Streams**|Lynn Cherif et.al.|[2308.14861](http://arxiv.org/abs/2308.14861)|null|
@@ -220,7 +222,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-05**|**Revisiting File Context for Source Code Summarization**|Aakash Bansal et.al.|[2309.02326](http://arxiv.org/abs/2309.02326)|null|
+|**2023-09-05**|**Revisiting File Context for Source Code Summarization**|Aakash Bansal et.al.|[2309.02326](http://arxiv.org/abs/2309.02326)|**[link](https://github.com/apcl-research/transformerfc)**|
 |**2023-09-01**|**Laminar: A New Serverless Stream-based Framework with Semantic Code Search and Code Completion**|Zaynab Zahra et.al.|[2309.00584](http://arxiv.org/abs/2309.00584)|null|
 |**2023-08-28**|**Distilled GPT for Source Code Summarization**|Chia-Yi Su et.al.|[2308.14731](http://arxiv.org/abs/2308.14731)|**[link](https://github.com/apcl-research/jam-cgpt)**|
 |**2023-09-07**|**EditSum: A Retrieve-and-Edit Framework for Source Code Summarization**|Jia Li et.al.|[2308.13775](http://arxiv.org/abs/2308.13775)|null|
