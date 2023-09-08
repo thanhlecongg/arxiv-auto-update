@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.07
+## Updated on 2023.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -223,7 +223,7 @@ layout: default
 |**2023-09-05**|**Revisiting File Context for Source Code Summarization**|Aakash Bansal et.al.|[2309.02326](http://arxiv.org/abs/2309.02326)|null|
 |**2023-09-01**|**Laminar: A New Serverless Stream-based Framework with Semantic Code Search and Code Completion**|Zaynab Zahra et.al.|[2309.00584](http://arxiv.org/abs/2309.00584)|null|
 |**2023-08-28**|**Distilled GPT for Source Code Summarization**|Chia-Yi Su et.al.|[2308.14731](http://arxiv.org/abs/2308.14731)|**[link](https://github.com/apcl-research/jam-cgpt)**|
-|**2023-08-26**|**EditSum: A Retrieve-and-Edit Framework for Source Code Summarization**|Jia Allen Li et.al.|[2308.13775](http://arxiv.org/abs/2308.13775)|null|
+|**2023-09-07**|**EditSum: A Retrieve-and-Edit Framework for Source Code Summarization**|Jia Li et.al.|[2308.13775](http://arxiv.org/abs/2308.13775)|null|
 |**2023-08-25**|**SoTaNa: The Open-Source Software Development Assistant**|Ensheng Shi et.al.|[2308.13416](http://arxiv.org/abs/2308.13416)|**[link](https://github.com/deepsoftwareanalytics/sotana)**|
 |**2023-08-23**|**Benchmarking Causal Study to Interpret Large Language Models for Source Code**|Daniel Rodriguez-Cardenas et.al.|[2308.12415](http://arxiv.org/abs/2308.12415)|null|
 |**2023-08-14**|**Semantic Similarity Loss for Neural Source Code Summarization**|Chia-Yi Su et.al.|[2308.07429](http://arxiv.org/abs/2308.07429)|**[link](https://github.com/apcl-research/funcom-useloss)**|
