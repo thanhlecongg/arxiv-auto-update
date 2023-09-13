@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**RAP-Gen: Retrieval-Augmented Patch Generation with CodeT5 for Automatic Program Repair**|Weishi Wang et.al.|[2309.06057](http://arxiv.org/abs/2309.06057)|null|
 |**2023-09-01**|**Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair**|Yuxiang Wei et.al.|[2309.00608](http://arxiv.org/abs/2309.00608)|**[link](https://github.com/ise-uiuc/Repilot)**|
 |**2023-08-16**|**LeakPair: Proactive Repairing of Memory Leaks in Single Page Web Applications**|Arooba Shahoor et.al.|[2308.08144](http://arxiv.org/abs/2308.08144)|null|
 |**2023-08-01**|**Program Repair by Fuzzing over Patch and Input Space**|Yuntong Zhang et.al.|[2308.00666](http://arxiv.org/abs/2308.00666)|null|
@@ -168,6 +169,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Accelerating Defect Predictions in Semiconductors Using Graph Neural Networks**|Md Habibur Rahman et.al.|[2309.06423](http://arxiv.org/abs/2309.06423)|null|
 |**2023-09-07**|**Predicting Defective Visual Code Changes in a Multi-Language AAA Video Game Project**|Kalvin Eng et.al.|[2309.03414](http://arxiv.org/abs/2309.03414)|null|
 |**2023-09-07**|**Identifying Defect-Inducing Changes in Visual Code**|Kalvin Eng et.al.|[2309.03411](http://arxiv.org/abs/2309.03411)|null|
 |**2023-09-06**|**Method-Level Bug Severity Prediction using Source Code Metrics and LLMs**|Ehsan Mashhadi et.al.|[2309.03044](http://arxiv.org/abs/2309.03044)|null|
