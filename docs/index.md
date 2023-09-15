@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.14
+## Updated on 2023.09.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -169,10 +169,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-12**|**Accelerating Defect Predictions in Semiconductors Using Graph Neural Networks**|Md Habibur Rahman et.al.|[2309.06423](http://arxiv.org/abs/2309.06423)|null|
+|**2023-09-13**|**Accelerating Defect Predictions in Semiconductors Using Graph Neural Networks**|Md Habibur Rahman et.al.|[2309.06423](http://arxiv.org/abs/2309.06423)|**[link](https://github.com/msehabibur/defect_gnn_gen_1)**|
 |**2023-09-07**|**Predicting Defective Visual Code Changes in a Multi-Language AAA Video Game Project**|Kalvin Eng et.al.|[2309.03414](http://arxiv.org/abs/2309.03414)|null|
 |**2023-09-07**|**Identifying Defect-Inducing Changes in Visual Code**|Kalvin Eng et.al.|[2309.03411](http://arxiv.org/abs/2309.03411)|null|
-|**2023-09-06**|**Method-Level Bug Severity Prediction using Source Code Metrics and LLMs**|Ehsan Mashhadi et.al.|[2309.03044](http://arxiv.org/abs/2309.03044)|null|
+|**2023-09-06**|**Method-Level Bug Severity Prediction using Source Code Metrics and LLMs**|Ehsan Mashhadi et.al.|[2309.03044](http://arxiv.org/abs/2309.03044)|**[link](https://github.com/EhsanMashhadi/ISSRE2023-BugSeverityPrediction)**|
 |**2023-09-05**|**A study on the impact of pre-trained model on Just-In-Time defect prediction**|Yuxiang Guo et.al.|[2309.02317](http://arxiv.org/abs/2309.02317)|null|
 |**2023-08-28**|**Evaluation of Key Spatiotemporal Learners for Print Track Anomaly Classification Using Melt Pool Image Streams**|Lynn Cherif et.al.|[2308.14861](http://arxiv.org/abs/2308.14861)|null|
 |**2023-08-25**|**Human-in-the-loop online just-in-time software defect prediction**|Xutong Liu et.al.|[2308.13707](http://arxiv.org/abs/2308.13707)|**[link](https://github.com/liu906/hitl-online-just-in-time-defect-prediction)**|
