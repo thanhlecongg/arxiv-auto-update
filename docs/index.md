@@ -2,16 +2,16 @@
 layout: default
 ---
 
-## Updated on 2023.09.20
+## Updated on 2023.09.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-17**|**GAMMA: Revisiting Template-based Automated Program Repair via Mask Prediction**|Quanjun Zhang et.al.|[2309.09308](http://arxiv.org/abs/2309.09308)|null|
-|**2023-09-15**|**Practical Program Repair via Preference-based Ensemble Strategy**|Wenkang Zhong et.al.|[2309.08211](http://arxiv.org/abs/2309.08211)|null|
-|**2023-09-15**|**REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes**|Chaozheng Wang et.al.|[2309.08115](http://arxiv.org/abs/2309.08115)|null|
+|**2023-09-17**|**GAMMA: Revisiting Template-based Automated Program Repair via Mask Prediction**|Quanjun Zhang et.al.|[2309.09308](http://arxiv.org/abs/2309.09308)|**[link](https://github.com/isenglab/gamma)**|
+|**2023-09-15**|**Practical Program Repair via Preference-based Ensemble Strategy**|Wenkang Zhong et.al.|[2309.08211](http://arxiv.org/abs/2309.08211)|**[link](https://github.com/kwz219/p-epr-artefact)**|
+|**2023-09-15**|**REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes**|Chaozheng Wang et.al.|[2309.08115](http://arxiv.org/abs/2309.08115)|**[link](https://github.com/ase-reef/reef-data)**|
 |**2023-09-12**|**RAP-Gen: Retrieval-Augmented Patch Generation with CodeT5 for Automatic Program Repair**|Weishi Wang et.al.|[2309.06057](http://arxiv.org/abs/2309.06057)|null|
 |**2023-09-01**|**Copiloting the Copilots: Fusing Large Language Models with Completion Engines for Automated Program Repair**|Yuxiang Wei et.al.|[2309.00608](http://arxiv.org/abs/2309.00608)|**[link](https://github.com/ise-uiuc/Repilot)**|
 |**2023-08-16**|**LeakPair: Proactive Repairing of Memory Leaks in Single Page Web Applications**|Arooba Shahoor et.al.|[2308.08144](http://arxiv.org/abs/2308.08144)|null|
@@ -78,7 +78,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-15**|**Practical Program Repair via Preference-based Ensemble Strategy**|Wenkang Zhong et.al.|[2309.08211](http://arxiv.org/abs/2309.08211)|null|
+|**2023-09-15**|**Practical Program Repair via Preference-based Ensemble Strategy**|Wenkang Zhong et.al.|[2309.08211](http://arxiv.org/abs/2309.08211)|**[link](https://github.com/kwz219/p-epr-artefact)**|
 |**2023-08-01**|**Program Repair by Fuzzing over Patch and Input Space**|Yuntong Zhang et.al.|[2308.00666](http://arxiv.org/abs/2308.00666)|null|
 |**2023-05-06**|**Accelerating Patch Validation for Program Repair with Interception-Based Execution Scheduling**|Yuan-An Xiao et.al.|[2305.03955](http://arxiv.org/abs/2305.03955)|**[link](https://github.com/expressapr/expressapr)**|
 |**2023-03-10**|**Self-supervised Training Sample Difficulty Balancing for Local Descriptor Learning**|Jiahan Zhang et.al.|[2303.06124](http://arxiv.org/abs/2303.06124)|null|
@@ -229,7 +229,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-15**|**REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes**|Chaozheng Wang et.al.|[2309.08115](http://arxiv.org/abs/2309.08115)|null|
+|**2023-09-15**|**REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes**|Chaozheng Wang et.al.|[2309.08115](http://arxiv.org/abs/2309.08115)|**[link](https://github.com/ase-reef/reef-data)**|
 |**2023-09-14**|**An Assessment of ChatGPT on Log Data**|Priyanka Mudgal et.al.|[2309.07938](http://arxiv.org/abs/2309.07938)|null|
 |**2023-09-05**|**Revisiting File Context for Source Code Summarization**|Aakash Bansal et.al.|[2309.02326](http://arxiv.org/abs/2309.02326)|**[link](https://github.com/apcl-research/transformerfc)**|
 |**2023-09-01**|**Laminar: A New Serverless Stream-based Framework with Semantic Code Search and Code Completion**|Zaynab Zahra et.al.|[2309.00584](http://arxiv.org/abs/2309.00584)|null|
