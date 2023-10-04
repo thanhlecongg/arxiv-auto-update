@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-02**|**Gotcha! This Model Uses My Code! Evaluating Membership Leakage Risks in Code Models**|Zhou Yang et.al.|[2310.01166](http://arxiv.org/abs/2310.01166)|null|
+|**2023-10-02**|**How Helpful do Novice Programmers Find the Feedback of an Automated Repair Tool?**|Oka Kurniawan et.al.|[2310.00954](http://arxiv.org/abs/2310.00954)|null|
 |**2023-09-27**|**T5APR: Empowering Automated Program Repair across Languages through Checkpoint Ensemble**|Reza Gharibi et.al.|[2309.15742](http://arxiv.org/abs/2309.15742)|**[link](https://github.com/h4iku/t5apr)**|
 |**2023-09-26**|**Program Repair with Minimal Edits Using CodeT5**|Atsushi Shirafuji et.al.|[2309.14760](http://arxiv.org/abs/2309.14760)|null|
 |**2023-09-22**|**Frustrated with Code Quality Issues? LLMs can Help!**|Nalin Wadhwa et.al.|[2309.12938](http://arxiv.org/abs/2309.12938)|null|
@@ -257,6 +259,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-30**|**Empirical Study on Transformer-based Techniques for Software Engineering**|Yan Xiao et.al.|[2310.00399](http://arxiv.org/abs/2310.00399)|null|
 |**2023-09-15**|**REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes**|Chaozheng Wang et.al.|[2309.08115](http://arxiv.org/abs/2309.08115)|**[link](https://github.com/ase-reef/reef-data)**|
 |**2023-09-14**|**An Assessment of ChatGPT on Log Data**|Priyanka Mudgal et.al.|[2309.07938](http://arxiv.org/abs/2309.07938)|null|
 |**2023-09-05**|**Revisiting File Context for Source Code Summarization**|Aakash Bansal et.al.|[2309.02326](http://arxiv.org/abs/2309.02326)|**[link](https://github.com/apcl-research/transformerfc)**|
