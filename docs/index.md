@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Automated Bug Generation in the era of Large Language Models**|Ali Reza Ibrahimzada et.al.|[2310.02407](http://arxiv.org/abs/2310.02407)|null|
 |**2023-10-02**|**Gotcha! This Model Uses My Code! Evaluating Membership Leakage Risks in Code Models**|Zhou Yang et.al.|[2310.01166](http://arxiv.org/abs/2310.01166)|null|
 |**2023-10-02**|**How Helpful do Novice Programmers Find the Feedback of an Automated Repair Tool?**|Oka Kurniawan et.al.|[2310.00954](http://arxiv.org/abs/2310.00954)|null|
 |**2023-09-27**|**T5APR: Empowering Automated Program Repair across Languages through Checkpoint Ensemble**|Reza Gharibi et.al.|[2309.15742](http://arxiv.org/abs/2309.15742)|**[link](https://github.com/h4iku/t5apr)**|
