@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.09
+## Updated on 2023.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-03**|**Automated Bug Generation in the era of Large Language Models**|Ali Reza Ibrahimzada et.al.|[2310.02407](http://arxiv.org/abs/2310.02407)|null|
 |**2023-10-02**|**Gotcha! This Model Uses My Code! Evaluating Membership Leakage Risks in Code Models**|Zhou Yang et.al.|[2310.01166](http://arxiv.org/abs/2310.01166)|null|
-|**2023-10-02**|**How Helpful do Novice Programmers Find the Feedback of an Automated Repair Tool?**|Oka Kurniawan et.al.|[2310.00954](http://arxiv.org/abs/2310.00954)|null|
+|**2023-10-07**|**How Helpful do Novice Programmers Find the Feedback of an Automated Repair Tool?**|Oka Kurniawan et.al.|[2310.00954](http://arxiv.org/abs/2310.00954)|null|
 |**2023-09-27**|**T5APR: Empowering Automated Program Repair across Languages through Checkpoint Ensemble**|Reza Gharibi et.al.|[2309.15742](http://arxiv.org/abs/2309.15742)|**[link](https://github.com/h4iku/t5apr)**|
 |**2023-09-26**|**Program Repair with Minimal Edits Using CodeT5**|Atsushi Shirafuji et.al.|[2309.14760](http://arxiv.org/abs/2309.14760)|null|
 |**2023-09-22**|**Frustrated with Code Quality Issues? LLMs can Help!**|Nalin Wadhwa et.al.|[2309.12938](http://arxiv.org/abs/2309.12938)|null|
