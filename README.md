@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Automatic Generation of Test Cases based on Bug Reports: a Feasibility Study with Large Language Models**|Laura Plein et.al.|[2310.06320](http://arxiv.org/abs/2310.06320)|null|
 |**2023-10-03**|**Automated Bug Generation in the era of Large Language Models**|Ali Reza Ibrahimzada et.al.|[2310.02407](http://arxiv.org/abs/2310.02407)|null|
 |**2023-10-02**|**Gotcha! This Model Uses My Code! Evaluating Membership Leakage Risks in Code Models**|Zhou Yang et.al.|[2310.01166](http://arxiv.org/abs/2310.01166)|null|
 |**2023-10-07**|**How Helpful do Novice Programmers Find the Feedback of an Automated Repair Tool?**|Oka Kurniawan et.al.|[2310.00954](http://arxiv.org/abs/2310.00954)|null|
@@ -97,6 +98,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**Automatic Generation of Test Cases based on Bug Reports: a Feasibility Study with Large Language Models**|Laura Plein et.al.|[2310.06320](http://arxiv.org/abs/2310.06320)|null|
 |**2023-09-15**|**Practical Program Repair via Preference-based Ensemble Strategy**|Wenkang Zhong et.al.|[2309.08211](http://arxiv.org/abs/2309.08211)|**[link](https://github.com/kwz219/p-epr-artefact)**|
 |**2023-08-01**|**Program Repair by Fuzzing over Patch and Input Space**|Yuntong Zhang et.al.|[2308.00666](http://arxiv.org/abs/2308.00666)|null|
 |**2023-05-06**|**Accelerating Patch Validation for Program Repair with Interception-Based Execution Scheduling**|Yuan-An Xiao et.al.|[2305.03955](http://arxiv.org/abs/2305.03955)|**[link](https://github.com/expressapr/expressapr)**|
