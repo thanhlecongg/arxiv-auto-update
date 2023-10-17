@@ -240,6 +240,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**Prompt Engineering or Fine Tuning: An Empirical Assessment of Large Language Models in Automated Software Engineering Tasks**|Jiho Shin et.al.|[2310.10508](http://arxiv.org/abs/2310.10508)|null|
 |**2023-10-13**|**A Critical Review of Large Language Model on Software Engineering: An Example from ChatGPT and Automated Program Repair**|Quanjun Zhang et.al.|[2310.08879](http://arxiv.org/abs/2310.08879)|null|
 |**2023-09-30**|**Empirical Study on Transformer-based Techniques for Software Engineering**|Yan Xiao et.al.|[2310.00399](http://arxiv.org/abs/2310.00399)|null|
 |**2023-09-15**|**REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes**|Chaozheng Wang et.al.|[2309.08115](http://arxiv.org/abs/2309.08115)|**[link](https://github.com/ase-reef/reef-data)**|
