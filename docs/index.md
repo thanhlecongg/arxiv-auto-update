@@ -2,14 +2,15 @@
 layout: default
 ---
 
-## Updated on 2023.10.16
+## Updated on 2023.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-12**|**MCRepair: Multi-Chunk Program Repair via Patch Optimization with Buggy Block**|Jisung Kim et.al.|[2310.08157](http://arxiv.org/abs/2310.08157)|null|
+|**2023-10-13**|**A Critical Review of Large Language Model on Software Engineering: An Example from ChatGPT and Automated Program Repair**|Quanjun Zhang et.al.|[2310.08879](http://arxiv.org/abs/2310.08879)|null|
+|**2023-10-14**|**MCRepair: Multi-Chunk Program Repair via Patch Optimization with Buggy Block**|Jisung Kim et.al.|[2310.08157](http://arxiv.org/abs/2310.08157)|null|
 |**2023-10-10**|**Automatic Generation of Test Cases based on Bug Reports: a Feasibility Study with Large Language Models**|Laura Plein et.al.|[2310.06320](http://arxiv.org/abs/2310.06320)|null|
 |**2023-10-03**|**Automated Bug Generation in the era of Large Language Models**|Ali Reza Ibrahimzada et.al.|[2310.02407](http://arxiv.org/abs/2310.02407)|null|
 |**2023-10-02**|**Gotcha! This Model Uses My Code! Evaluating Membership Leakage Risks in Code Models**|Zhou Yang et.al.|[2310.01166](http://arxiv.org/abs/2310.01166)|null|
@@ -239,6 +240,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-13**|**A Critical Review of Large Language Model on Software Engineering: An Example from ChatGPT and Automated Program Repair**|Quanjun Zhang et.al.|[2310.08879](http://arxiv.org/abs/2310.08879)|null|
 |**2023-09-30**|**Empirical Study on Transformer-based Techniques for Software Engineering**|Yan Xiao et.al.|[2310.00399](http://arxiv.org/abs/2310.00399)|null|
 |**2023-09-15**|**REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes**|Chaozheng Wang et.al.|[2309.08115](http://arxiv.org/abs/2309.08115)|**[link](https://github.com/ase-reef/reef-data)**|
 |**2023-09-14**|**An Assessment of ChatGPT on Log Data**|Priyanka Mudgal et.al.|[2309.07938](http://arxiv.org/abs/2309.07938)|null|
