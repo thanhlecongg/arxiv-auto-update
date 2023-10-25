@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-24**|**GitBug-Actions: Building Reproducible Bug-Fix Benchmarks with GitHub Actions**|Nuno Saavedra et.al.|[2310.15642](http://arxiv.org/abs/2310.15642)|null|
 |**2023-10-17**|**Equational Anti-Unification over Absorption Theories**|Mauricio Ayala-Rincon et.al.|[2310.11136](http://arxiv.org/abs/2310.11136)|null|
 |**2023-10-13**|**A Critical Review of Large Language Model on Software Engineering: An Example from ChatGPT and Automated Program Repair**|Quanjun Zhang et.al.|[2310.08879](http://arxiv.org/abs/2310.08879)|null|
 |**2023-10-14**|**MCRepair: Multi-Chunk Program Repair via Patch Optimization with Buggy Block**|Jisung Kim et.al.|[2310.08157](http://arxiv.org/abs/2310.08157)|**[link](https://github.com/kimjisung78/mcrepair)**|
