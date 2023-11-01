@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**Enhancing Genetic Improvement Mutations Using Large Language Models**|Alexander E. I. Brownlee et.al.|[2310.19813](http://arxiv.org/abs/2310.19813)|null|
 |**2023-10-25**|**Evaluating Pre-trained Language Models for Repairing API Misuses**|Ting Zhang et.al.|[2310.16390](http://arxiv.org/abs/2310.16390)|null|
 |**2023-10-25**|**ConDefects: A New Dataset to Address the Data Leakage Concern for LLM-based Fault Localization and Program Repair**|Yonghao Wu et.al.|[2310.16253](http://arxiv.org/abs/2310.16253)|null|
 |**2023-10-24**|**GitBug-Actions: Building Reproducible Bug-Fix Benchmarks with GitHub Actions**|Nuno Saavedra et.al.|[2310.15642](http://arxiv.org/abs/2310.15642)|**[link](https://github.com/gitbugactions/gitbugactions)**|
