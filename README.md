@@ -210,6 +210,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**Learning Defect Prediction from Unrealistic Data**|Kamel Alrashedy et.al.|[2311.00931](http://arxiv.org/abs/2311.00931)|null|
 |**2023-10-18**|**Deep Incremental Learning of Imbalanced Data for Just-In-Time Software Defect Prediction**|Yunhua Zhao et.al.|[2310.12289](http://arxiv.org/abs/2310.12289)|null|
 |**2023-09-13**|**Accelerating Defect Predictions in Semiconductors Using Graph Neural Networks**|Md Habibur Rahman et.al.|[2309.06423](http://arxiv.org/abs/2309.06423)|**[link](https://github.com/msehabibur/defect_gnn_gen_1)**|
 |**2023-09-07**|**Predicting Defective Visual Code Changes in a Multi-Language AAA Video Game Project**|Kalvin Eng et.al.|[2309.03414](http://arxiv.org/abs/2309.03414)|null|
