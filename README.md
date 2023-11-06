@@ -271,6 +271,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-02**|**The Behavior of Large Language Models When Prompted to Generate Code Explanations**|Priti Oli et.al.|[2311.01490](http://arxiv.org/abs/2311.01490)|null|
 |**2023-10-24**|**CP-BCS: Binary Code Summarization Guided by Control Flow Graph and Pseudo Code**|Tong Ye et.al.|[2310.16853](http://arxiv.org/abs/2310.16853)|null|
 |**2023-10-25**|**Exploring Large Language Models for Code Explanation**|Paheli Bhattacharya et.al.|[2310.16673](http://arxiv.org/abs/2310.16673)|null|
 |**2023-10-27**|**Understanding Code Semantics: An Evaluation of Transformer Models in Summarization**|Debanjan Mondal et.al.|[2310.16314](http://arxiv.org/abs/2310.16314)|**[link](https://github.com/Demon702/robust_code_summary)**|
