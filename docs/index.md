@@ -12,7 +12,7 @@ layout: default
 |**2023-10-18**|**Enhancing Genetic Improvement Mutations Using Large Language Models**|Alexander E. I. Brownlee et.al.|[2310.19813](http://arxiv.org/abs/2310.19813)|null|
 |**2023-10-25**|**Evaluating Pre-trained Language Models for Repairing API Misuses**|Ting Zhang et.al.|[2310.16390](http://arxiv.org/abs/2310.16390)|null|
 |**2023-10-25**|**ConDefects: A New Dataset to Address the Data Leakage Concern for LLM-based Fault Localization and Program Repair**|Yonghao Wu et.al.|[2310.16253](http://arxiv.org/abs/2310.16253)|null|
-|**2023-10-24**|**GitBug-Actions: Building Reproducible Bug-Fix Benchmarks with GitHub Actions**|Nuno Saavedra et.al.|[2310.15642](http://arxiv.org/abs/2310.15642)|**[link](https://github.com/gitbugactions/gitbugactions)**|
+|**2023-11-07**|**GitBug-Actions: Building Reproducible Bug-Fix Benchmarks with GitHub Actions**|Nuno Saavedra et.al.|[2310.15642](http://arxiv.org/abs/2310.15642)|**[link](https://github.com/gitbugactions/gitbugactions)**|
 |**2023-10-17**|**Equational Anti-Unification over Absorption Theories**|Mauricio Ayala-Rincon et.al.|[2310.11136](http://arxiv.org/abs/2310.11136)|null|
 |**2023-10-13**|**A Critical Review of Large Language Model on Software Engineering: An Example from ChatGPT and Automated Program Repair**|Quanjun Zhang et.al.|[2310.08879](http://arxiv.org/abs/2310.08879)|null|
 |**2023-10-21**|**MCRepair: Multi-Chunk Program Repair via Patch Optimization with Buggy Block**|Jisung Kim et.al.|[2310.08157](http://arxiv.org/abs/2310.08157)|**[link](https://github.com/kimjisung78/mcrepair)**|
@@ -251,7 +251,7 @@ layout: default
 |**2023-10-24**|**CP-BCS: Binary Code Summarization Guided by Control Flow Graph and Pseudo Code**|Tong Ye et.al.|[2310.16853](http://arxiv.org/abs/2310.16853)|null|
 |**2023-10-25**|**Exploring Large Language Models for Code Explanation**|Paheli Bhattacharya et.al.|[2310.16673](http://arxiv.org/abs/2310.16673)|null|
 |**2023-10-27**|**Understanding Code Semantics: An Evaluation of Transformer Models in Summarization**|Debanjan Mondal et.al.|[2310.16314](http://arxiv.org/abs/2310.16314)|**[link](https://github.com/Demon702/robust_code_summary)**|
-|**2023-10-23**|**Leveraging Deep Learning for Abstractive Code Summarization of Unofficial Documentation**|AmirHossein Naghshzan et.al.|[2310.15015](http://arxiv.org/abs/2310.15015)|null|
+|**2023-11-07**|**Leveraging Deep Learning for Abstractive Code Summarization of Unofficial Documentation**|AmirHossein Naghshzan et.al.|[2310.15015](http://arxiv.org/abs/2310.15015)|null|
 |**2023-10-11**|**Prompt Engineering or Fine Tuning: An Empirical Assessment of Large Language Models in Automated Software Engineering Tasks**|Jiho Shin et.al.|[2310.10508](http://arxiv.org/abs/2310.10508)|null|
 |**2023-10-13**|**A Critical Review of Large Language Model on Software Engineering: An Example from ChatGPT and Automated Program Repair**|Quanjun Zhang et.al.|[2310.08879](http://arxiv.org/abs/2310.08879)|null|
 |**2023-09-30**|**Empirical Study on Transformer-based Techniques for Software Engineering**|Yan Xiao et.al.|[2310.00399](http://arxiv.org/abs/2310.00399)|null|
