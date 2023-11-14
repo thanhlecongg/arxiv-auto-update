@@ -142,6 +142,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-11**|**How ChatGPT is Solving Vulnerability Management Problem**|Peiyu Liu et.al.|[2311.06530](http://arxiv.org/abs/2311.06530)|null|
 |**2023-09-15**|**Silent Vulnerability-fixing Commit Identification Based on Graph Neural Networks**|Hieu Dinh Vo et.al.|[2309.08225](http://arxiv.org/abs/2309.08225)|null|
 |**2023-09-05**|**Using a Nearest-Neighbour, BERT-Based Approach for Scalable Clone Detection**|Muslim Chochlov et.al.|[2309.02182](http://arxiv.org/abs/2309.02182)|null|
 |**2023-09-05**|**VFFINDER: A Graph-based Approach for Automated Silent Vulnerability-Fix Identification**|Son Nguyen et.al.|[2309.01971](http://arxiv.org/abs/2309.01971)|null|
@@ -247,6 +248,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-11**|**DocGen: Generating Detailed Parameter Docstrings in Python**|Vatsal Venkatkrishna et.al.|[2311.06453](http://arxiv.org/abs/2311.06453)|null|
 |**2023-11-09**|**The Behavior of Large Language Models When Prompted to Generate Code Explanations**|Priti Oli et.al.|[2311.01490](http://arxiv.org/abs/2311.01490)|null|
 |**2023-10-24**|**CP-BCS: Binary Code Summarization Guided by Control Flow Graph and Pseudo Code**|Tong Ye et.al.|[2310.16853](http://arxiv.org/abs/2310.16853)|**[link](https://github.com/tongye98/binarycodesummary)**|
 |**2023-10-25**|**Exploring Large Language Models for Code Explanation**|Paheli Bhattacharya et.al.|[2310.16673](http://arxiv.org/abs/2310.16673)|null|
