@@ -211,6 +211,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-14**|**How to get better embeddings with code pre-trained models? An empirical study**|Yu Zhao et.al.|[2311.08066](http://arxiv.org/abs/2311.08066)|null|
 |**2023-11-02**|**Learning Defect Prediction from Unrealistic Data**|Kamel Alrashedy et.al.|[2311.00931](http://arxiv.org/abs/2311.00931)|null|
 |**2023-10-18**|**Deep Incremental Learning of Imbalanced Data for Just-In-Time Software Defect Prediction**|Yunhua Zhao et.al.|[2310.12289](http://arxiv.org/abs/2310.12289)|null|
 |**2023-09-13**|**Accelerating Defect Predictions in Semiconductors Using Graph Neural Networks**|Md Habibur Rahman et.al.|[2309.06423](http://arxiv.org/abs/2309.06423)|**[link](https://github.com/msehabibur/defect_gnn_gen_1)**|
@@ -221,7 +222,7 @@
 |**2023-08-28**|**Evaluation of Key Spatiotemporal Learners for Print Track Anomaly Classification Using Melt Pool Image Streams**|Lynn Cherif et.al.|[2308.14861](http://arxiv.org/abs/2308.14861)|null|
 |**2023-08-25**|**Human-in-the-loop online just-in-time software defect prediction**|Xutong Liu et.al.|[2308.13707](http://arxiv.org/abs/2308.13707)|**[link](https://github.com/liu906/hitl-online-just-in-time-defect-prediction)**|
 |**2023-08-25**|**Software Defect Prediction by Online Learning Considering Defect Overlooking**|Yuta Yamasaki et.al.|[2308.13582](http://arxiv.org/abs/2308.13582)|null|
-|**2023-08-15**|**Investigating and Improving Latent Density Segmentation Models for Aleatoric Uncertainty Quantification in Medical Imaging**|M. M. Amaan Valiuddin et.al.|[2307.16694](http://arxiv.org/abs/2307.16694)|null|
+|**2023-11-14**|**Investigating and Improving Latent Density Segmentation Models for Aleatoric Uncertainty Quantification in Medical Imaging**|M. M. Amaan Valiuddin et.al.|[2307.16694](http://arxiv.org/abs/2307.16694)|null|
 |**2023-07-23**|**Demonstration of a Response Time Based Remaining Useful Life (RUL) Prediction for Software Systems**|Ray Islam et.al.|[2307.12237](http://arxiv.org/abs/2307.12237)|null|
 |**2023-07-19**|**Imperfections are not 0 K: free energy of point defects in crystals**|Irea Mosquera-Lois et.al.|[2307.10451](http://arxiv.org/abs/2307.10451)|null|
 |**2023-06-27**|**A Meta-analytical Comparison of Naive Bayes and Random Forest for Software Defect Prediction**|Ch Muhammad Awais et.al.|[2306.15369](http://arxiv.org/abs/2306.15369)|**[link](https://github.com/cm-awais/sdp_nb_rf_meta_analysis)**|
@@ -272,7 +273,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-11**|**DocGen: Generating Detailed Parameter Docstrings in Python**|Vatsal Venkatkrishna et.al.|[2311.06453](http://arxiv.org/abs/2311.06453)|null|
+|**2023-11-14**|**DocGen: Generating Detailed Parameter Docstrings in Python**|Vatsal Venkatkrishna et.al.|[2311.06453](http://arxiv.org/abs/2311.06453)|null|
 |**2023-11-09**|**The Behavior of Large Language Models When Prompted to Generate Code Explanations**|Priti Oli et.al.|[2311.01490](http://arxiv.org/abs/2311.01490)|null|
 |**2023-10-24**|**CP-BCS: Binary Code Summarization Guided by Control Flow Graph and Pseudo Code**|Tong Ye et.al.|[2310.16853](http://arxiv.org/abs/2310.16853)|**[link](https://github.com/tongye98/binarycodesummary)**|
 |**2023-10-25**|**Exploring Large Language Models for Code Explanation**|Paheli Bhattacharya et.al.|[2310.16673](http://arxiv.org/abs/2310.16673)|null|
