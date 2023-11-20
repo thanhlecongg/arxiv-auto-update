@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-17**|**User-Centric Deployment of Automated Program Repair at Bloomberg**|David Williams et.al.|[2311.10516](http://arxiv.org/abs/2311.10516)|null|
 |**2023-10-18**|**Enhancing Genetic Improvement Mutations Using Large Language Models**|Alexander E. I. Brownlee et.al.|[2310.19813](http://arxiv.org/abs/2310.19813)|null|
 |**2023-10-25**|**Evaluating Pre-trained Language Models for Repairing API Misuses**|Ting Zhang et.al.|[2310.16390](http://arxiv.org/abs/2310.16390)|null|
 |**2023-10-25**|**ConDefects: A New Dataset to Address the Data Leakage Concern for LLM-based Fault Localization and Program Repair**|Yonghao Wu et.al.|[2310.16253](http://arxiv.org/abs/2310.16253)|null|
