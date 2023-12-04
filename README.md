@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-01**|**Zipr: A High-Impact, Robust, Open-source, Multi-platform, Static Binary Rewriter**|Jason D. Hiser et.al.|[2312.00714](http://arxiv.org/abs/2312.00714)|null|
 |**2023-11-27**|**Nova $^+$ : Generative Language Models for Binaries**|Nan Jiang et.al.|[2311.13721](http://arxiv.org/abs/2311.13721)|null|
 |**2023-11-17**|**User-Centric Deployment of Automated Program Repair at Bloomberg**|David Williams et.al.|[2311.10516](http://arxiv.org/abs/2311.10516)|null|
 |**2023-10-18**|**Enhancing Genetic Improvement Mutations Using Large Language Models**|Alexander E. I. Brownlee et.al.|[2310.19813](http://arxiv.org/abs/2310.19813)|null|
