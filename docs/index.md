@@ -252,6 +252,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Authoring Worked Examples for Java Programming with Human-AI Collaboration**|Mohammad Hassany et.al.|[2312.02105](http://arxiv.org/abs/2312.02105)|null|
 |**2023-11-22**|**Transfer Attacks and Defenses for Large Language Models on Coding Tasks**|Chi Zhang et.al.|[2311.13445](http://arxiv.org/abs/2311.13445)|null|
 |**2023-10-24**|**AI-enhanced Auto-correction of Programming Exercises: How Effective is GPT-3.5?**|Imen Azaiz et.al.|[2311.10737](http://arxiv.org/abs/2311.10737)|null|
 |**2023-11-17**|**DocGen: Generating Detailed Parameter Docstrings in Python**|Vatsal Venkatkrishna et.al.|[2311.06453](http://arxiv.org/abs/2311.06453)|null|
@@ -259,7 +260,7 @@ layout: default
 |**2023-10-24**|**CP-BCS: Binary Code Summarization Guided by Control Flow Graph and Pseudo Code**|Tong Ye et.al.|[2310.16853](http://arxiv.org/abs/2310.16853)|**[link](https://github.com/tongye98/binarycodesummary)**|
 |**2023-10-25**|**Exploring Large Language Models for Code Explanation**|Paheli Bhattacharya et.al.|[2310.16673](http://arxiv.org/abs/2310.16673)|null|
 |**2023-10-27**|**Understanding Code Semantics: An Evaluation of Transformer Models in Summarization**|Debanjan Mondal et.al.|[2310.16314](http://arxiv.org/abs/2310.16314)|**[link](https://github.com/Demon702/robust_code_summary)**|
-|**2023-11-15**|**Leveraging Deep Learning for Abstractive Code Summarization of Unofficial Documentation**|AmirHossein Naghshzan et.al.|[2310.15015](http://arxiv.org/abs/2310.15015)|null|
+|**2023-12-03**|**Leveraging Deep Learning for Abstractive Code Summarization of Unofficial Documentation**|AmirHossein Naghshzan et.al.|[2310.15015](http://arxiv.org/abs/2310.15015)|null|
 |**2023-10-11**|**Prompt Engineering or Fine Tuning: An Empirical Assessment of Large Language Models in Automated Software Engineering Tasks**|Jiho Shin et.al.|[2310.10508](http://arxiv.org/abs/2310.10508)|null|
 |**2023-10-13**|**A Critical Review of Large Language Model on Software Engineering: An Example from ChatGPT and Automated Program Repair**|Quanjun Zhang et.al.|[2310.08879](http://arxiv.org/abs/2310.08879)|null|
 |**2023-09-30**|**Empirical Study on Transformer-based Techniques for Software Engineering**|Yan Xiao et.al.|[2310.00399](http://arxiv.org/abs/2310.00399)|null|
