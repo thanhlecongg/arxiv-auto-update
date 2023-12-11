@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Out of Context: How important is Local Context in Neural Program Repair?**|Julian Aron Prenner et.al.|[2312.04986](http://arxiv.org/abs/2312.04986)|**[link](https://github.com/giganticode/out_of_context_paper_data)**|
 |**2023-12-01**|**Zipr: A High-Impact, Robust, Open-source, Multi-platform, Static Binary Rewriter**|Jason D. Hiser et.al.|[2312.00714](http://arxiv.org/abs/2312.00714)|null|
 |**2023-11-27**|**Nova $^+$ : Generative Language Models for Binaries**|Nan Jiang et.al.|[2311.13721](http://arxiv.org/abs/2311.13721)|null|
 |**2023-11-17**|**User-Centric Deployment of Automated Program Repair at Bloomberg**|David Williams et.al.|[2311.10516](http://arxiv.org/abs/2311.10516)|null|
