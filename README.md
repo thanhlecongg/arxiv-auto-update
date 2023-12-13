@@ -201,7 +201,7 @@
 |**2023-02-15**|**Fonte: Finding Bug Inducing Commits from Failures**|Gabin An et.al.|[2212.06376](http://arxiv.org/abs/2212.06376)|**[link](https://github.com/coinse/fonte)**|
 |**2022-12-07**|**Utilizing Source Code Syntax Patterns to Detect Bug Inducing Commits using Machine Learning Models**|Md Nadim et.al.|[2212.03399](http://arxiv.org/abs/2212.03399)|null|
 |**2022-04-22**|**Comparative Study of Machine Learning Test Case Prioritization for Continuous Integration Testing**|Dusica Marijan et.al.|[2204.10899](http://arxiv.org/abs/2204.10899)|null|
-|**2022-07-04**|**RegMiner: Towards Constructing a Large Regression Dataset from Code Evolution History**|Xuezhi Song et.al.|[2109.12389](http://arxiv.org/abs/2109.12389)|**[link](https://github.com/songxuezhi/regminer)**|
+|**2022-07-04**|**RegMiner: Towards Constructing a Large Regression Dataset from Code Evolution History**|Xuezhi Song et.al.|[2109.12389](http://arxiv.org/abs/2109.12389)|null|
 |**2021-06-21**|**An empirical evaluation of the usefulness of Tree Kernels for Commit-time Defect Detection in large software systems**|Hareem Sahar et.al.|[2106.10789](http://arxiv.org/abs/2106.10789)|null|
 |**2021-05-07**|**Regression Bugs Are In Your Model! Measuring, Reducing and Analyzing Regressions In NLP Model Updates**|Yuqing Xie et.al.|[2105.03048](http://arxiv.org/abs/2105.03048)|null|
 |**2021-03-22**|**Mea culpa: How developers fix their own simple bugs differently from other developers**|Wenhan Zhu et.al.|[2103.11894](http://arxiv.org/abs/2103.11894)|null|
