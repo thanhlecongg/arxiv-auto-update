@@ -278,6 +278,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-15**|**Binary Code Summarization: Benchmarking ChatGPT/GPT-4 and Other Large Language Models**|Xin Jin et.al.|[2312.09601](http://arxiv.org/abs/2312.09601)|null|
 |**2023-12-13**|**Breaking the Silence: the Threats of Using LLMs in Software Engineering**|June Sallou et.al.|[2312.08055](http://arxiv.org/abs/2312.08055)|**[link](https://github.com/llm4se/obfuscated-chatgpt-experiments)**|
 |**2023-12-04**|**Authoring Worked Examples for Java Programming with Human-AI Collaboration**|Mohammad Hassany et.al.|[2312.02105](http://arxiv.org/abs/2312.02105)|null|
 |**2023-11-22**|**Transfer Attacks and Defenses for Large Language Models on Coding Tasks**|Chi Zhang et.al.|[2311.13445](http://arxiv.org/abs/2311.13445)|null|
