@@ -216,6 +216,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-19**|**Predicting Line-Level Defects by Capturing Code Contexts with Hierarchical Transformers**|Parvez Mahbub et.al.|[2312.11889](http://arxiv.org/abs/2312.11889)|null|
 |**2023-11-14**|**How to get better embeddings with code pre-trained models? An empirical study**|Yu Zhao et.al.|[2311.08066](http://arxiv.org/abs/2311.08066)|null|
 |**2023-11-02**|**Learning Defect Prediction from Unrealistic Data**|Kamel Alrashedy et.al.|[2311.00931](http://arxiv.org/abs/2311.00931)|null|
 |**2023-10-18**|**Deep Incremental Learning of Imbalanced Data for Just-In-Time Software Defect Prediction**|Yunhua Zhao et.al.|[2310.12289](http://arxiv.org/abs/2310.12289)|null|
