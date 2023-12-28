@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2023.12.27
+## Updated on 2023.12.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**Enhancing Redundancy-based Automated Program Repair by Fine-grained Pattern Mining**|Jiajun Jiang et.al.|[2312.15955](http://arxiv.org/abs/2312.15955)|null|
+|**2023-12-25**|**RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for Program Repair**|André Silva et.al.|[2312.15698](http://arxiv.org/abs/2312.15698)|null|
 |**2023-12-13**|**Breaking the Silence: the Threats of Using LLMs in Software Engineering**|June Sallou et.al.|[2312.08055](http://arxiv.org/abs/2312.08055)|**[link](https://github.com/llm4se/obfuscated-chatgpt-experiments)**|
 |**2023-12-08**|**Out of Context: How important is Local Context in Neural Program Repair?**|Julian Aron Prenner et.al.|[2312.04986](http://arxiv.org/abs/2312.04986)|**[link](https://github.com/giganticode/out_of_context_paper_data)**|
 |**2023-12-01**|**Zipr: A High-Impact, Robust, Open-source, Multi-platform, Static Binary Rewriter**|Jason D. Hiser et.al.|[2312.00714](http://arxiv.org/abs/2312.00714)|null|
@@ -255,6 +257,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**A Prompt Learning Framework for Source Code Summarization**|Weisong Sun et.al.|[2312.16066](http://arxiv.org/abs/2312.16066)|**[link](https://github.com/wssun/promptcs)**|
+|**2023-12-24**|**Evaluating Code Summarization Techniques: A New Metric and an Empirical Characterization**|Antonio Mastropaolo et.al.|[2312.15475](http://arxiv.org/abs/2312.15475)|null|
+|**2023-12-23**|**Enhancing Code Intelligence Tasks with ChatGPT**|Kang Yang et.al.|[2312.15202](http://arxiv.org/abs/2312.15202)|null|
 |**2023-12-15**|**Binary Code Summarization: Benchmarking ChatGPT/GPT-4 and Other Large Language Models**|Xin Jin et.al.|[2312.09601](http://arxiv.org/abs/2312.09601)|**[link](https://github.com/xinjin95/binsum)**|
 |**2023-12-13**|**Breaking the Silence: the Threats of Using LLMs in Software Engineering**|June Sallou et.al.|[2312.08055](http://arxiv.org/abs/2312.08055)|**[link](https://github.com/llm4se/obfuscated-chatgpt-experiments)**|
 |**2023-12-04**|**Authoring Worked Examples for Java Programming with Human-AI Collaboration**|Mohammad Hassany et.al.|[2312.02105](http://arxiv.org/abs/2312.02105)|null|
