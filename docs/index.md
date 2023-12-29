@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.28
+## Updated on 2023.12.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -258,7 +258,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-26**|**A Prompt Learning Framework for Source Code Summarization**|Weisong Sun et.al.|[2312.16066](http://arxiv.org/abs/2312.16066)|**[link](https://github.com/wssun/promptcs)**|
-|**2023-12-24**|**Evaluating Code Summarization Techniques: A New Metric and an Empirical Characterization**|Antonio Mastropaolo et.al.|[2312.15475](http://arxiv.org/abs/2312.15475)|null|
+|**2023-12-24**|**Evaluating Code Summarization Techniques: A New Metric and an Empirical Characterization**|Antonio Mastropaolo et.al.|[2312.15475](http://arxiv.org/abs/2312.15475)|**[link](https://github.com/antonio-mastropaolo/code-summarization-metric)**|
 |**2023-12-23**|**Enhancing Code Intelligence Tasks with ChatGPT**|Kang Yang et.al.|[2312.15202](http://arxiv.org/abs/2312.15202)|null|
 |**2023-12-15**|**Binary Code Summarization: Benchmarking ChatGPT/GPT-4 and Other Large Language Models**|Xin Jin et.al.|[2312.09601](http://arxiv.org/abs/2312.09601)|**[link](https://github.com/xinjin95/binsum)**|
 |**2023-12-13**|**Breaking the Silence: the Threats of Using LLMs in Software Engineering**|June Sallou et.al.|[2312.08055](http://arxiv.org/abs/2312.08055)|**[link](https://github.com/llm4se/obfuscated-chatgpt-experiments)**|
