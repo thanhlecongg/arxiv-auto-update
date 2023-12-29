@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-27**|**Invariant-based Program Repair**|Omar I. Al-Bataineh et.al.|[2312.16652](http://arxiv.org/abs/2312.16652)|null|
 |**2023-12-26**|**Enhancing Redundancy-based Automated Program Repair by Fine-grained Pattern Mining**|Jiajun Jiang et.al.|[2312.15955](http://arxiv.org/abs/2312.15955)|null|
 |**2023-12-25**|**RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for Program Repair**|André Silva et.al.|[2312.15698](http://arxiv.org/abs/2312.15698)|null|
 |**2023-12-13**|**Breaking the Silence: the Threats of Using LLMs in Software Engineering**|June Sallou et.al.|[2312.08055](http://arxiv.org/abs/2312.08055)|**[link](https://github.com/llm4se/obfuscated-chatgpt-experiments)**|
