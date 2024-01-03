@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.01.01
+## Updated on 2024.01.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**The Right Prompts for the Job: Repair Code-Review Defects with Large Language Model**|Zelin Zhao et.al.|[2312.17485](http://arxiv.org/abs/2312.17485)|null|
 |**2023-12-27**|**Invariant-based Program Repair**|Omar I. Al-Bataineh et.al.|[2312.16652](http://arxiv.org/abs/2312.16652)|null|
 |**2023-12-26**|**Enhancing Redundancy-based Automated Program Repair by Fine-grained Pattern Mining**|Jiajun Jiang et.al.|[2312.15955](http://arxiv.org/abs/2312.15955)|null|
 |**2023-12-25**|**RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for Program Repair**|André Silva et.al.|[2312.15698](http://arxiv.org/abs/2312.15698)|null|
