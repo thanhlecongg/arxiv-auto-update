@@ -23,7 +23,7 @@
 |**2023-12-27**|**Invariant-based Program Repair**|Omar I. Al-Bataineh et.al.|[2312.16652](http://arxiv.org/abs/2312.16652)|null|
 |**2023-12-26**|**Enhancing Redundancy-based Automated Program Repair by Fine-grained Pattern Mining**|Jiajun Jiang et.al.|[2312.15955](http://arxiv.org/abs/2312.15955)|null|
 |**2023-12-25**|**RepairLLaMA: Efficient Representations and Fine-Tuned Adapters for Program Repair**|André Silva et.al.|[2312.15698](http://arxiv.org/abs/2312.15698)|null|
-|**2023-12-13**|**Breaking the Silence: the Threats of Using LLMs in Software Engineering**|June Sallou et.al.|[2312.08055](http://arxiv.org/abs/2312.08055)|**[link](https://github.com/llm4se/obfuscated-chatgpt-experiments)**|
+|**2024-01-08**|**Breaking the Silence: the Threats of Using LLMs in Software Engineering**|June Sallou et.al.|[2312.08055](http://arxiv.org/abs/2312.08055)|**[link](https://github.com/llm4se/obfuscated-chatgpt-experiments)**|
 |**2023-12-08**|**Out of Context: How important is Local Context in Neural Program Repair?**|Julian Aron Prenner et.al.|[2312.04986](http://arxiv.org/abs/2312.04986)|**[link](https://github.com/giganticode/out_of_context_paper_data)**|
 |**2023-12-01**|**Zipr: A High-Impact, Robust, Open-source, Multi-platform, Static Binary Rewriter**|Jason D. Hiser et.al.|[2312.00714](http://arxiv.org/abs/2312.00714)|null|
 |**2023-11-27**|**Nova $^+$ : Generative Language Models for Binaries**|Nan Jiang et.al.|[2311.13721](http://arxiv.org/abs/2311.13721)|null|
@@ -283,12 +283,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-06**|**Integrating Personalized Parsons Problems with Multi-Level Textual Explanations to Scaffold Code Writing**|Xinying Hou et.al.|[2401.03144](http://arxiv.org/abs/2401.03144)|null|
 |**2024-01-02**|**Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models**|Shuzheng Gao et.al.|[2401.01060](http://arxiv.org/abs/2401.01060)|**[link](https://github.com/shuzhenggao/hint)**|
 |**2023-12-26**|**A Prompt Learning Framework for Source Code Summarization**|Weisong Sun et.al.|[2312.16066](http://arxiv.org/abs/2312.16066)|**[link](https://github.com/wssun/promptcs)**|
 |**2023-12-24**|**Evaluating Code Summarization Techniques: A New Metric and an Empirical Characterization**|Antonio Mastropaolo et.al.|[2312.15475](http://arxiv.org/abs/2312.15475)|**[link](https://github.com/antonio-mastropaolo/code-summarization-metric)**|
 |**2023-12-23**|**Enhancing Code Intelligence Tasks with ChatGPT**|Kang Yang et.al.|[2312.15202](http://arxiv.org/abs/2312.15202)|null|
 |**2023-12-15**|**Binary Code Summarization: Benchmarking ChatGPT/GPT-4 and Other Large Language Models**|Xin Jin et.al.|[2312.09601](http://arxiv.org/abs/2312.09601)|**[link](https://github.com/xinjin95/binsum)**|
-|**2023-12-13**|**Breaking the Silence: the Threats of Using LLMs in Software Engineering**|June Sallou et.al.|[2312.08055](http://arxiv.org/abs/2312.08055)|**[link](https://github.com/llm4se/obfuscated-chatgpt-experiments)**|
+|**2024-01-08**|**Breaking the Silence: the Threats of Using LLMs in Software Engineering**|June Sallou et.al.|[2312.08055](http://arxiv.org/abs/2312.08055)|**[link](https://github.com/llm4se/obfuscated-chatgpt-experiments)**|
 |**2023-12-04**|**Authoring Worked Examples for Java Programming with Human-AI Collaboration**|Mohammad Hassany et.al.|[2312.02105](http://arxiv.org/abs/2312.02105)|null|
 |**2023-11-22**|**Transfer Attacks and Defenses for Large Language Models on Coding Tasks**|Chi Zhang et.al.|[2311.13445](http://arxiv.org/abs/2311.13445)|null|
 |**2023-10-24**|**AI-enhanced Auto-correction of Programming Exercises: How Effective is GPT-3.5?**|Imen Azaiz et.al.|[2311.10737](http://arxiv.org/abs/2311.10737)|null|
