@@ -283,7 +283,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-01-06**|**Integrating Personalized Parsons Problems with Multi-Level Textual Explanations to Scaffold Code Writing**|Xinying Hou et.al.|[2401.03144](http://arxiv.org/abs/2401.03144)|null|
+|**2024-01-11**|**Integrating Personalized Parsons Problems with Multi-Level Textual Explanations to Scaffold Code Writing**|Xinying Hou et.al.|[2401.03144](http://arxiv.org/abs/2401.03144)|null|
 |**2024-01-02**|**Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models**|Shuzheng Gao et.al.|[2401.01060](http://arxiv.org/abs/2401.01060)|**[link](https://github.com/shuzhenggao/hint)**|
 |**2023-12-26**|**A Prompt Learning Framework for Source Code Summarization**|Weisong Sun et.al.|[2312.16066](http://arxiv.org/abs/2312.16066)|**[link](https://github.com/wssun/promptcs)**|
 |**2023-12-24**|**Evaluating Code Summarization Techniques: A New Metric and an Empirical Characterization**|Antonio Mastropaolo et.al.|[2312.15475](http://arxiv.org/abs/2312.15475)|**[link](https://github.com/antonio-mastropaolo/code-summarization-metric)**|
