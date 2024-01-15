@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-12**|**PyTy: Repairing Static Type Errors in Python**|Yiu Wai Chow et.al.|[2401.06619](http://arxiv.org/abs/2401.06619)|null|
 |**2023-12-29**|**The Right Prompts for the Job: Repair Code-Review Defects with Large Language Model**|Zelin Zhao et.al.|[2312.17485](http://arxiv.org/abs/2312.17485)|null|
 |**2023-12-27**|**Invariant-based Program Repair**|Omar I. Al-Bataineh et.al.|[2312.16652](http://arxiv.org/abs/2312.16652)|null|
 |**2023-12-26**|**Enhancing Redundancy-based Automated Program Repair by Fine-grained Pattern Mining**|Jiajun Jiang et.al.|[2312.15955](http://arxiv.org/abs/2312.15955)|null|
