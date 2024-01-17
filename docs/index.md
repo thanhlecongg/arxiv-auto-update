@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-15**|**A Novel Approach for Automatic Program Repair using Round-Trip Translation with Large Language Models**|Fernando Vallecillos Ruiz et.al.|[2401.07994](http://arxiv.org/abs/2401.07994)|null|
+|**2024-01-14**|**BUGSPHP: A dataset for Automated Program Repair in PHP**|K. D. Pramod et.al.|[2401.07356](http://arxiv.org/abs/2401.07356)|null|
 |**2024-01-12**|**PyTy: Repairing Static Type Errors in Python**|Yiu Wai Chow et.al.|[2401.06619](http://arxiv.org/abs/2401.06619)|null|
 |**2023-12-29**|**The Right Prompts for the Job: Repair Code-Review Defects with Large Language Model**|Zelin Zhao et.al.|[2312.17485](http://arxiv.org/abs/2312.17485)|null|
 |**2023-12-27**|**Invariant-based Program Repair**|Omar I. Al-Bataineh et.al.|[2312.16652](http://arxiv.org/abs/2312.16652)|null|
@@ -108,7 +110,7 @@ layout: default
 |**2023-08-01**|**Program Repair by Fuzzing over Patch and Input Space**|Yuntong Zhang et.al.|[2308.00666](http://arxiv.org/abs/2308.00666)|null|
 |**2023-05-06**|**Accelerating Patch Validation for Program Repair with Interception-Based Execution Scheduling**|Yuan-An Xiao et.al.|[2305.03955](http://arxiv.org/abs/2305.03955)|**[link](https://github.com/expressapr/expressapr)**|
 |**2023-03-10**|**Self-supervised Training Sample Difficulty Balancing for Local Descriptor Learning**|Jiahan Zhang et.al.|[2303.06124](http://arxiv.org/abs/2303.06124)|null|
-|**2023-01-29**|**Boosting Automated Patch Correctness Prediction via Pre-trained Language Model**|Quanjun Zhang et.al.|[2301.12453](http://arxiv.org/abs/2301.12453)|null|
+|**2024-01-16**|**APPT: Boosting Automated Patch Correctness Prediction via Fine-tuning Pre-trained Models**|Quanjun Zhang et.al.|[2301.12453](http://arxiv.org/abs/2301.12453)|null|
 |**2023-11-01**|**A Survey of Learning-based Automated Program Repair**|Quanjun Zhang et.al.|[2301.03270](http://arxiv.org/abs/2301.03270)|**[link](https://github.com/isenglab/awesomelearningapr)**|
 |**2023-03-17**|**Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning**|Thanh Le-Cong et.al.|[2301.01113](http://arxiv.org/abs/2301.01113)|**[link](https://github.com/thanhlecongg/Invalidator)**|
 |**2022-12-29**|**A Bayesian Framework for Automated Debugging**|Sungmin Kang et.al.|[2212.13773](http://arxiv.org/abs/2212.13773)|null|
