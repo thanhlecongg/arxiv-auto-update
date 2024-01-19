@@ -160,6 +160,7 @@ layout: default
 |**2023-09-05**|**VFFINDER: A Graph-based Approach for Automated Silent Vulnerability-Fix Identification**|Son Nguyen et.al.|[2309.01971](http://arxiv.org/abs/2309.01971)|null|
 |**2023-08-29**|**Shedding Light on CVSS Scoring Inconsistencies: A User-Centric Study on Evaluating Widespread Security Vulnerabilities**|Julia Wunder et.al.|[2308.15259](http://arxiv.org/abs/2308.15259)|null|
 |**2023-08-28**|**STEAM: Simulating the InTeractive BEhavior of ProgrAMmers for Automatic Bug Fixing**|Yuwei Zhang et.al.|[2308.14460](http://arxiv.org/abs/2308.14460)|null|
+|**2024-01-18**|**Trust in Software Supply Chains: Blockchain-Enabled SBOM and the AIBOM Future**|Boming Xia et.al.|[2307.02088](http://arxiv.org/abs/2307.02088)|null|
 |**2023-05-23**|**Adversarial Machine Learning and Cybersecurity: Risks, Challenges, and Legal Implications**|Micah Musser et.al.|[2305.14553](http://arxiv.org/abs/2305.14553)|null|
 |**2023-04-18**|**An Analysis of How Many Undiscovered Vulnerabilities Remain in Information Systems**|Jonathan M Spring et.al.|[2304.09259](http://arxiv.org/abs/2304.09259)|null|
 |**2023-04-04**|**A Static Analysis Platform for Investigating Security Trends in Repositories**|Tim Sonnekalb et.al.|[2304.01725](http://arxiv.org/abs/2304.01725)|**[link](https://gitlab.com/dlr-dw/sast-tool-platform)**|
@@ -203,6 +204,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**SMOOTHIE: A Theory of Hyper-parameter Optimization for Software Analytics**|Rahul Yedida et.al.|[2401.09622](http://arxiv.org/abs/2401.09622)|**[link](https://github.com/yrahul3910/smoothness-hpo)**|
 |**2023-12-19**|**Predicting Line-Level Defects by Capturing Code Contexts with Hierarchical Transformers**|Parvez Mahbub et.al.|[2312.11889](http://arxiv.org/abs/2312.11889)|null|
 |**2023-11-14**|**How to get better embeddings with code pre-trained models? An empirical study**|Yu Zhao et.al.|[2311.08066](http://arxiv.org/abs/2311.08066)|null|
 |**2023-11-02**|**Learning Defect Prediction from Unrealistic Data**|Kamel Alrashedy et.al.|[2311.00931](http://arxiv.org/abs/2311.00931)|null|
