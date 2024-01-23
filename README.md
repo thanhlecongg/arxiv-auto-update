@@ -20,7 +20,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-15**|**A Novel Approach for Automatic Program Repair using Round-Trip Translation with Large Language Models**|Fernando Vallecillos Ruiz et.al.|[2401.07994](http://arxiv.org/abs/2401.07994)|null|
-|**2024-01-14**|**BUGSPHP: A dataset for Automated Program Repair in PHP**|K. D. Pramod et.al.|[2401.07356](http://arxiv.org/abs/2401.07356)|null|
+|**2024-01-21**|**BUGSPHP: A dataset for Automated Program Repair in PHP**|K. D. Pramod et.al.|[2401.07356](http://arxiv.org/abs/2401.07356)|null|
 |**2024-01-12**|**PyTy: Repairing Static Type Errors in Python**|Yiu Wai Chow et.al.|[2401.06619](http://arxiv.org/abs/2401.06619)|**[link](https://github.com/sola-st/pyty)**|
 |**2023-12-29**|**The Right Prompts for the Job: Repair Code-Review Defects with Large Language Model**|Zelin Zhao et.al.|[2312.17485](http://arxiv.org/abs/2312.17485)|null|
 |**2023-12-27**|**Invariant-based Program Repair**|Omar I. Al-Bataineh et.al.|[2312.16652](http://arxiv.org/abs/2312.16652)|null|
@@ -34,7 +34,7 @@
 |**2023-10-18**|**Enhancing Genetic Improvement Mutations Using Large Language Models**|Alexander E. I. Brownlee et.al.|[2310.19813](http://arxiv.org/abs/2310.19813)|null|
 |**2023-10-25**|**Evaluating Pre-trained Language Models for Repairing API Misuses**|Ting Zhang et.al.|[2310.16390](http://arxiv.org/abs/2310.16390)|null|
 |**2023-10-25**|**ConDefects: A New Dataset to Address the Data Leakage Concern for LLM-based Fault Localization and Program Repair**|Yonghao Wu et.al.|[2310.16253](http://arxiv.org/abs/2310.16253)|null|
-|**2023-11-07**|**GitBug-Actions: Building Reproducible Bug-Fix Benchmarks with GitHub Actions**|Nuno Saavedra et.al.|[2310.15642](http://arxiv.org/abs/2310.15642)|**[link](https://github.com/gitbugactions/gitbugactions)**|
+|**2024-01-21**|**GitBug-Actions: Building Reproducible Bug-Fix Benchmarks with GitHub Actions**|Nuno Saavedra et.al.|[2310.15642](http://arxiv.org/abs/2310.15642)|**[link](https://github.com/gitbugactions/gitbugactions)**|
 |**2023-10-17**|**Equational Anti-Unification over Absorption Theories**|Mauricio Ayala-Rincon et.al.|[2310.11136](http://arxiv.org/abs/2310.11136)|null|
 |**2023-10-13**|**A Critical Review of Large Language Model on Software Engineering: An Example from ChatGPT and Automated Program Repair**|Quanjun Zhang et.al.|[2310.08879](http://arxiv.org/abs/2310.08879)|null|
 |**2023-10-21**|**MCRepair: Multi-Chunk Program Repair via Patch Optimization with Buggy Block**|Jisung Kim et.al.|[2310.08157](http://arxiv.org/abs/2310.08157)|**[link](https://github.com/kimjisung78/mcrepair)**|
@@ -227,7 +227,7 @@
 |**2024-01-17**|**SMOOTHIE: A Theory of Hyper-parameter Optimization for Software Analytics**|Rahul Yedida et.al.|[2401.09622](http://arxiv.org/abs/2401.09622)|**[link](https://github.com/yrahul3910/smoothness-hpo)**|
 |**2023-12-19**|**Predicting Line-Level Defects by Capturing Code Contexts with Hierarchical Transformers**|Parvez Mahbub et.al.|[2312.11889](http://arxiv.org/abs/2312.11889)|null|
 |**2023-11-14**|**How to get better embeddings with code pre-trained models? An empirical study**|Yu Zhao et.al.|[2311.08066](http://arxiv.org/abs/2311.08066)|null|
-|**2023-11-02**|**Learning Defect Prediction from Unrealistic Data**|Kamel Alrashedy et.al.|[2311.00931](http://arxiv.org/abs/2311.00931)|null|
+|**2024-01-20**|**Learning Defect Prediction from Unrealistic Data**|Kamel Alrashedy et.al.|[2311.00931](http://arxiv.org/abs/2311.00931)|null|
 |**2023-10-18**|**Deep Incremental Learning of Imbalanced Data for Just-In-Time Software Defect Prediction**|Yunhua Zhao et.al.|[2310.12289](http://arxiv.org/abs/2310.12289)|null|
 |**2023-09-13**|**Accelerating Defect Predictions in Semiconductors Using Graph Neural Networks**|Md Habibur Rahman et.al.|[2309.06423](http://arxiv.org/abs/2309.06423)|**[link](https://github.com/msehabibur/defect_gnn_gen_1)**|
 |**2023-09-07**|**Predicting Defective Visual Code Changes in a Multi-Language AAA Video Game Project**|Kalvin Eng et.al.|[2309.03414](http://arxiv.org/abs/2309.03414)|null|
