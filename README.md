@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**On Repairing Quantum Programs Using ChatGPT**|Xiaoyu Guo et.al.|[2401.14913](http://arxiv.org/abs/2401.14913)|null|
 |**2024-01-15**|**A Novel Approach for Automatic Program Repair using Round-Trip Translation with Large Language Models**|Fernando Vallecillos Ruiz et.al.|[2401.07994](http://arxiv.org/abs/2401.07994)|null|
 |**2024-01-21**|**BUGSPHP: A dataset for Automated Program Repair in PHP**|K. D. Pramod et.al.|[2401.07356](http://arxiv.org/abs/2401.07356)|null|
 |**2024-01-12**|**PyTy: Repairing Static Type Errors in Python**|Yiu Wai Chow et.al.|[2401.06619](http://arxiv.org/abs/2401.06619)|**[link](https://github.com/sola-st/pyty)**|
@@ -120,7 +121,7 @@
 |**2023-10-10**|**Automatic Generation of Test Cases based on Bug Reports: a Feasibility Study with Large Language Models**|Laura Plein et.al.|[2310.06320](http://arxiv.org/abs/2310.06320)|null|
 |**2023-09-15**|**Practical Program Repair via Preference-based Ensemble Strategy**|Wenkang Zhong et.al.|[2309.08211](http://arxiv.org/abs/2309.08211)|**[link](https://github.com/kwz219/p-epr-artefact)**|
 |**2023-08-01**|**Program Repair by Fuzzing over Patch and Input Space**|Yuntong Zhang et.al.|[2308.00666](http://arxiv.org/abs/2308.00666)|null|
-|**2023-05-06**|**Accelerating Patch Validation for Program Repair with Interception-Based Execution Scheduling**|Yuan-An Xiao et.al.|[2305.03955](http://arxiv.org/abs/2305.03955)|**[link](https://github.com/expressapr/expressapr)**|
+|**2024-01-26**|**Accelerating Patch Validation for Program Repair with Interception-Based Execution Scheduling**|Yuan-An Xiao et.al.|[2305.03955](http://arxiv.org/abs/2305.03955)|**[link](https://github.com/expressapr/expressapr)**|
 |**2023-03-10**|**Self-supervised Training Sample Difficulty Balancing for Local Descriptor Learning**|Jiahan Zhang et.al.|[2303.06124](http://arxiv.org/abs/2303.06124)|null|
 |**2024-01-16**|**APPT: Boosting Automated Patch Correctness Prediction via Fine-tuning Pre-trained Models**|Quanjun Zhang et.al.|[2301.12453](http://arxiv.org/abs/2301.12453)|**[link](https://github.com/isenglab/appt)**|
 |**2023-11-01**|**A Survey of Learning-based Automated Program Repair**|Quanjun Zhang et.al.|[2301.03270](http://arxiv.org/abs/2301.03270)|**[link](https://github.com/isenglab/awesomelearningapr)**|
@@ -288,6 +289,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**SparseCoder: Identifier-Aware Sparse Transformer for File-Level Code Summarization**|Yanlin Wang et.al.|[2401.14727](http://arxiv.org/abs/2401.14727)|null|
 |**2024-01-11**|**Integrating Personalized Parsons Problems with Multi-Level Textual Explanations to Scaffold Code Writing**|Xinying Hou et.al.|[2401.03144](http://arxiv.org/abs/2401.03144)|null|
 |**2024-01-02**|**Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models**|Shuzheng Gao et.al.|[2401.01060](http://arxiv.org/abs/2401.01060)|**[link](https://github.com/shuzhenggao/hint)**|
 |**2023-12-26**|**A Prompt Learning Framework for Source Code Summarization**|Weisong Sun et.al.|[2312.16066](http://arxiv.org/abs/2312.16066)|**[link](https://github.com/wssun/promptcs)**|
