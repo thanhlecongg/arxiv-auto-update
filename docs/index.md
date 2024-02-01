@@ -205,6 +205,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-31**|**Three-Stage Adjusted Regression Forecasting (TSARF) for Software Defect Prediction**|Shadow Pritchard et.al.|[2401.17545](http://arxiv.org/abs/2401.17545)|null|
 |**2024-01-17**|**SMOOTHIE: A Theory of Hyper-parameter Optimization for Software Analytics**|Rahul Yedida et.al.|[2401.09622](http://arxiv.org/abs/2401.09622)|**[link](https://github.com/yrahul3910/smoothness-hpo)**|
 |**2023-12-19**|**Predicting Line-Level Defects by Capturing Code Contexts with Hierarchical Transformers**|Parvez Mahbub et.al.|[2312.11889](http://arxiv.org/abs/2312.11889)|null|
 |**2023-11-14**|**How to get better embeddings with code pre-trained models? An empirical study**|Yu Zhao et.al.|[2311.08066](http://arxiv.org/abs/2311.08066)|null|
