@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -265,7 +265,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-01-26**|**SparseCoder: Identifier-Aware Sparse Transformer for File-Level Code Summarization**|Yanlin Wang et.al.|[2401.14727](http://arxiv.org/abs/2401.14727)|null|
+|**2024-01-26**|**SparseCoder: Identifier-Aware Sparse Transformer for File-Level Code Summarization**|Yanlin Wang et.al.|[2401.14727](http://arxiv.org/abs/2401.14727)|**[link](https://github.com/deepsoftwareanalytics/sparsecoder)**|
 |**2024-01-11**|**Integrating Personalized Parsons Problems with Multi-Level Textual Explanations to Scaffold Code Writing**|Xinying Hou et.al.|[2401.03144](http://arxiv.org/abs/2401.03144)|null|
 |**2024-01-02**|**Learning in the Wild: Towards Leveraging Unlabeled Data for Effectively Tuning Pre-trained Code Models**|Shuzheng Gao et.al.|[2401.01060](http://arxiv.org/abs/2401.01060)|**[link](https://github.com/shuzhenggao/hint)**|
 |**2023-12-26**|**A Prompt Learning Framework for Source Code Summarization**|Weisong Sun et.al.|[2312.16066](http://arxiv.org/abs/2312.16066)|**[link](https://github.com/wssun/promptcs)**|
