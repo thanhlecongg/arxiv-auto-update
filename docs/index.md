@@ -155,6 +155,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**An Investigation of Hardware Security Bug Characteristics in Open-Source Projects**|Joey Ah-kiow et.al.|[2402.00684](http://arxiv.org/abs/2402.00684)|null|
 |**2023-11-11**|**How ChatGPT is Solving Vulnerability Management Problem**|Peiyu Liu et.al.|[2311.06530](http://arxiv.org/abs/2311.06530)|null|
 |**2023-09-15**|**Silent Vulnerability-fixing Commit Identification Based on Graph Neural Networks**|Hieu Dinh Vo et.al.|[2309.08225](http://arxiv.org/abs/2309.08225)|null|
 |**2023-09-05**|**Using a Nearest-Neighbour, BERT-Based Approach for Scalable Clone Detection**|Muslim Chochlov et.al.|[2309.02182](http://arxiv.org/abs/2309.02182)|null|
