@@ -19,7 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-05**|**GitBug-Java: A Reproducible Benchmark of Recent Java Bugs**|André Silva et.al.|[2402.02961](http://arxiv.org/abs/2402.02961)|null|
+|**2024-02-06**|**Investigating the Utility of ChatGPT in the Issue Tracking System: An Exploratory Study**|Joy Krishan Das et.al.|[2402.03735](http://arxiv.org/abs/2402.03735)|null|
+|**2024-02-06**|**GitBug-Java: A Reproducible Benchmark of Recent Java Bugs**|André Silva et.al.|[2402.02961](http://arxiv.org/abs/2402.02961)|null|
 |**2024-01-26**|**On Repairing Quantum Programs Using ChatGPT**|Xiaoyu Guo et.al.|[2401.14913](http://arxiv.org/abs/2401.14913)|null|
 |**2024-01-15**|**A Novel Approach for Automatic Program Repair using Round-Trip Translation with Large Language Models**|Fernando Vallecillos Ruiz et.al.|[2401.07994](http://arxiv.org/abs/2401.07994)|null|
 |**2024-01-21**|**BUGSPHP: A dataset for Automated Program Repair in PHP**|K. D. Pramod et.al.|[2401.07356](http://arxiv.org/abs/2401.07356)|null|
