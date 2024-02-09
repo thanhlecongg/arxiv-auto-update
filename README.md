@@ -293,7 +293,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-07**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863](http://arxiv.org/abs/2402.04863)|null|
+|**2024-02-08**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863](http://arxiv.org/abs/2402.04863)|null|
 |**2024-02-06**|**Studying Vulnerable Code Entities in R**|Zixiao Zhao et.al.|[2402.04421](http://arxiv.org/abs/2402.04421)|**[link](https://github.com/sleepyhead01/vulnurable-code-entities-r-analysis)**|
 |**2024-01-26**|**SparseCoder: Identifier-Aware Sparse Transformer for File-Level Code Summarization**|Yanlin Wang et.al.|[2401.14727](http://arxiv.org/abs/2401.14727)|**[link](https://github.com/deepsoftwareanalytics/sparsecoder)**|
 |**2024-01-11**|**Integrating Personalized Parsons Problems with Multi-Level Textual Explanations to Scaffold Code Writing**|Xinying Hou et.al.|[2401.03144](http://arxiv.org/abs/2401.03144)|null|
