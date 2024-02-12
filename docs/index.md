@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**CigaR: Cost-efficient Program Repair with LLMs**|Dávid Hidvégi et.al.|[2402.06598](http://arxiv.org/abs/2402.06598)|null|
 |**2024-02-06**|**Investigating the Utility of ChatGPT in the Issue Tracking System: An Exploratory Study**|Joy Krishan Das et.al.|[2402.03735](http://arxiv.org/abs/2402.03735)|null|
 |**2024-02-06**|**GitBug-Java: A Reproducible Benchmark of Recent Java Bugs**|André Silva et.al.|[2402.02961](http://arxiv.org/abs/2402.02961)|**[link](https://github.com/gitbugactions/gitbug-java)**|
 |**2024-01-26**|**On Repairing Quantum Programs Using ChatGPT**|Xiaoyu Guo et.al.|[2401.14913](http://arxiv.org/abs/2401.14913)|null|
@@ -208,6 +209,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**Delving into Parameter-Efficient Fine-Tuning in Code Change Learning: An Empirical Study**|Shuo Liu et.al.|[2402.06247](http://arxiv.org/abs/2402.06247)|null|
 |**2024-01-31**|**Three-Stage Adjusted Regression Forecasting (TSARF) for Software Defect Prediction**|Shadow Pritchard et.al.|[2401.17545](http://arxiv.org/abs/2401.17545)|null|
 |**2024-01-17**|**SMOOTHIE: A Theory of Hyper-parameter Optimization for Software Analytics**|Rahul Yedida et.al.|[2401.09622](http://arxiv.org/abs/2401.09622)|**[link](https://github.com/yrahul3910/smoothness-hpo)**|
 |**2023-12-19**|**Predicting Line-Level Defects by Capturing Code Contexts with Hierarchical Transformers**|Parvez Mahbub et.al.|[2312.11889](http://arxiv.org/abs/2312.11889)|null|
@@ -269,6 +271,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-09**|**Delving into Parameter-Efficient Fine-Tuning in Code Change Learning: An Empirical Study**|Shuo Liu et.al.|[2402.06247](http://arxiv.org/abs/2402.06247)|null|
+|**2024-02-09**|**LLMs for Coding and Robotics Education**|Peng Shu et.al.|[2402.06116](http://arxiv.org/abs/2402.06116)|null|
 |**2024-02-08**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863](http://arxiv.org/abs/2402.04863)|null|
 |**2024-02-06**|**Studying Vulnerable Code Entities in R**|Zixiao Zhao et.al.|[2402.04421](http://arxiv.org/abs/2402.04421)|**[link](https://github.com/sleepyhead01/vulnurable-code-entities-r-analysis)**|
 |**2024-01-26**|**SparseCoder: Identifier-Aware Sparse Transformer for File-Level Code Summarization**|Yanlin Wang et.al.|[2401.14727](http://arxiv.org/abs/2401.14727)|**[link](https://github.com/deepsoftwareanalytics/sparsecoder)**|
