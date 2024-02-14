@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-13**|**What is a "bug"? On subjectivity, epistemic power, and implications for software research**|David Gray Widder et.al.|[2402.08165](http://arxiv.org/abs/2402.08165)|null|
 |**2024-02-12**|**ASAP-Repair: API-Specific Automated Program Repair Based on API Usage Graphs**|Sebastian Nielebock et.al.|[2402.07542](http://arxiv.org/abs/2402.07542)|null|
 |**2024-02-09**|**CigaR: Cost-efficient Program Repair with LLMs**|Dávid Hidvégi et.al.|[2402.06598](http://arxiv.org/abs/2402.06598)|null|
 |**2024-02-06**|**Investigating the Utility of ChatGPT in the Issue Tracking System: An Exploratory Study**|Joy Krishan Das et.al.|[2402.03735](http://arxiv.org/abs/2402.03735)|null|
