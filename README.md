@@ -176,6 +176,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**MultiDimEr: a multi-dimensional bug analyzEr**|Lakmal Silva et.al.|[2402.10777](http://arxiv.org/abs/2402.10777)|null|
 |**2024-02-01**|**An Investigation of Hardware Security Bug Characteristics in Open-Source Projects**|Joey Ah-kiow et.al.|[2402.00684](http://arxiv.org/abs/2402.00684)|null|
 |**2023-11-11**|**How ChatGPT is Solving Vulnerability Management Problem**|Peiyu Liu et.al.|[2311.06530](http://arxiv.org/abs/2311.06530)|null|
 |**2023-09-15**|**Silent Vulnerability-fixing Commit Identification Based on Graph Neural Networks**|Hieu Dinh Vo et.al.|[2309.08225](http://arxiv.org/abs/2309.08225)|null|
