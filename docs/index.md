@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**Evaluating Program Repair with Semantic-Preserving Transformations: A Naturalness Assessment**|Thanh Le-Cong et.al.|[2402.11892](http://arxiv.org/abs/2402.11892)|**[link](https://github.com/thanhlecongg/naturaltransformationforbenchmarkingnpr)**|
 |**2024-02-13**|**What is a "bug"? On subjectivity, epistemic power, and implications for software research**|David Gray Widder et.al.|[2402.08165](http://arxiv.org/abs/2402.08165)|null|
 |**2024-02-12**|**ASAP-Repair: API-Specific Automated Program Repair Based on API Usage Graphs**|Sebastian Nielebock et.al.|[2402.07542](http://arxiv.org/abs/2402.07542)|null|
 |**2024-02-09**|**CigaR: Cost-efficient Program Repair with LLMs**|Dávid Hidvégi et.al.|[2402.06598](http://arxiv.org/abs/2402.06598)|**[link](https://github.com/assert-kth/cigar)**|
