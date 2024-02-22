@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language Models**|Berkay Berabi et.al.|[2402.13291](http://arxiv.org/abs/2402.13291)|null|
 |**2024-02-19**|**Evaluating Program Repair with Semantic-Preserving Transformations: A Naturalness Assessment**|Thanh Le-Cong et.al.|[2402.11892](http://arxiv.org/abs/2402.11892)|**[link](https://github.com/thanhlecongg/naturaltransformationforbenchmarkingnpr)**|
 |**2024-02-13**|**What is a "bug"? On subjectivity, epistemic power, and implications for software research**|David Gray Widder et.al.|[2402.08165](http://arxiv.org/abs/2402.08165)|null|
 |**2024-02-12**|**ASAP-Repair: API-Specific Automated Program Repair Based on API Usage Graphs**|Sebastian Nielebock et.al.|[2402.07542](http://arxiv.org/abs/2402.07542)|null|
@@ -302,7 +303,7 @@
 |---|---|---|---|---|
 |**2024-02-09**|**Delving into Parameter-Efficient Fine-Tuning in Code Change Learning: An Empirical Study**|Shuo Liu et.al.|[2402.06247](http://arxiv.org/abs/2402.06247)|null|
 |**2024-02-09**|**LLMs for Coding and Robotics Education**|Peng Shu et.al.|[2402.06116](http://arxiv.org/abs/2402.06116)|null|
-|**2024-02-08**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863](http://arxiv.org/abs/2402.04863)|null|
+|**2024-02-21**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863](http://arxiv.org/abs/2402.04863)|null|
 |**2024-02-06**|**Studying Vulnerable Code Entities in R**|Zixiao Zhao et.al.|[2402.04421](http://arxiv.org/abs/2402.04421)|**[link](https://github.com/sleepyhead01/vulnurable-code-entities-r-analysis)**|
 |**2024-01-26**|**SparseCoder: Identifier-Aware Sparse Transformer for File-Level Code Summarization**|Yanlin Wang et.al.|[2401.14727](http://arxiv.org/abs/2401.14727)|**[link](https://github.com/deepsoftwareanalytics/sparsecoder)**|
 |**2024-01-11**|**Integrating Personalized Parsons Problems with Multi-Level Textual Explanations to Scaffold Code Writing**|Xinying Hou et.al.|[2401.03144](http://arxiv.org/abs/2401.03144)|null|
