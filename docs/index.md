@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**BUGFIX: towards a common language and framework for the AutomaticProgram Repair community**|Bertrand Meyer et.al.|[2402.14471](http://arxiv.org/abs/2402.14471)|null|
 |**2024-02-19**|**DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language Models**|Berkay Berabi et.al.|[2402.13291](http://arxiv.org/abs/2402.13291)|null|
 |**2024-02-19**|**Evaluating Program Repair with Semantic-Preserving Transformations: A Naturalness Assessment**|Thanh Le-Cong et.al.|[2402.11892](http://arxiv.org/abs/2402.11892)|**[link](https://github.com/thanhlecongg/naturaltransformationforbenchmarkingnpr)**|
 |**2024-02-13**|**What is a "bug"? On subjectivity, epistemic power, and implications for software research**|David Gray Widder et.al.|[2402.08165](http://arxiv.org/abs/2402.08165)|null|
@@ -277,6 +278,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**Do Machines and Humans Focus on Similar Code? Exploring Explainability of Large Language Models in Code Summarization**|Jiliang Li et.al.|[2402.14182](http://arxiv.org/abs/2402.14182)|null|
+|**2024-02-21**|**EyeTrans: Merging Human and Machine Attention for Neural Code Summarization**|Yifan Zhang et.al.|[2402.14096](http://arxiv.org/abs/2402.14096)|**[link](https://zenodo.org/record/10684985)**|
 |**2024-02-09**|**Delving into Parameter-Efficient Fine-Tuning in Code Change Learning: An Empirical Study**|Shuo Liu et.al.|[2402.06247](http://arxiv.org/abs/2402.06247)|null|
 |**2024-02-09**|**LLMs for Coding and Robotics Education**|Peng Shu et.al.|[2402.06116](http://arxiv.org/abs/2402.06116)|null|
 |**2024-02-21**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863](http://arxiv.org/abs/2402.04863)|null|
