@@ -278,9 +278,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-26**|**Human-AI Co-Creation of Worked Examples for Programming Classes**|Mohammad Hassany et.al.|[2402.16235](http://arxiv.org/abs/2402.16235)|null|
+|**2024-02-29**|**Human-AI Co-Creation of Worked Examples for Programming Classes**|Mohammad Hassany et.al.|[2402.16235](http://arxiv.org/abs/2402.16235)|null|
 |**2024-02-22**|**Do Machines and Humans Focus on Similar Code? Exploring Explainability of Large Language Models in Code Summarization**|Jiliang Li et.al.|[2402.14182](http://arxiv.org/abs/2402.14182)|null|
-|**2024-02-23**|**EyeTrans: Merging Human and Machine Attention for Neural Code Summarization**|Yifan Zhang et.al.|[2402.14096](http://arxiv.org/abs/2402.14096)|**[link](https://zenodo.org/record/10684985)**|
+|**2024-02-29**|**EyeTrans: Merging Human and Machine Attention for Neural Code Summarization**|Yifan Zhang et.al.|[2402.14096](http://arxiv.org/abs/2402.14096)|**[link](https://zenodo.org/record/10684985)**|
 |**2024-02-09**|**Delving into Parameter-Efficient Fine-Tuning in Code Change Learning: An Empirical Study**|Shuo Liu et.al.|[2402.06247](http://arxiv.org/abs/2402.06247)|null|
 |**2024-02-09**|**LLMs for Coding and Robotics Education**|Peng Shu et.al.|[2402.06116](http://arxiv.org/abs/2402.06116)|null|
 |**2024-02-21**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863](http://arxiv.org/abs/2402.04863)|null|
