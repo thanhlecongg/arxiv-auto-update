@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-04**|**ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs**|Jiaolong Kong et.al.|[2403.01971](http://arxiv.org/abs/2403.01971)|null|
 |**2024-03-01**|**When Large Language Models Confront Repository-Level Automatic Program Repair: How Well They Done?**|Yuxiao Chen et.al.|[2403.00448](http://arxiv.org/abs/2403.00448)|null|
 |**2024-02-29**|**AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**|Guanxuan Wu et.al.|[2403.00170](http://arxiv.org/abs/2403.00170)|null|
 |**2024-02-22**|**BUGFIX: towards a common language and framework for the AutomaticProgram Repair community**|Bertrand Meyer et.al.|[2402.14471](http://arxiv.org/abs/2402.14471)|null|
@@ -165,6 +166,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-04**|**Unveiling Hidden Links Between Unseen Security Entities**|Daniel Alfasi et.al.|[2403.02014](http://arxiv.org/abs/2403.02014)|null|
 |**2024-02-16**|**MultiDimEr: a multi-dimensional bug analyzEr**|Lakmal Silva et.al.|[2402.10777](http://arxiv.org/abs/2402.10777)|null|
 |**2024-02-01**|**An Investigation of Hardware Security Bug Characteristics in Open-Source Projects**|Joey Ah-kiow et.al.|[2402.00684](http://arxiv.org/abs/2402.00684)|null|
 |**2023-11-11**|**How ChatGPT is Solving Vulnerability Management Problem**|Peiyu Liu et.al.|[2311.06530](http://arxiv.org/abs/2311.06530)|null|
