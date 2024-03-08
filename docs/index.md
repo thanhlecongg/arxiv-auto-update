@@ -9,9 +9,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-04**|**ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs**|Jiaolong Kong et.al.|[2403.01971](http://arxiv.org/abs/2403.01971)|null|
+|**2024-03-07**|**ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs**|Jiaolong Kong et.al.|[2403.01971](http://arxiv.org/abs/2403.01971)|null|
 |**2024-03-01**|**When Large Language Models Confront Repository-Level Automatic Program Repair: How Well They Done?**|Yuxiao Chen et.al.|[2403.00448](http://arxiv.org/abs/2403.00448)|null|
-|**2024-02-29**|**AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**|Guanxuan Wu et.al.|[2403.00170](http://arxiv.org/abs/2403.00170)|null|
+|**2024-03-07**|**AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**|Guanxuan Wu et.al.|[2403.00170](http://arxiv.org/abs/2403.00170)|null|
 |**2024-02-22**|**BUGFIX: towards a common language and framework for the AutomaticProgram Repair community**|Bertrand Meyer et.al.|[2402.14471](http://arxiv.org/abs/2402.14471)|null|
 |**2024-02-23**|**DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language Models**|Berkay Berabi et.al.|[2402.13291](http://arxiv.org/abs/2402.13291)|null|
 |**2024-02-19**|**Evaluating Program Repair with Semantic-Preserving Transformations: A Naturalness Assessment**|Thanh Le-Cong et.al.|[2402.11892](http://arxiv.org/abs/2402.11892)|**[link](https://github.com/thanhlecongg/naturaltransformationforbenchmarkingnpr)**|
