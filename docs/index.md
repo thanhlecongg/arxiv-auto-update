@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.19
+## Updated on 2024.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -219,6 +219,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-17**|**An Empirical Study on JIT Defect Prediction Based on BERT-style Model**|Yuxiang Guo et.al.|[2403.11158](http://arxiv.org/abs/2403.11158)|null|
+|**2024-03-17**|**Bridging Expert Knowledge with Deep Learning Techniques for Just-In-Time Defect Prediction**|Xin Zhou et.al.|[2403.11079](http://arxiv.org/abs/2403.11079)|null|
 |**2024-02-11**|**BAFLineDP: Code Bilinear Attention Fusion Framework for Line-Level Defect Prediction**|Shaojian Qiu et.al.|[2402.07132](http://arxiv.org/abs/2402.07132)|**[link](https://github.com/insoft-lab/baflinedp)**|
 |**2024-02-09**|**Delving into Parameter-Efficient Fine-Tuning in Code Change Learning: An Empirical Study**|Shuo Liu et.al.|[2402.06247](http://arxiv.org/abs/2402.06247)|null|
 |**2024-01-31**|**Three-Stage Adjusted Regression Forecasting (TSARF) for Software Defect Prediction**|Shadow Pritchard et.al.|[2401.17545](http://arxiv.org/abs/2401.17545)|null|
