@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**A Study of Vulnerability Repair in JavaScript Programs with Large Language Models**|Tan Khang Le et.al.|[2403.13193](http://arxiv.org/abs/2403.13193)|null|
 |**2024-03-07**|**ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs**|Jiaolong Kong et.al.|[2403.01971](http://arxiv.org/abs/2403.01971)|null|
 |**2024-03-01**|**When Large Language Models Confront Repository-Level Automatic Program Repair: How Well They Done?**|Yuxiao Chen et.al.|[2403.00448](http://arxiv.org/abs/2403.00448)|null|
 |**2024-03-07**|**AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**|Guanxuan Wu et.al.|[2403.00170](http://arxiv.org/abs/2403.00170)|null|
@@ -239,6 +240,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Genetic Auto-prompt Learning for Pre-trained Code Intelligence Language Models**|Chengzhe Feng et.al.|[2403.13588](http://arxiv.org/abs/2403.13588)|null|
 |**2024-03-19**|**Explainable AutoML (xAutoML) with adaptive modeling for yield enhancement in semiconductor smart manufacturing**|Weihong Zhai et.al.|[2403.12381](http://arxiv.org/abs/2403.12381)|null|
 |**2024-03-17**|**An Empirical Study on JIT Defect Prediction Based on BERT-style Model**|Yuxiang Guo et.al.|[2403.11158](http://arxiv.org/abs/2403.11158)|null|
 |**2024-03-17**|**Bridging Expert Knowledge with Deep Learning Techniques for Just-In-Time Defect Prediction**|Xin Zhou et.al.|[2403.11079](http://arxiv.org/abs/2403.11079)|null|
@@ -309,6 +311,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-20**|**Genetic Auto-prompt Learning for Pre-trained Code Intelligence Language Models**|Chengzhe Feng et.al.|[2403.13588](http://arxiv.org/abs/2403.13588)|null|
 |**2024-03-15**|**Read between the lines -- Functionality Extraction From READMEs**|Prince Kumar et.al.|[2403.10205](http://arxiv.org/abs/2403.10205)|null|
 |**2024-02-29**|**Human-AI Co-Creation of Worked Examples for Programming Classes**|Mohammad Hassany et.al.|[2402.16235](http://arxiv.org/abs/2402.16235)|null|
 |**2024-02-22**|**Do Machines and Humans Focus on Similar Code? Exploring Explainability of Large Language Models in Code Summarization**|Jiliang Li et.al.|[2402.14182](http://arxiv.org/abs/2402.14182)|null|
