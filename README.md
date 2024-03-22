@@ -1,4 +1,4 @@
-## Updated on 2024.03.21
+## Updated on 2024.03.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -22,7 +22,7 @@
 |**2024-03-19**|**A Study of Vulnerability Repair in JavaScript Programs with Large Language Models**|Tan Khang Le et.al.|[2403.13193](http://arxiv.org/abs/2403.13193)|null|
 |**2024-03-07**|**ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs**|Jiaolong Kong et.al.|[2403.01971](http://arxiv.org/abs/2403.01971)|null|
 |**2024-03-01**|**When Large Language Models Confront Repository-Level Automatic Program Repair: How Well They Done?**|Yuxiao Chen et.al.|[2403.00448](http://arxiv.org/abs/2403.00448)|null|
-|**2024-03-07**|**AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**|Guanxuan Wu et.al.|[2403.00170](http://arxiv.org/abs/2403.00170)|null|
+|**2024-03-21**|**AlloyASG: Alloy Predicate Code Representation as a Compact Structurally Balanced Graph**|Guanxuan Wu et.al.|[2403.00170](http://arxiv.org/abs/2403.00170)|null|
 |**2024-02-22**|**BUGFIX: towards a common language and framework for the AutomaticProgram Repair community**|Bertrand Meyer et.al.|[2402.14471](http://arxiv.org/abs/2402.14471)|null|
 |**2024-02-23**|**DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language Models**|Berkay Berabi et.al.|[2402.13291](http://arxiv.org/abs/2402.13291)|null|
 |**2024-02-19**|**Evaluating Program Repair with Semantic-Preserving Transformations: A Naturalness Assessment**|Thanh Le-Cong et.al.|[2402.11892](http://arxiv.org/abs/2402.11892)|**[link](https://github.com/thanhlecongg/naturaltransformationforbenchmarkingnpr)**|
@@ -124,7 +124,7 @@
 |**2022-07-22**|**Test-based Patch Clustering for Automatically-Generated Patches Assessment**|Matias Martinez et.al.|[2207.11082](http://arxiv.org/abs/2207.11082)|null|
 |**2022-07-21**|**BigIssue: A Realistic Bug Localization Benchmark**|Paul Kassianik et.al.|[2207.10739](http://arxiv.org/abs/2207.10739)|null|
 
-<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
 
 ## Automated Patch Correctness Assessment
 
@@ -148,7 +148,7 @@
 |**2020-03-31**|**RESTORE: Retrospective Fault Localization Enhancing Automated Program Repair**|Tongtong Xu et.al.|[1906.01778](http://arxiv.org/abs/1906.01778)|null|
 |**2020-09-28**|**A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark**|He Ye et.al.|[1805.03454](http://arxiv.org/abs/1805.03454)|**[link](https://github.com/KTH/quixbugs-experiment)**|
 
-<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
 
 ## Code Naturalness
 
@@ -177,7 +177,7 @@
 |**2011-09-05**|**Quantized Compute and Forward: A Low-Complexity Architecture for Distributed Antenna Systems**|Song-Nam Hong et.al.|[1109.0800](http://arxiv.org/abs/1109.0800)|null|
 |**2007-07-29**|**Embedded Rank Distance Codes for ISI channels**|S. Dusad et.al.|[0707.4311](http://arxiv.org/abs/0707.4311)|null|
 
-<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
 
 ## Bug/Vulnerability Management
 
@@ -214,7 +214,7 @@
 |**2017-05-15**|**Software Vulnerability Analysis Using CPE and CVE**|Luis Alberto Benthin Sanguino et.al.|[1705.05347](http://arxiv.org/abs/1705.05347)|null|
 |**2012-09-28**|**Vulnerability Management for an Enterprise Resource Planning System**|Shivani Goel et.al.|[1209.6484](http://arxiv.org/abs/1209.6484)|null|
 
-<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
 
 ## Regression Bugs/Bug Inducing Commit
 
@@ -234,7 +234,7 @@
 |**2021-01-21**|**TAOS-CI: Lightweight & Modular Continuous Integration System for Edge Computing**|Geunsik Lim et.al.|[2101.08889](http://arxiv.org/abs/2101.08889)|null|
 |**2015-05-06**|**Localization of real world regression Bugs using single execution**|Dekel Cohen et.al.|[1505.01286](http://arxiv.org/abs/1505.01286)|null|
 
-<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
 
 ## Defect Prediction
 
@@ -296,7 +296,7 @@
 |**2022-03-07**|**Online Adaptable Bug Localization for Rapidly Evolving Software**|Agnieszka Ciborowska et.al.|[2203.03544](http://arxiv.org/abs/2203.03544)|**[link](https://github.com/aciborowska/jingo)**|
 |**2022-04-30**|**ApacheJIT: A Large Dataset for Just-In-Time Defect Prediction**|Hossein Keshavarz et.al.|[2203.00101](http://arxiv.org/abs/2203.00101)|null|
 
-<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
 
 ## Bug Explanation
 
@@ -305,7 +305,7 @@
 |**2023-03-15**|**Defectors: A Large, Diverse Python Dataset for Defect Prediction**|Parvez Mahbub et.al.|[2303.04738](http://arxiv.org/abs/2303.04738)|null|
 |**2016-10-27**|**Learning Likely Invariants to Explain Why a Program Fails**|Jun Sun et.al.|[1610.08607](http://arxiv.org/abs/1610.08607)|null|
 
-<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
 
 ## Code Summarization
 
@@ -397,5 +397,5 @@
 |**2022-07-24**|**No More Fine-Tuning? An Experimental Evaluation of Prompt Tuning in Code Intelligence**|Chaozheng Wang et.al.|[2207.11680](http://arxiv.org/abs/2207.11680)|**[link](https://github.com/adf1178/pt4code)**|
 |**2022-10-16**|**Are We Building on the Rock? On the Importance of Data Preprocessing for Code Summarization**|Lin Shi et.al.|[2207.05579](http://arxiv.org/abs/2207.05579)|**[link](https://github.com/builtontherock/fse22_builtontherock)**|
 
-<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240322>back to top</a>)</p>
 
