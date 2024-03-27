@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-25**|**RepairAgent: An Autonomous, LLM-Based Agent for Program Repair**|Islem Bouzenia et.al.|[2403.17134](http://arxiv.org/abs/2403.17134)|null|
 |**2024-03-19**|**A Study of Vulnerability Repair in JavaScript Programs with Large Language Models**|Tan Khang Le et.al.|[2403.13193](http://arxiv.org/abs/2403.13193)|null|
 |**2024-03-07**|**ContrastRepair: Enhancing Conversation-Based Automated Program Repair via Contrastive Test Case Pairs**|Jiaolong Kong et.al.|[2403.01971](http://arxiv.org/abs/2403.01971)|null|
 |**2024-03-01**|**When Large Language Models Confront Repository-Level Automatic Program Repair: How Well They Done?**|Yuxiao Chen et.al.|[2403.00448](http://arxiv.org/abs/2403.00448)|null|
