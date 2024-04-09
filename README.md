@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-08**|**The Fact Selection Problem in LLM-Based Program Repair**|Nikhil Parasaram et.al.|[2404.05520](http://arxiv.org/abs/2404.05520)|null|
+|**2024-04-08**|**AutoCodeRover: Autonomous Program Improvement**|Yuntong Zhang et.al.|[2404.05427](http://arxiv.org/abs/2404.05427)|**[link](https://github.com/nus-apr/auto-code-rover)**|
+|**2024-04-06**|**Search-based Automated Program Repair of CPS Controllers Modeled in Simulink-Stateflow**|Aitor Arrieta et.al.|[2404.04688](http://arxiv.org/abs/2404.04688)|null|
 |**2024-04-02**|**Peer-aided Repairer: Empowering Large Language Models to Repair Advanced Student Assignments**|Qianhui Zhao et.al.|[2404.01754](http://arxiv.org/abs/2404.01754)|null|
 |**2024-03-25**|**RepairAgent: An Autonomous, LLM-Based Agent for Program Repair**|Islem Bouzenia et.al.|[2403.17134](http://arxiv.org/abs/2403.17134)|null|
 |**2024-03-19**|**A Study of Vulnerability Repair in JavaScript Programs with Large Language Models**|Tan Khang Le et.al.|[2403.13193](http://arxiv.org/abs/2403.13193)|null|
