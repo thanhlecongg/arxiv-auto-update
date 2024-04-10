@@ -292,6 +292,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-07**|**CSA-Trans: Code Structure Aware Transformer for AST**|Saeyoon Oh et.al.|[2404.05767](http://arxiv.org/abs/2404.05767)|null|
 |**2024-03-20**|**Genetic Auto-prompt Learning for Pre-trained Code Intelligence Language Models**|Chengzhe Feng et.al.|[2403.13588](http://arxiv.org/abs/2403.13588)|null|
 |**2024-03-15**|**Read between the lines -- Functionality Extraction From READMEs**|Prince Kumar et.al.|[2403.10205](http://arxiv.org/abs/2403.10205)|null|
 |**2024-02-29**|**Human-AI Co-Creation of Worked Examples for Programming Classes**|Mohammad Hassany et.al.|[2402.16235](http://arxiv.org/abs/2402.16235)|null|
