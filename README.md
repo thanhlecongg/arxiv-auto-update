@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-15**|**A Generic Approach to Fix Test Flakiness in Real-World Projects**|Yang Chen et.al.|[2404.09398](http://arxiv.org/abs/2404.09398)|null|
+|**2024-04-13**|**Aligning LLMs for FL-free Program Repair**|Junjielong Xu et.al.|[2404.08877](http://arxiv.org/abs/2404.08877)|null|
 |**2024-04-09**|**The Fact Selection Problem in LLM-Based Program Repair**|Nikhil Parasaram et.al.|[2404.05520](http://arxiv.org/abs/2404.05520)|**[link](https://github.com/pyrepair/maniple)**|
 |**2024-04-08**|**AutoCodeRover: Autonomous Program Improvement**|Yuntong Zhang et.al.|[2404.05427](http://arxiv.org/abs/2404.05427)|**[link](https://github.com/nus-apr/auto-code-rover)**|
 |**2024-04-06**|**Search-based Automated Program Repair of CPS Controllers Modeled in Simulink-Stateflow**|Aitor Arrieta et.al.|[2404.04688](http://arxiv.org/abs/2404.04688)|null|
@@ -316,6 +318,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-13**|**Zero-Shot Code Representation Learning via Prompt Tuning**|Nan Cui et.al.|[2404.08947](http://arxiv.org/abs/2404.08947)|null|
 |**2024-04-10**|**Analyzing the Performance of Large Language Models on Code Summarization**|Rajarshi Haldar et.al.|[2404.08018](http://arxiv.org/abs/2404.08018)|**[link](https://github.com/rajarshihaldar/analyze-llm-code-summarization)**|
 |**2024-04-07**|**CSA-Trans: Code Structure Aware Transformer for AST**|Saeyoon Oh et.al.|[2404.05767](http://arxiv.org/abs/2404.05767)|**[link](https://github.com/saeyoon17/code-structure-aware-transformer)**|
 |**2024-03-20**|**Genetic Auto-prompt Learning for Pre-trained Code Intelligence Language Models**|Chengzhe Feng et.al.|[2403.13588](http://arxiv.org/abs/2403.13588)|null|
