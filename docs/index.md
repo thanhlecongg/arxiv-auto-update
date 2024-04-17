@@ -294,6 +294,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-16**|**How Far Have We Gone in Stripped Binary Code Understanding Using Large Language Models**|Xiuwei Shang et.al.|[2404.09836](http://arxiv.org/abs/2404.09836)|null|
 |**2024-04-13**|**Zero-Shot Code Representation Learning via Prompt Tuning**|Nan Cui et.al.|[2404.08947](http://arxiv.org/abs/2404.08947)|null|
 |**2024-04-10**|**Analyzing the Performance of Large Language Models on Code Summarization**|Rajarshi Haldar et.al.|[2404.08018](http://arxiv.org/abs/2404.08018)|**[link](https://github.com/rajarshihaldar/analyze-llm-code-summarization)**|
 |**2024-04-07**|**CSA-Trans: Code Structure Aware Transformer for AST**|Saeyoon Oh et.al.|[2404.05767](http://arxiv.org/abs/2404.05767)|**[link](https://github.com/saeyoon17/code-structure-aware-transformer)**|
