@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**A Deep Dive into Large Language Models for Automated Bug Localization and Repair**|Soneya Binta Hossain et.al.|[2404.11595](http://arxiv.org/abs/2404.11595)|null|
+|**2024-04-17**|**An Empirical Evaluation of Pre-trained Large Language Models for Repairing Declarative Formal Specifications**|Mohannad Alhanahnah et.al.|[2404.11050](http://arxiv.org/abs/2404.11050)|null|
 |**2024-04-15**|**A Generic Approach to Fix Test Flakiness in Real-World Projects**|Yang Chen et.al.|[2404.09398](http://arxiv.org/abs/2404.09398)|null|
 |**2024-04-13**|**Aligning LLMs for FL-free Program Repair**|Junjielong Xu et.al.|[2404.08877](http://arxiv.org/abs/2404.08877)|null|
 |**2024-04-09**|**The Fact Selection Problem in LLM-Based Program Repair**|Nikhil Parasaram et.al.|[2404.05520](http://arxiv.org/abs/2404.05520)|**[link](https://github.com/pyrepair/maniple)**|
@@ -227,6 +229,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**The Effect of Defect (Re) Prediction on Software Testing**|Yukasa Murakami et.al.|[2404.11040](http://arxiv.org/abs/2404.11040)|null|
+|**2024-04-17**|**Building Defect Prediction Models by Online Learning Considering Defect Overlooking**|Nikolay Fedorov et.al.|[2404.11033](http://arxiv.org/abs/2404.11033)|null|
 |**2024-03-20**|**Genetic Auto-prompt Learning for Pre-trained Code Intelligence Language Models**|Chengzhe Feng et.al.|[2403.13588](http://arxiv.org/abs/2403.13588)|null|
 |**2024-03-19**|**Explainable AutoML (xAutoML) with adaptive modeling for yield enhancement in semiconductor smart manufacturing**|Weihong Zhai et.al.|[2403.12381](http://arxiv.org/abs/2403.12381)|null|
 |**2024-03-17**|**An Empirical Study on JIT Defect Prediction Based on BERT-style Model**|Yuxiang Guo et.al.|[2403.11158](http://arxiv.org/abs/2403.11158)|null|
