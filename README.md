@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-19**|**How Far Can We Go with Practical Function-Level Program Repair?**|Jiahong Xiang et.al.|[2404.12833](http://arxiv.org/abs/2404.12833)|null|
+|**2024-04-19**|**Multi-Objective Fine-Tuning for Enhanced Program Repair with LLMs**|Boyang Yang et.al.|[2404.12636](http://arxiv.org/abs/2404.12636)|null|
 |**2024-04-17**|**A Deep Dive into Large Language Models for Automated Bug Localization and Repair**|Soneya Binta Hossain et.al.|[2404.11595](http://arxiv.org/abs/2404.11595)|null|
 |**2024-04-17**|**An Empirical Evaluation of Pre-trained Large Language Models for Repairing Declarative Formal Specifications**|Mohannad Alhanahnah et.al.|[2404.11050](http://arxiv.org/abs/2404.11050)|**[link](https://github.com/mohannadcse/alloyspecrepair)**|
 |**2024-04-15**|**A Generic Approach to Fix Test Flakiness in Real-World Projects**|Yang Chen et.al.|[2404.09398](http://arxiv.org/abs/2404.09398)|null|
