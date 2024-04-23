@@ -251,6 +251,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-21**|**In-situ process monitoring and adaptive quality enhancement in laser additive manufacturing: a critical review**|Lequn Chen et.al.|[2404.13673](http://arxiv.org/abs/2404.13673)|null|
 |**2024-04-17**|**The Effect of Defect (Re) Prediction on Software Testing**|Yukasa Murakami et.al.|[2404.11040](http://arxiv.org/abs/2404.11040)|null|
 |**2024-04-17**|**Building Defect Prediction Models by Online Learning Considering Defect Overlooking**|Nikolay Fedorov et.al.|[2404.11033](http://arxiv.org/abs/2404.11033)|null|
 |**2024-03-20**|**Genetic Auto-prompt Learning for Pre-trained Code Intelligence Language Models**|Chengzhe Feng et.al.|[2403.13588](http://arxiv.org/abs/2403.13588)|null|
