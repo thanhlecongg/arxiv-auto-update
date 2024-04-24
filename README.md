@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Revisiting Unnaturalness for Automated Program Repair in the Era of Large Language Models**|Aidan Z. H. Yang et.al.|[2404.15236](http://arxiv.org/abs/2404.15236)|null|
+|**2024-04-23**|**NExT: Teaching Large Language Models to Reason about Code Execution**|Ansong Ni et.al.|[2404.14662](http://arxiv.org/abs/2404.14662)|null|
 |**2024-04-19**|**How Far Can We Go with Practical Function-Level Program Repair?**|Jiahong Xiang et.al.|[2404.12833](http://arxiv.org/abs/2404.12833)|null|
 |**2024-04-22**|**Multi-Objective Fine-Tuning for Enhanced Program Repair with LLMs**|Boyang Yang et.al.|[2404.12636](http://arxiv.org/abs/2404.12636)|null|
 |**2024-04-20**|**A Deep Dive into Large Language Models for Automated Bug Localization and Repair**|Soneya Binta Hossain et.al.|[2404.11595](http://arxiv.org/abs/2404.11595)|null|
