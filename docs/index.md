@@ -139,7 +139,7 @@ layout: default
 |**2024-01-26**|**Accelerating Patch Validation for Program Repair with Interception-Based Execution Scheduling**|Yuan-An Xiao et.al.|[2305.03955](http://arxiv.org/abs/2305.03955)|null|
 |**2023-03-10**|**Self-supervised Training Sample Difficulty Balancing for Local Descriptor Learning**|Jiahan Zhang et.al.|[2303.06124](http://arxiv.org/abs/2303.06124)|null|
 |**2024-01-16**|**APPT: Boosting Automated Patch Correctness Prediction via Fine-tuning Pre-trained Models**|Quanjun Zhang et.al.|[2301.12453](http://arxiv.org/abs/2301.12453)|**[link](https://github.com/isenglab/appt)**|
-|**2023-11-01**|**A Survey of Learning-based Automated Program Repair**|Quanjun Zhang et.al.|[2301.03270](http://arxiv.org/abs/2301.03270)|**[link](https://github.com/isenglab/awesomelearningapr)**|
+|**2023-11-01**|**A Survey of Learning-based Automated Program Repair**|Quanjun Zhang et.al.|[2301.03270](http://arxiv.org/abs/2301.03270)|**[link](https://github.com/quanjunzhang/awesomelearningapr)**|
 |**2023-03-17**|**Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning**|Thanh Le-Cong et.al.|[2301.01113](http://arxiv.org/abs/2301.01113)|**[link](https://github.com/thanhlecongg/Invalidator)**|
 |**2022-12-29**|**A Bayesian Framework for Automated Debugging**|Sungmin Kang et.al.|[2212.13773](http://arxiv.org/abs/2212.13773)|null|
 |**2022-04-19**|**Ball 3D Localization From A Single Calibrated Image**|Gabriel Van Zandycke et.al.|[2204.00003](http://arxiv.org/abs/2204.00003)|**[link](https://github.com/gabriel-vanzandycke/deepsport)**|
