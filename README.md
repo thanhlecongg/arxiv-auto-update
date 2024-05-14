@@ -259,6 +259,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**Improving classifier-based effort-aware software defect prediction by reducing ranking errors**|Yuchen Guo et.al.|[2405.07604](http://arxiv.org/abs/2405.07604)|null|
 |**2024-04-21**|**In-situ process monitoring and adaptive quality enhancement in laser additive manufacturing: a critical review**|Lequn Chen et.al.|[2404.13673](http://arxiv.org/abs/2404.13673)|null|
 |**2024-04-17**|**The Effect of Defect (Re) Prediction on Software Testing**|Yukasa Murakami et.al.|[2404.11040](http://arxiv.org/abs/2404.11040)|null|
 |**2024-04-17**|**Building Defect Prediction Models by Online Learning Considering Defect Overlooking**|Nikolay Fedorov et.al.|[2404.11033](http://arxiv.org/abs/2404.11033)|null|
