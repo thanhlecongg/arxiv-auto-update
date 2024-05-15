@@ -201,6 +201,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-14**|**SecScore: Enhancing the CVSS Threat Metric Group with Empirical Evidences**|Miguel Santana et.al.|[2405.08539](http://arxiv.org/abs/2405.08539)|null|
 |**2024-05-03**|**Bridging the Gap: A Study of AI-based Vulnerability Management between Industry and Academia**|Shengye Wan et.al.|[2405.02435](http://arxiv.org/abs/2405.02435)|null|
 |**2024-03-04**|**Unveiling Hidden Links Between Unseen Security Entities**|Daniel Alfasi et.al.|[2403.02014](http://arxiv.org/abs/2403.02014)|null|
 |**2024-02-16**|**MultiDimEr: a multi-dimensional bug analyzEr**|Lakmal Silva et.al.|[2402.10777](http://arxiv.org/abs/2402.10777)|null|
