@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-21**|**Test Oracle Automation in the era of LLMs**|Facundo Molina et.al.|[2405.12766](http://arxiv.org/abs/2405.12766)|null|
+|**2024-05-21**|**Fight Fire with Fire: How Much Can We Trust ChatGPT on Source Code-Related Tasks?**|Xiao Yu et.al.|[2405.12641](http://arxiv.org/abs/2405.12641)|null|
 |**2024-05-15**|**An Empirical Study of Token-based Micro Commits**|Masanari Kondo et.al.|[2405.09165](http://arxiv.org/abs/2405.09165)|null|
 |**2024-05-08**|**Automated Program Repair: Emerging trends pose and expose problems for benchmarks**|Joseph Renzullo et.al.|[2405.05455](http://arxiv.org/abs/2405.05455)|null|
 |**2024-05-08**|**Benchmarking Educational Program Repair**|Charles Koutcheme et.al.|[2405.05347](http://arxiv.org/abs/2405.05347)|**[link](https://github.com/koutchemecharles/gaied_nips23)**|
