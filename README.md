@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback**|Ummay Kulsum et.al.|[2405.15690](http://arxiv.org/abs/2405.15690)|null|
 |**2024-05-21**|**Test Oracle Automation in the era of LLMs**|Facundo Molina et.al.|[2405.12766](http://arxiv.org/abs/2405.12766)|null|
 |**2024-05-21**|**Fight Fire with Fire: How Much Can We Trust ChatGPT on Source Code-Related Tasks?**|Xiao Yu et.al.|[2405.12641](http://arxiv.org/abs/2405.12641)|null|
 |**2024-05-15**|**An Empirical Study of Token-based Micro Commits**|Masanari Kondo et.al.|[2405.09165](http://arxiv.org/abs/2405.09165)|null|
@@ -151,6 +152,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback**|Ummay Kulsum et.al.|[2405.15690](http://arxiv.org/abs/2405.15690)|null|
 |**2023-10-10**|**Automatic Generation of Test Cases based on Bug Reports: a Feasibility Study with Large Language Models**|Laura Plein et.al.|[2310.06320](http://arxiv.org/abs/2310.06320)|null|
 |**2023-09-15**|**Practical Program Repair via Preference-based Ensemble Strategy**|Wenkang Zhong et.al.|[2309.08211](http://arxiv.org/abs/2309.08211)|**[link](https://github.com/kwz219/p-epr-artefact)**|
 |**2023-08-01**|**Program Repair by Fuzzing over Patch and Input Space**|Yuntong Zhang et.al.|[2308.00666](http://arxiv.org/abs/2308.00666)|null|
