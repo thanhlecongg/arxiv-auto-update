@@ -342,6 +342,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**Large Language Models for Code Summarization**|Balázs Szalontai et.al.|[2405.19032](http://arxiv.org/abs/2405.19032)|null|
+|**2024-05-28**|**Training LLMs to Better Self-Debug and Explain Code**|Nan Jiang et.al.|[2405.18649](http://arxiv.org/abs/2405.18649)|null|
+|**2024-05-28**|**Programmer Visual Attention During Context-Aware Code Summarization**|Aakash Bansal et.al.|[2405.18573](http://arxiv.org/abs/2405.18573)|null|
 |**2024-04-30**|**On Training a Neural Network to Explain Binaries**|Alexander Interrante-Grant et.al.|[2404.19631](http://arxiv.org/abs/2404.19631)|null|
 |**2024-05-01**|**Improving LLM Classification of Logical Errors by Integrating Error Relationship into Prompts**|Yanggyu Lee et.al.|[2404.19336](http://arxiv.org/abs/2404.19336)|null|
 |**2024-04-16**|**How Far Have We Gone in Stripped Binary Code Understanding Using Large Language Models**|Xiuwei Shang et.al.|[2404.09836](http://arxiv.org/abs/2404.09836)|null|
