@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-09**|**A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Automated Program Repair**|Guochang Li et.al.|[2406.05639](http://arxiv.org/abs/2406.05639)|null|
 |**2024-06-03**|**SemCoder: Training Code Language Models with Comprehensive Semantics**|Yangruibo Ding et.al.|[2406.01006](http://arxiv.org/abs/2406.01006)|null|
 |**2024-06-04**|**Hybrid Automated Program Repair by Combining Large Language Models and Program Analysis**|Fengjie Li et.al.|[2406.00992](http://arxiv.org/abs/2406.00992)|null|
 |**2024-05-30**|**A Novel Approach for Automated Design Information Mining from Issue Logs**|Jiuang Zhao et.al.|[2405.19623](http://arxiv.org/abs/2405.19623)|null|
@@ -209,6 +210,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-09**|**A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities**|Corren McCoy et.al.|[2406.05933](http://arxiv.org/abs/2406.05933)|null|
 |**2024-05-22**|**CPE-Identifier: Automated CPE identification and CVE summaries annotation with Deep Learning and NLP**|Wanyu Hu et.al.|[2405.13568](http://arxiv.org/abs/2405.13568)|null|
 |**2024-05-14**|**SecScore: Enhancing the CVSS Threat Metric Group with Empirical Evidences**|Miguel Santana et.al.|[2405.08539](http://arxiv.org/abs/2405.08539)|null|
 |**2024-05-03**|**Bridging the Gap: A Study of AI-based Vulnerability Management between Industry and Academia**|Shengye Wan et.al.|[2405.02435](http://arxiv.org/abs/2405.02435)|null|
