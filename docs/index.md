@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.20
+## Updated on 2024.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -202,7 +202,7 @@ layout: default
 |**2024-03-04**|**Unveiling Hidden Links Between Unseen Security Entities**|Daniel Alfasi et.al.|[2403.02014](http://arxiv.org/abs/2403.02014)|null|
 |**2024-02-16**|**MultiDimEr: a multi-dimensional bug analyzEr**|Lakmal Silva et.al.|[2402.10777](http://arxiv.org/abs/2402.10777)|null|
 |**2024-02-01**|**An Investigation of Hardware Security Bug Characteristics in Open-Source Projects**|Joey Ah-kiow et.al.|[2402.00684](http://arxiv.org/abs/2402.00684)|null|
-|**2023-11-11**|**How ChatGPT is Solving Vulnerability Management Problem**|Peiyu Liu et.al.|[2311.06530](http://arxiv.org/abs/2311.06530)|null|
+|**2024-06-20**|**Exploring ChatGPT's Capabilities on Vulnerability Management**|Peiyu Liu et.al.|[2311.06530](http://arxiv.org/abs/2311.06530)|null|
 |**2023-09-15**|**Silent Vulnerability-fixing Commit Identification Based on Graph Neural Networks**|Hieu Dinh Vo et.al.|[2309.08225](http://arxiv.org/abs/2309.08225)|null|
 |**2023-09-05**|**Using a Nearest-Neighbour, BERT-Based Approach for Scalable Clone Detection**|Muslim Chochlov et.al.|[2309.02182](http://arxiv.org/abs/2309.02182)|null|
 |**2023-09-05**|**VFFINDER: A Graph-based Approach for Automated Silent Vulnerability-Fix Identification**|Son Nguyen et.al.|[2309.01971](http://arxiv.org/abs/2309.01971)|null|
