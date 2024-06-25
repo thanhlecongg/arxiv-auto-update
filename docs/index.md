@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**NARRepair: Non-Autoregressive Code Generation Model for Automatic Program Repair**|Zhenyu Yang et.al.|[2406.16526](http://arxiv.org/abs/2406.16526)|null|
+|**2024-06-23**|**On The Effectiveness of Dynamic Reduction Techniques in Automated Program Repair**|Omar I. Al-Bataineh et.al.|[2406.16225](http://arxiv.org/abs/2406.16225)|null|
 |**2024-06-20**|**CREF: An LLM-based Conversational Software Repair Framework for Programming Tutors**|Boyang Yang et.al.|[2406.13972](http://arxiv.org/abs/2406.13972)|null|
 |**2024-06-14**|**Mokav: Execution-driven Differential Testing with LLMs**|Khashayar Etemadi et.al.|[2406.10375](http://arxiv.org/abs/2406.10375)|null|
 |**2024-06-09**|**A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Automated Program Repair**|Guochang Li et.al.|[2406.05639](http://arxiv.org/abs/2406.05639)|null|
@@ -146,6 +148,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-23**|**On The Effectiveness of Dynamic Reduction Techniques in Automated Program Repair**|Omar I. Al-Bataineh et.al.|[2406.16225](http://arxiv.org/abs/2406.16225)|null|
 |**2024-05-24**|**A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback**|Ummay Kulsum et.al.|[2405.15690](http://arxiv.org/abs/2405.15690)|null|
 |**2023-10-10**|**Automatic Generation of Test Cases based on Bug Reports: a Feasibility Study with Large Language Models**|Laura Plein et.al.|[2310.06320](http://arxiv.org/abs/2310.06320)|null|
 |**2023-09-15**|**Practical Program Repair via Preference-based Ensemble Strategy**|Wenkang Zhong et.al.|[2309.08211](http://arxiv.org/abs/2309.08211)|**[link](https://github.com/kwz219/p-epr-artefact)**|
