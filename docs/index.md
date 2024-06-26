@@ -256,6 +256,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Cascade Generalization-based Classifiers for Software Defect Prediction**|Aminat Bashir et.al.|[2406.17120](http://arxiv.org/abs/2406.17120)|null|
 |**2024-05-17**|**Defect Category Prediction Based on Multi-Source Domain Adaptation**|Ying Xing et.al.|[2405.10511](http://arxiv.org/abs/2405.10511)|null|
 |**2024-05-13**|**Improving classifier-based effort-aware software defect prediction by reducing ranking errors**|Yuchen Guo et.al.|[2405.07604](http://arxiv.org/abs/2405.07604)|null|
 |**2024-04-21**|**In-situ process monitoring and adaptive quality enhancement in laser additive manufacturing: a critical review**|Lequn Chen et.al.|[2404.13673](http://arxiv.org/abs/2404.13673)|null|
