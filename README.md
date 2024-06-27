@@ -353,6 +353,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**MALSIGHT: Exploring Malicious Source Code and Benign Pseudocode for Iterative Binary Malware Summarization**|Haolang Lu et.al.|[2406.18379](http://arxiv.org/abs/2406.18379)|null|
 |**2024-05-29**|**Large Language Models for Code Summarization**|Balázs Szalontai et.al.|[2405.19032](http://arxiv.org/abs/2405.19032)|null|
 |**2024-05-28**|**Training LLMs to Better Self-Debug and Explain Code**|Nan Jiang et.al.|[2405.18649](http://arxiv.org/abs/2405.18649)|null|
 |**2024-05-28**|**Programmer Visual Attention During Context-Aware Code Summarization**|Aakash Bansal et.al.|[2405.18573](http://arxiv.org/abs/2405.18573)|null|
