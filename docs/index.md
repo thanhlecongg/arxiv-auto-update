@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.02
+## Updated on 2024.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -160,7 +160,7 @@ layout: default
 |**2023-03-17**|**Invalidator: Automated Patch Correctness Assessment via Semantic and Syntactic Reasoning**|Thanh Le-Cong et.al.|[2301.01113](http://arxiv.org/abs/2301.01113)|**[link](https://github.com/thanhlecongg/Invalidator)**|
 |**2022-12-29**|**A Bayesian Framework for Automated Debugging**|Sungmin Kang et.al.|[2212.13773](http://arxiv.org/abs/2212.13773)|null|
 |**2022-04-19**|**Ball 3D Localization From A Single Calibrated Image**|Gabriel Van Zandycke et.al.|[2204.00003](http://arxiv.org/abs/2204.00003)|**[link](https://github.com/gabriel-vanzandycke/deepsport)**|
-|**2021-05-15**|**How Does Regression Test Selection Affect Program Repair? An Extensive Study on 2 Million Patches**|Yiling Lou et.al.|[2105.07311](http://arxiv.org/abs/2105.07311)|null|
+|**2024-07-02**|**When Automated Program Repair Meets Regression Testing -- An Extensive Study on 2 Million Patches**|Yiling Lou et.al.|[2105.07311](http://arxiv.org/abs/2105.07311)|null|
 |**2021-03-31**|**Exploring Plausible Patches Using Source Code Embeddings in JavaScript**|Viktor Csuvik et.al.|[2103.16846](http://arxiv.org/abs/2103.16846)|**[link](https://github.com/RGAI-USZ/JS-patch-exploration-APR2021)**|
 |**2020-09-15**|**PRF: A Framework for Building Automatic Program Repair Prototypes for JVM-Based Languages**|Ali Ghanbari et.al.|[2009.06848](http://arxiv.org/abs/2009.06848)|null|
 |**2020-07-22**|**Fast and Precise On-the-fly Patch Validation for All**|Lingchao Chen et.al.|[2007.11449](http://arxiv.org/abs/2007.11449)|null|
