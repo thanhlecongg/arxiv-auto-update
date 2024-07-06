@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-01**|**Agentless: Demystifying LLM-based Software Engineering Agents**|Chunqiu Steven Xia et.al.|[2407.01489](http://arxiv.org/abs/2407.01489)|null|
+|**2024-07-01**|**Agentless: Demystifying LLM-based Software Engineering Agents**|Chunqiu Steven Xia et.al.|[2407.01489](http://arxiv.org/abs/2407.01489)|**[link](https://github.com/OpenAutoCoder/Agentless)**|
 |**2024-06-24**|**NARRepair: Non-Autoregressive Code Generation Model for Automatic Program Repair**|Zhenyu Yang et.al.|[2406.16526](http://arxiv.org/abs/2406.16526)|null|
 |**2024-06-23**|**On The Effectiveness of Dynamic Reduction Techniques in Automated Program Repair**|Omar I. Al-Bataineh et.al.|[2406.16225](http://arxiv.org/abs/2406.16225)|null|
 |**2024-06-20**|**CREF: An LLM-based Conversational Software Repair Framework for Programming Tutors**|Boyang Yang et.al.|[2406.13972](http://arxiv.org/abs/2406.13972)|null|
@@ -223,7 +223,7 @@
 |**2024-03-04**|**Unveiling Hidden Links Between Unseen Security Entities**|Daniel Alfasi et.al.|[2403.02014](http://arxiv.org/abs/2403.02014)|null|
 |**2024-02-16**|**MultiDimEr: a multi-dimensional bug analyzEr**|Lakmal Silva et.al.|[2402.10777](http://arxiv.org/abs/2402.10777)|null|
 |**2024-02-01**|**An Investigation of Hardware Security Bug Characteristics in Open-Source Projects**|Joey Ah-kiow et.al.|[2402.00684](http://arxiv.org/abs/2402.00684)|null|
-|**2024-06-20**|**Exploring ChatGPT's Capabilities on Vulnerability Management**|Peiyu Liu et.al.|[2311.06530](http://arxiv.org/abs/2311.06530)|null|
+|**2024-06-20**|**Exploring ChatGPT's Capabilities on Vulnerability Management**|Peiyu Liu et.al.|[2311.06530](http://arxiv.org/abs/2311.06530)|**[link](https://github.com/jamrot/chatgpt-vulnerability-management)**|
 |**2023-09-15**|**Silent Vulnerability-fixing Commit Identification Based on Graph Neural Networks**|Hieu Dinh Vo et.al.|[2309.08225](http://arxiv.org/abs/2309.08225)|null|
 |**2023-09-05**|**Using a Nearest-Neighbour, BERT-Based Approach for Scalable Clone Detection**|Muslim Chochlov et.al.|[2309.02182](http://arxiv.org/abs/2309.02182)|null|
 |**2023-09-05**|**VFFINDER: A Graph-based Approach for Automated Silent Vulnerability-Fix Identification**|Son Nguyen et.al.|[2309.01971](http://arxiv.org/abs/2309.01971)|null|
