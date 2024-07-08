@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-04**|**Automated C/C++ Program Repair for High-Level Synthesis via Large Language Models**|Kangwei Xu et.al.|[2407.03889](http://arxiv.org/abs/2407.03889)|null|
 |**2024-07-01**|**Agentless: Demystifying LLM-based Software Engineering Agents**|Chunqiu Steven Xia et.al.|[2407.01489](http://arxiv.org/abs/2407.01489)|**[link](https://github.com/OpenAutoCoder/Agentless)**|
 |**2024-06-24**|**NARRepair: Non-Autoregressive Code Generation Model for Automatic Program Repair**|Zhenyu Yang et.al.|[2406.16526](http://arxiv.org/abs/2406.16526)|null|
 |**2024-06-23**|**On The Effectiveness of Dynamic Reduction Techniques in Automated Program Repair**|Omar I. Al-Bataineh et.al.|[2406.16225](http://arxiv.org/abs/2406.16225)|null|
@@ -277,6 +278,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-04**|**ALPINE: An adaptive language-agnostic pruning method for language models for code**|Mootez Saad et.al.|[2407.04147](http://arxiv.org/abs/2407.04147)|null|
 |**2024-06-24**|**Cascade Generalization-based Classifiers for Software Defect Prediction**|Aminat Bashir et.al.|[2406.17120](http://arxiv.org/abs/2406.17120)|null|
 |**2024-05-17**|**Defect Category Prediction Based on Multi-Source Domain Adaptation**|Ying Xing et.al.|[2405.10511](http://arxiv.org/abs/2405.10511)|null|
 |**2024-05-13**|**Improving classifier-based effort-aware software defect prediction by reducing ranking errors**|Yuchen Guo et.al.|[2405.07604](http://arxiv.org/abs/2405.07604)|null|
@@ -354,6 +356,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-04**|**An Empirical Study on Capability of Large Language Models in Understanding Code Semantics**|Thu-Trang Nguyen et.al.|[2407.03611](http://arxiv.org/abs/2407.03611)|null|
 |**2024-07-04**|**Is Your AI-Generated Code Really Safe? Evaluating Large Language Models on Secure Code Generation with CodeSecEval**|Jiexin Wang et.al.|[2407.02395](http://arxiv.org/abs/2407.02395)|null|
 |**2024-07-01**|**ESALE: Enhancing Code-Summary Alignment Learning for Source Code Summarization**|Chunrong Fang et.al.|[2407.01646](http://arxiv.org/abs/2407.01646)|null|
 |**2024-06-26**|**MALSIGHT: Exploring Malicious Source Code and Benign Pseudocode for Iterative Binary Malware Summarization**|Haolang Lu et.al.|[2406.18379](http://arxiv.org/abs/2406.18379)|null|
