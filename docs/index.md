@@ -332,6 +332,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-09**|**Source Code Summarization in the Era of Large Language Models**|Weisong Sun et.al.|[2407.07959](http://arxiv.org/abs/2407.07959)|**[link](https://github.com/wssun/llm4codesummarization)**|
 |**2024-07-08**|**InverseCoder: Unleashing the Power of Instruction-Tuned Code LLMs with Inverse-Instruct**|Yutong Wu et.al.|[2407.05700](http://arxiv.org/abs/2407.05700)|**[link](https://github.com/wyt2000/InverseCoder)**|
 |**2024-07-04**|**An Empirical Study on Capability of Large Language Models in Understanding Code Semantics**|Thu-Trang Nguyen et.al.|[2407.03611](http://arxiv.org/abs/2407.03611)|null|
 |**2024-07-04**|**Is Your AI-Generated Code Really Safe? Evaluating Large Language Models on Secure Code Generation with CodeSecEval**|Jiexin Wang et.al.|[2407.02395](http://arxiv.org/abs/2407.02395)|null|
