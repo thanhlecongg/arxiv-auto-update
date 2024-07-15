@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Towards Practical and Useful Automated Program Repair for Debugging**|Qi Xin et.al.|[2407.08958](http://arxiv.org/abs/2407.08958)|null|
 |**2024-07-04**|**Automated C/C++ Program Repair for High-Level Synthesis via Large Language Models**|Kangwei Xu et.al.|[2407.03889](http://arxiv.org/abs/2407.03889)|null|
 |**2024-07-01**|**Agentless: Demystifying LLM-based Software Engineering Agents**|Chunqiu Steven Xia et.al.|[2407.01489](http://arxiv.org/abs/2407.01489)|**[link](https://github.com/OpenAutoCoder/Agentless)**|
 |**2024-06-24**|**NARRepair: Non-Autoregressive Code Generation Model for Automatic Program Repair**|Zhenyu Yang et.al.|[2406.16526](http://arxiv.org/abs/2406.16526)|null|
@@ -162,6 +163,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-12**|**Towards Practical and Useful Automated Program Repair for Debugging**|Qi Xin et.al.|[2407.08958](http://arxiv.org/abs/2407.08958)|null|
 |**2024-06-23**|**On The Effectiveness of Dynamic Reduction Techniques in Automated Program Repair**|Omar I. Al-Bataineh et.al.|[2406.16225](http://arxiv.org/abs/2406.16225)|null|
 |**2024-05-24**|**A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback**|Ummay Kulsum et.al.|[2405.15690](http://arxiv.org/abs/2405.15690)|null|
 |**2023-10-10**|**Automatic Generation of Test Cases based on Bug Reports: a Feasibility Study with Large Language Models**|Laura Plein et.al.|[2310.06320](http://arxiv.org/abs/2310.06320)|null|
@@ -356,6 +358,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-11**|**DeepCodeProbe: Towards Understanding What Models Trained on Code Learn**|Vahid Majdinasab et.al.|[2407.08890](http://arxiv.org/abs/2407.08890)|**[link](https://github.com/commissarsilver/deepcodeprobe)**|
 |**2024-07-09**|**Source Code Summarization in the Era of Large Language Models**|Weisong Sun et.al.|[2407.07959](http://arxiv.org/abs/2407.07959)|**[link](https://github.com/wssun/llm4codesummarization)**|
 |**2024-07-08**|**InverseCoder: Unleashing the Power of Instruction-Tuned Code LLMs with Inverse-Instruct**|Yutong Wu et.al.|[2407.05700](http://arxiv.org/abs/2407.05700)|**[link](https://github.com/wyt2000/InverseCoder)**|
 |**2024-07-04**|**An Empirical Study on Capability of Large Language Models in Understanding Code Semantics**|Thu-Trang Nguyen et.al.|[2407.03611](http://arxiv.org/abs/2407.03611)|null|
