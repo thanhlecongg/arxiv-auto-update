@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.22
+## Updated on 2024.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -260,7 +260,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-18**|**EvaluateXAI: A Framework to Evaluate the Reliability and Consistency of Rule-based XAI Techniques for Software Analytics Tasks**|Md Abdul Awal et.al.|[2407.13902](http://arxiv.org/abs/2407.13902)|null|
+|**2024-07-18**|**EvaluateXAI: A Framework to Evaluate the Reliability and Consistency of Rule-based XAI Techniques for Software Analytics Tasks**|Md Abdul Awal et.al.|[2407.13902](http://arxiv.org/abs/2407.13902)|**[link](https://zenodo.org/record/zenodo.7869326)**|
 |**2024-07-04**|**ALPINE: An adaptive language-agnostic pruning method for language models for code**|Mootez Saad et.al.|[2407.04147](http://arxiv.org/abs/2407.04147)|null|
 |**2024-06-24**|**Cascade Generalization-based Classifiers for Software Defect Prediction**|Aminat Bashir et.al.|[2406.17120](http://arxiv.org/abs/2406.17120)|null|
 |**2024-05-17**|**Defect Category Prediction Based on Multi-Source Domain Adaptation**|Ying Xing et.al.|[2405.10511](http://arxiv.org/abs/2405.10511)|null|
