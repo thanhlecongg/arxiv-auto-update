@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**ThinkRepair: Self-Directed Automated Program Repair**|Xin Yin et.al.|[2407.20898](http://arxiv.org/abs/2407.20898)|**[link](https://github.com/vinci-grape/ThinkRepair)**|
 |**2024-07-24**|**Ranking Plausible Patches by Historic Feature Frequencies**|Shifat Sahariar Bhuiyan et.al.|[2407.17240](http://arxiv.org/abs/2407.17240)|null|
 |**2024-07-12**|**Towards Practical and Useful Automated Program Repair for Debugging**|Qi Xin et.al.|[2407.08958](http://arxiv.org/abs/2407.08958)|null|
 |**2024-07-04**|**Automated C/C++ Program Repair for High-Level Synthesis via Large Language Models**|Kangwei Xu et.al.|[2407.03889](http://arxiv.org/abs/2407.03889)|null|
