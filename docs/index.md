@@ -16,7 +16,7 @@ layout: default
 |**2024-07-01**|**Agentless: Demystifying LLM-based Software Engineering Agents**|Chunqiu Steven Xia et.al.|[2407.01489](http://arxiv.org/abs/2407.01489)|**[link](https://github.com/OpenAutoCoder/Agentless)**|
 |**2024-06-24**|**NARRepair: Non-Autoregressive Code Generation Model for Automatic Program Repair**|Zhenyu Yang et.al.|[2406.16526](http://arxiv.org/abs/2406.16526)|null|
 |**2024-06-23**|**On The Effectiveness of Dynamic Reduction Techniques in Automated Program Repair**|Omar I. Al-Bataineh et.al.|[2406.16225](http://arxiv.org/abs/2406.16225)|null|
-|**2024-07-08**|**CREF: An LLM-based Conversational Software Repair Framework for Programming Tutors**|Boyang Yang et.al.|[2406.13972](http://arxiv.org/abs/2406.13972)|null|
+|**2024-07-08**|**CREF: An LLM-based Conversational Software Repair Framework for Programming Tutors**|Boyang Yang et.al.|[2406.13972](http://arxiv.org/abs/2406.13972)|**[link](https://github.com/buaabarty/cref)**|
 |**2024-06-14**|**Mokav: Execution-driven Differential Testing with LLMs**|Khashayar Etemadi et.al.|[2406.10375](http://arxiv.org/abs/2406.10375)|**[link](https://github.com/ASSERT-KTH/Mokav)**|
 |**2024-06-09**|**A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Automated Program Repair**|Guochang Li et.al.|[2406.05639](http://arxiv.org/abs/2406.05639)|null|
 |**2024-06-03**|**SemCoder: Training Code Language Models with Comprehensive Semantics**|Yangruibo Ding et.al.|[2406.01006](http://arxiv.org/abs/2406.01006)|null|
