@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**The Impact of Program Reduction on Automated Program Repair**|Linas Vidziunas et.al.|[2408.01134](http://arxiv.org/abs/2408.01134)|null|
 |**2024-07-30**|**ThinkRepair: Self-Directed Automated Program Repair**|Xin Yin et.al.|[2407.20898](http://arxiv.org/abs/2407.20898)|**[link](https://github.com/vinci-grape/ThinkRepair)**|
 |**2024-07-24**|**Ranking Plausible Patches by Historic Feature Frequencies**|Shifat Sahariar Bhuiyan et.al.|[2407.17240](http://arxiv.org/abs/2407.17240)|null|
 |**2024-07-12**|**Towards Practical and Useful Automated Program Repair for Debugging**|Qi Xin et.al.|[2407.08958](http://arxiv.org/abs/2407.08958)|null|
@@ -165,6 +166,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-02**|**The Impact of Program Reduction on Automated Program Repair**|Linas Vidziunas et.al.|[2408.01134](http://arxiv.org/abs/2408.01134)|null|
 |**2024-07-12**|**Towards Practical and Useful Automated Program Repair for Debugging**|Qi Xin et.al.|[2407.08958](http://arxiv.org/abs/2407.08958)|null|
 |**2024-06-23**|**On The Effectiveness of Dynamic Reduction Techniques in Automated Program Repair**|Omar I. Al-Bataineh et.al.|[2406.16225](http://arxiv.org/abs/2406.16225)|null|
 |**2024-05-24**|**A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback**|Ummay Kulsum et.al.|[2405.15690](http://arxiv.org/abs/2405.15690)|null|
