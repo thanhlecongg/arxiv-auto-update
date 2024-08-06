@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**SpecRover: Code Intent Extraction via LLMs**|Haifeng Ruan et.al.|[2408.02232](http://arxiv.org/abs/2408.02232)|null|
 |**2024-08-02**|**The Impact of Program Reduction on Automated Program Repair**|Linas Vidziunas et.al.|[2408.01134](http://arxiv.org/abs/2408.01134)|null|
 |**2024-07-30**|**ThinkRepair: Self-Directed Automated Program Repair**|Xin Yin et.al.|[2407.20898](http://arxiv.org/abs/2407.20898)|**[link](https://github.com/vinci-grape/ThinkRepair)**|
 |**2024-07-24**|**Ranking Plausible Patches by Historic Feature Frequencies**|Shifat Sahariar Bhuiyan et.al.|[2407.17240](http://arxiv.org/abs/2407.17240)|null|
