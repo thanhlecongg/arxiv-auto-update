@@ -286,6 +286,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**Minimum Enclosing Ball Synthetic Minority Oversampling Technique from a Geometric Perspective**|Yi-Yang Shangguan et.al.|[2408.03526](http://arxiv.org/abs/2408.03526)|null|
 |**2024-07-18**|**EvaluateXAI: A Framework to Evaluate the Reliability and Consistency of Rule-based XAI Techniques for Software Analytics Tasks**|Md Abdul Awal et.al.|[2407.13902](http://arxiv.org/abs/2407.13902)|**[link](https://zenodo.org/record/zenodo.7869326)**|
 |**2024-07-04**|**ALPINE: An adaptive language-agnostic pruning method for language models for code**|Mootez Saad et.al.|[2407.04147](http://arxiv.org/abs/2407.04147)|null|
 |**2024-06-24**|**Cascade Generalization-based Classifiers for Software Defect Prediction**|Aminat Bashir et.al.|[2406.17120](http://arxiv.org/abs/2406.17120)|null|
