@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Syntax-Guided Automated Program Repair for Hyperproperties**|Raven Beutner et.al.|[2408.06035](http://arxiv.org/abs/2408.06035)|null|
 |**2024-08-06**|**Towards Fixing Panic Bugs for Real-world Rust Programs**|Yunbo Ni et.al.|[2408.03262](http://arxiv.org/abs/2408.03262)|null|
 |**2024-08-07**|**SpecRover: Code Intent Extraction via LLMs**|Haifeng Ruan et.al.|[2408.02232](http://arxiv.org/abs/2408.02232)|null|
 |**2024-08-02**|**The Impact of Program Reduction on Automated Program Repair**|Linas Vidziunas et.al.|[2408.01134](http://arxiv.org/abs/2408.01134)|null|
@@ -209,6 +210,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-11**|**Using Retriever Augmented Large Language Models for Attack Graph Generation**|Renascence Tarafder Prapty et.al.|[2408.05855](http://arxiv.org/abs/2408.05855)|null|
 |**2024-06-09**|**A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities**|Corren McCoy et.al.|[2406.05933](http://arxiv.org/abs/2406.05933)|null|
 |**2024-05-22**|**CPE-Identifier: Automated CPE identification and CVE summaries annotation with Deep Learning and NLP**|Wanyu Hu et.al.|[2405.13568](http://arxiv.org/abs/2405.13568)|null|
 |**2024-05-14**|**SecScore: Enhancing the CVSS Threat Metric Group with Empirical Evidences**|Miguel Santana et.al.|[2405.08539](http://arxiv.org/abs/2405.08539)|null|
