@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Impact of Large Language Models of Code on Fault Localization**|Suhwan Ji et.al.|[2408.09657](http://arxiv.org/abs/2408.09657)|null|
+|**2024-08-18**|**MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in Code LLMs for Automated Program Repair**|Meghdad Dehghan et.al.|[2408.09568](http://arxiv.org/abs/2408.09568)|null|
 |**2024-08-12**|**Syntax-Guided Automated Program Repair for Hyperproperties**|Raven Beutner et.al.|[2408.06035](http://arxiv.org/abs/2408.06035)|null|
 |**2024-08-06**|**Towards Fixing Panic Bugs for Real-world Rust Programs**|Yunbo Ni et.al.|[2408.03262](http://arxiv.org/abs/2408.03262)|null|
 |**2024-08-07**|**SpecRover: Code Intent Extraction via LLMs**|Haifeng Ruan et.al.|[2408.02232](http://arxiv.org/abs/2408.02232)|null|
@@ -368,6 +370,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-19**|**Icing on the Cake: Automatic Code Summarization at Ericsson**|Giriprasad Sridhara et.al.|[2408.09735](http://arxiv.org/abs/2408.09735)|null|
+|**2024-08-16**|**Context-aware Code Summary Generation**|Chia-Yi Su et.al.|[2408.09006](http://arxiv.org/abs/2408.09006)|null|
 |**2024-08-12**|**XMainframe: A Large Language Model for Mainframe Modernization**|Anh T. V. Dau et.al.|[2408.04660](http://arxiv.org/abs/2408.04660)|**[link](https://github.com/fsoft-ai4code/xmainframe)**|
 |**2024-08-08**|**Semantic-Enhanced Indirect Call Analysis with Large Language Models**|Baijun Cheng et.al.|[2408.04344](http://arxiv.org/abs/2408.04344)|**[link](https://github.com/for-just-we/CodeAnalyzer)**|
 |**2024-07-11**|**DeepCodeProbe: Towards Understanding What Models Trained on Code Learn**|Vahid Majdinasab et.al.|[2407.08890](http://arxiv.org/abs/2407.08890)|**[link](https://github.com/commissarsilver/deepcodeprobe)**|
