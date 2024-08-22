@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**RePair: Automated Program Repair with Process-based Feedback**|Yuze Zhao et.al.|[2408.11296](http://arxiv.org/abs/2408.11296)|**[link](https://github.com/tntwow/repair)**|
 |**2024-08-20**|**Revisiting Evolutionary Program Repair via Code Language Model**|Yunan Wang et.al.|[2408.10486](http://arxiv.org/abs/2408.10486)|null|
 |**2024-08-19**|**Impact of Large Language Models of Code on Fault Localization**|Suhwan Ji et.al.|[2408.09657](http://arxiv.org/abs/2408.09657)|null|
 |**2024-08-18**|**MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in Code LLMs for Automated Program Repair**|Meghdad Dehghan et.al.|[2408.09568](http://arxiv.org/abs/2408.09568)|null|
