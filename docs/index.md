@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.22
+## Updated on 2024.08.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -15,7 +15,7 @@ layout: default
 |**2024-08-18**|**MergeRepair: An Exploratory Study on Merging Task-Specific Adapters in Code LLMs for Automated Program Repair**|Meghdad Dehghan et.al.|[2408.09568](http://arxiv.org/abs/2408.09568)|null|
 |**2024-08-12**|**Syntax-Guided Automated Program Repair for Hyperproperties**|Raven Beutner et.al.|[2408.06035](http://arxiv.org/abs/2408.06035)|null|
 |**2024-08-06**|**Towards Fixing Panic Bugs for Real-world Rust Programs**|Yunbo Ni et.al.|[2408.03262](http://arxiv.org/abs/2408.03262)|null|
-|**2024-08-07**|**SpecRover: Code Intent Extraction via LLMs**|Haifeng Ruan et.al.|[2408.02232](http://arxiv.org/abs/2408.02232)|null|
+|**2024-08-22**|**SpecRover: Code Intent Extraction via LLMs**|Haifeng Ruan et.al.|[2408.02232](http://arxiv.org/abs/2408.02232)|null|
 |**2024-08-02**|**The Impact of Program Reduction on Automated Program Repair**|Linas Vidziunas et.al.|[2408.01134](http://arxiv.org/abs/2408.01134)|null|
 |**2024-07-30**|**ThinkRepair: Self-Directed Automated Program Repair**|Xin Yin et.al.|[2407.20898](http://arxiv.org/abs/2407.20898)|**[link](https://github.com/vinci-grape/ThinkRepair)**|
 |**2024-07-24**|**Ranking Plausible Patches by Historic Feature Frequencies**|Shifat Sahariar Bhuiyan et.al.|[2407.17240](http://arxiv.org/abs/2407.17240)|null|
