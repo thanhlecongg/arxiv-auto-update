@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Enhancing LLM-Based Automated Program Repair with Design Rationales**|Jiuang Zhao et.al.|[2408.12056](http://arxiv.org/abs/2408.12056)|null|
 |**2024-08-21**|**RePair: Automated Program Repair with Process-based Feedback**|Yuze Zhao et.al.|[2408.11296](http://arxiv.org/abs/2408.11296)|**[link](https://github.com/tntwow/repair)**|
 |**2024-08-20**|**Revisiting Evolutionary Program Repair via Code Language Model**|Yunan Wang et.al.|[2408.10486](http://arxiv.org/abs/2408.10486)|null|
 |**2024-08-19**|**Impact of Large Language Models of Code on Fault Localization**|Suhwan Ji et.al.|[2408.09657](http://arxiv.org/abs/2408.09657)|null|
@@ -273,6 +274,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Data Quality Antipatterns for Software Analytics**|Aaditya Bhatia et.al.|[2408.12560](http://arxiv.org/abs/2408.12560)|null|
 |**2024-08-07**|**Minimum Enclosing Ball Synthetic Minority Oversampling Technique from a Geometric Perspective**|Yi-Yang Shangguan et.al.|[2408.03526](http://arxiv.org/abs/2408.03526)|null|
 |**2024-07-18**|**EvaluateXAI: A Framework to Evaluate the Reliability and Consistency of Rule-based XAI Techniques for Software Analytics Tasks**|Md Abdul Awal et.al.|[2407.13902](http://arxiv.org/abs/2407.13902)|**[link](https://zenodo.org/record/zenodo.7869326)**|
 |**2024-07-04**|**ALPINE: An adaptive language-agnostic pruning method for language models for code**|Mootez Saad et.al.|[2407.04147](http://arxiv.org/abs/2407.04147)|null|
