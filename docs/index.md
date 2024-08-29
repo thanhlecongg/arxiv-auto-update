@@ -353,7 +353,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-19**|**Icing on the Cake: Automatic Code Summarization at Ericsson**|Giriprasad Sridhara et.al.|[2408.09735](http://arxiv.org/abs/2408.09735)|null|
-|**2024-08-16**|**Context-aware Code Summary Generation**|Chia-Yi Su et.al.|[2408.09006](http://arxiv.org/abs/2408.09006)|null|
+|**2024-08-16**|**Context-aware Code Summary Generation**|Chia-Yi Su et.al.|[2408.09006](http://arxiv.org/abs/2408.09006)|**[link](https://github.com/apcl-research/jam-contextsum)**|
 |**2024-08-26**|**XMainframe: A Large Language Model for Mainframe Modernization**|Anh T. V. Dau et.al.|[2408.04660](http://arxiv.org/abs/2408.04660)|**[link](https://github.com/fsoft-ai4code/xmainframe)**|
 |**2024-08-08**|**Semantic-Enhanced Indirect Call Analysis with Large Language Models**|Baijun Cheng et.al.|[2408.04344](http://arxiv.org/abs/2408.04344)|**[link](https://github.com/for-just-we/CodeAnalyzer)**|
 |**2024-07-11**|**DeepCodeProbe: Towards Understanding What Models Trained on Code Learn**|Vahid Majdinasab et.al.|[2407.08890](http://arxiv.org/abs/2407.08890)|**[link](https://github.com/commissarsilver/deepcodeprobe)**|
