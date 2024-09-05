@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**MarsCode Agent: AI-native Automated Bug Fixing**|Yizhou Liu et.al.|[2409.00899](http://arxiv.org/abs/2409.00899)|null|
 |**2024-08-22**|**Enhancing LLM-Based Automated Program Repair with Design Rationales**|Jiuang Zhao et.al.|[2408.12056](http://arxiv.org/abs/2408.12056)|null|
 |**2024-08-21**|**RePair: Automated Program Repair with Process-based Feedback**|Yuze Zhao et.al.|[2408.11296](http://arxiv.org/abs/2408.11296)|**[link](https://github.com/tntwow/repair)**|
 |**2024-08-26**|**Revisiting Evolutionary Program Repair via Code Language Model**|Yunan Wang et.al.|[2408.10486](http://arxiv.org/abs/2408.10486)|null|
