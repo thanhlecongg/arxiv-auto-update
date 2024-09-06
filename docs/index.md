@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.09.05
+## Updated on 2024.09.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**No Man is an Island: Towards Fully Automatic Programming by Code Search, Code Generation and Program Repair**|Quanjun Zhang et.al.|[2409.03267](http://arxiv.org/abs/2409.03267)|null|
 |**2024-09-04**|**MarsCode Agent: AI-native Automated Bug Fixing**|Yizhou Liu et.al.|[2409.00899](http://arxiv.org/abs/2409.00899)|null|
 |**2024-08-22**|**Enhancing LLM-Based Automated Program Repair with Design Rationales**|Jiuang Zhao et.al.|[2408.12056](http://arxiv.org/abs/2408.12056)|null|
 |**2024-08-21**|**RePair: Automated Program Repair with Process-based Feedback**|Yuze Zhao et.al.|[2408.11296](http://arxiv.org/abs/2408.11296)|**[link](https://github.com/tntwow/repair)**|
