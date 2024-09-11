@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -285,7 +285,7 @@ layout: default
 |**2024-05-17**|**Defect Category Prediction Based on Multi-Source Domain Adaptation**|Ying Xing et.al.|[2405.10511](http://arxiv.org/abs/2405.10511)|null|
 |**2024-05-13**|**Improving classifier-based effort-aware software defect prediction by reducing ranking errors**|Yuchen Guo et.al.|[2405.07604](http://arxiv.org/abs/2405.07604)|null|
 |**2024-04-21**|**In-situ process monitoring and adaptive quality enhancement in laser additive manufacturing: a critical review**|Lequn Chen et.al.|[2404.13673](http://arxiv.org/abs/2404.13673)|null|
-|**2024-04-17**|**The Effect of Defect (Re) Prediction on Software Testing**|Yukasa Murakami et.al.|[2404.11040](http://arxiv.org/abs/2404.11040)|null|
+|**2024-09-10**|**The Impact of Defect (Re) Prediction on Software Testing**|Yukasa Murakami et.al.|[2404.11040](http://arxiv.org/abs/2404.11040)|null|
 |**2024-04-17**|**Building Defect Prediction Models by Online Learning Considering Defect Overlooking**|Nikolay Fedorov et.al.|[2404.11033](http://arxiv.org/abs/2404.11033)|null|
 |**2024-03-20**|**Genetic Auto-prompt Learning for Pre-trained Code Intelligence Language Models**|Chengzhe Feng et.al.|[2403.13588](http://arxiv.org/abs/2403.13588)|null|
 |**2024-03-19**|**Explainable AutoML (xAutoML) with adaptive modeling for yield enhancement in semiconductor smart manufacturing**|Weihong Zhai et.al.|[2403.12381](http://arxiv.org/abs/2403.12381)|null|
