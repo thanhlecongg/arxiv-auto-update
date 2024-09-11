@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**BACKRUNNER: Mitigating Smart Contract Attacks in the Real World**|Chaofan Shou et.al.|[2409.06213](http://arxiv.org/abs/2409.06213)|null|
 |**2024-09-05**|**No Man is an Island: Towards Fully Automatic Programming by Code Search, Code Generation and Program Repair**|Quanjun Zhang et.al.|[2409.03267](http://arxiv.org/abs/2409.03267)|null|
 |**2024-09-04**|**MarsCode Agent: AI-native Automated Bug Fixing**|Yizhou Liu et.al.|[2409.00899](http://arxiv.org/abs/2409.00899)|null|
 |**2024-08-22**|**Enhancing LLM-Based Automated Program Repair with Design Rationales**|Jiuang Zhao et.al.|[2408.12056](http://arxiv.org/abs/2408.12056)|null|
@@ -277,6 +278,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-10**|**An Empirical Study of the Impact of Test Strategies on Online Optimization for Ensemble-Learning Defect Prediction**|Kensei Hamamoto et.al.|[2409.06264](http://arxiv.org/abs/2409.06264)|null|
 |**2024-08-22**|**Data Quality Antipatterns for Software Analytics**|Aaditya Bhatia et.al.|[2408.12560](http://arxiv.org/abs/2408.12560)|null|
 |**2024-08-07**|**Minimum Enclosing Ball Synthetic Minority Oversampling Technique from a Geometric Perspective**|Yi-Yang Shangguan et.al.|[2408.03526](http://arxiv.org/abs/2408.03526)|null|
 |**2024-07-18**|**EvaluateXAI: A Framework to Evaluate the Reliability and Consistency of Rule-based XAI Techniques for Software Analytics Tasks**|Md Abdul Awal et.al.|[2407.13902](http://arxiv.org/abs/2407.13902)|**[link](https://zenodo.org/record/zenodo.7869326)**|
