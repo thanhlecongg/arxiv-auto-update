@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.09.17
+## Updated on 2024.09.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-16**|**Can GPT-O1 Kill All Bugs?**|Haichuan Hu et.al.|[2409.10033](http://arxiv.org/abs/2409.10033)|null|
+|**2024-09-17**|**Can GPT-O1 Kill All Bugs? An Evaluation of GPT-Family LLMs on QuixBugs**|Haichuan Hu et.al.|[2409.10033](http://arxiv.org/abs/2409.10033)|**[link](https://github.com/tomsawyerhu/gpt-o1-on-quixbugs)**|
 |**2024-09-11**|**GitSEED: A Git-backed Automated Assessment Tool for Software Engineering and Programming Education**|Pedro Orvalho et.al.|[2409.07362](http://arxiv.org/abs/2409.07362)|null|
 |**2024-09-10**|**BACKRUNNER: Mitigating Smart Contract Attacks in the Real World**|Chaofan Shou et.al.|[2409.06213](http://arxiv.org/abs/2409.06213)|null|
 |**2024-09-05**|**No Man is an Island: Towards Fully Automatic Programming by Code Search, Code Generation and Program Repair**|Quanjun Zhang et.al.|[2409.03267](http://arxiv.org/abs/2409.03267)|null|
