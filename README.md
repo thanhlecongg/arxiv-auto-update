@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale**|Huy Nhat Phan et.al.|[2409.16299](http://arxiv.org/abs/2409.16299)|null|
 |**2024-09-17**|**Can GPT-O1 Kill All Bugs? An Evaluation of GPT-Family LLMs on QuixBugs**|Haichuan Hu et.al.|[2409.10033](http://arxiv.org/abs/2409.10033)|**[link](https://github.com/tomsawyerhu/gpt-o1-on-quixbugs)**|
 |**2024-09-11**|**GitSEED: A Git-backed Automated Assessment Tool for Software Engineering and Programming Education**|Pedro Orvalho et.al.|[2409.07362](http://arxiv.org/abs/2409.07362)|null|
 |**2024-09-10**|**BACKRUNNER: Mitigating Smart Contract Attacks in the Real World**|Chaofan Shou et.al.|[2409.06213](http://arxiv.org/abs/2409.06213)|null|
