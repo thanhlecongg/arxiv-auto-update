@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**RepairBench: Leaderboard of Frontier Models for Program Repair**|André Silva et.al.|[2409.18952](http://arxiv.org/abs/2409.18952)|null|
 |**2024-09-09**|**HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale**|Huy Nhat Phan et.al.|[2409.16299](http://arxiv.org/abs/2409.16299)|null|
 |**2024-09-17**|**Can GPT-O1 Kill All Bugs? An Evaluation of GPT-Family LLMs on QuixBugs**|Haichuan Hu et.al.|[2409.10033](http://arxiv.org/abs/2409.10033)|**[link](https://github.com/tomsawyerhu/gpt-o1-on-quixbugs)**|
 |**2024-09-11**|**GitSEED: A Git-backed Automated Assessment Tool for Software Engineering and Programming Education**|Pedro Orvalho et.al.|[2409.07362](http://arxiv.org/abs/2409.07362)|null|
@@ -302,6 +303,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Defect Prediction with Content-based Features**|Hung Viet Pham et.al.|[2409.18365](http://arxiv.org/abs/2409.18365)|null|
 |**2024-09-10**|**An Empirical Study of the Impact of Test Strategies on Online Optimization for Ensemble-Learning Defect Prediction**|Kensei Hamamoto et.al.|[2409.06264](http://arxiv.org/abs/2409.06264)|null|
 |**2024-08-22**|**Data Quality Antipatterns for Software Analytics**|Aaditya Bhatia et.al.|[2408.12560](http://arxiv.org/abs/2408.12560)|null|
 |**2024-08-07**|**Minimum Enclosing Ball Synthetic Minority Oversampling Technique from a Geometric Perspective**|Yi-Yang Shangguan et.al.|[2408.03526](http://arxiv.org/abs/2408.03526)|null|
