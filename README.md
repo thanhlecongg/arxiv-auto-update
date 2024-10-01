@@ -386,6 +386,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Exploring LLM-Driven Explanations for Quantum Algorithms**|Giordano d'Aloisio et.al.|[2409.19028](http://arxiv.org/abs/2409.19028)|null|
 |**2024-09-23**|**TACO-RL: Task Aware Prompt Compression Optimization with Reinforcement Learning**|Shivam Shandilya et.al.|[2409.13035](http://arxiv.org/abs/2409.13035)|null|
 |**2024-08-19**|**Icing on the Cake: Automatic Code Summarization at Ericsson**|Giriprasad Sridhara et.al.|[2408.09735](http://arxiv.org/abs/2408.09735)|null|
 |**2024-08-16**|**Context-aware Code Summary Generation**|Chia-Yi Su et.al.|[2408.09006](http://arxiv.org/abs/2408.09006)|**[link](https://github.com/apcl-research/jam-contextsum)**|
