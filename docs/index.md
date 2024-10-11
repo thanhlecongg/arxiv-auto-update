@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing**|Pengyu Xue et.al.|[2410.07516](http://arxiv.org/abs/2410.07516)|null|
 |**2024-10-06**|**Exploring the Potential of Conversational Test Suite Based Program Repair on SWE-bench**|Anton Cheshkov et.al.|[2410.04485](http://arxiv.org/abs/2410.04485)|null|
 |**2024-09-27**|**RepairBench: Leaderboard of Frontier Models for Program Repair**|André Silva et.al.|[2409.18952](http://arxiv.org/abs/2409.18952)|**[link](https://github.com/ASSERT-KTH/repairbench)**|
 |**2024-09-09**|**HyperAgent: Generalist Software Engineering Agents to Solve Coding Tasks at Scale**|Huy Nhat Phan et.al.|[2409.16299](http://arxiv.org/abs/2409.16299)|null|
@@ -364,6 +365,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Do Current Language Models Support Code Intelligence for R Programming Language?**|ZiXiao Zhao et.al.|[2410.07793](http://arxiv.org/abs/2410.07793)|null|
 |**2024-09-26**|**Exploring LLM-Driven Explanations for Quantum Algorithms**|Giordano d'Aloisio et.al.|[2409.19028](http://arxiv.org/abs/2409.19028)|null|
 |**2024-09-23**|**TACO-RL: Task Aware Prompt Compression Optimization with Reinforcement Learning**|Shivam Shandilya et.al.|[2409.13035](http://arxiv.org/abs/2409.13035)|null|
 |**2024-08-19**|**Icing on the Cake: Automatic Code Summarization at Ericsson**|Giriprasad Sridhara et.al.|[2408.09735](http://arxiv.org/abs/2408.09735)|null|
