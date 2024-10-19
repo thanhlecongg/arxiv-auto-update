@@ -369,7 +369,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-16**|**Codellm-Devkit: A Framework for Contextualizing Code LLMs with Program Analysis Insights**|Rahul Krishna et.al.|[2410.13007](http://arxiv.org/abs/2410.13007)|null|
-|**2024-10-15**|**Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks**|Jiawei Lu et.al.|[2410.11300](http://arxiv.org/abs/2410.11300)|null|
+|**2024-10-15**|**Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks**|Jiawei Lu et.al.|[2410.11300](http://arxiv.org/abs/2410.11300)|**[link](https://github.com/kingofheven/ICR)**|
 |**2024-10-13**|**Can Large Language Models Generate Geospatial Code?**|Shuyang Hou et.al.|[2410.09738](http://arxiv.org/abs/2410.09738)|null|
 |**2024-10-10**|**Do Current Language Models Support Code Intelligence for R Programming Language?**|ZiXiao Zhao et.al.|[2410.07793](http://arxiv.org/abs/2410.07793)|null|
 |**2024-09-26**|**Exploring LLM-Driven Explanations for Quantum Algorithms**|Giordano d'Aloisio et.al.|[2409.19028](http://arxiv.org/abs/2409.19028)|null|
