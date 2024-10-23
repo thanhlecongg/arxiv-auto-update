@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**Semantic-guided Search for Efficient Program Repair with Large Language Models**|Thanh Le-Cong et.al.|[2410.16655](http://arxiv.org/abs/2410.16655)|**[link](https://github.com/thanhlecongg/flames)**|
 |**2024-10-13**|**Collu-Bench: A Benchmark for Predicting Language Model Hallucinations in Code**|Nan Jiang et.al.|[2410.09997](http://arxiv.org/abs/2410.09997)|null|
 |**2024-10-10**|**Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing**|Pengyu Xue et.al.|[2410.07516](http://arxiv.org/abs/2410.07516)|null|
 |**2024-10-06**|**Exploring the Potential of Conversational Test Suite Based Program Repair on SWE-bench**|Anton Cheshkov et.al.|[2410.04485](http://arxiv.org/abs/2410.04485)|null|
@@ -286,6 +287,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**Evaluating the Performance of a D-Wave Quantum Annealing System for Feature Subset Selection in Software Defect Prediction**|Ashis Kumar Mandal et.al.|[2410.16469](http://arxiv.org/abs/2410.16469)|null|
 |**2024-10-15**|**Just-In-Time Software Defect Prediction via Bi-modal Change Representation Learning**|Yuze Jiang et.al.|[2410.12107](http://arxiv.org/abs/2410.12107)|**[link](https://github.com/jyz-1201/jit-bicc)**|
 |**2024-10-13**|**A Hybrid Sampling and Multi-Objective Optimization Approach for Enhanced Software Defect Prediction**|Jie Zhang et.al.|[2410.10046](http://arxiv.org/abs/2410.10046)|null|
 |**2024-10-01**|**TestGenEval: A Real World Unit Test Generation and Test Completion Benchmark**|Kush Jain et.al.|[2410.00752](http://arxiv.org/abs/2410.00752)|null|
@@ -368,6 +370,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-22**|**GeoCode-GPT: A Large Language Model for Geospatial Code Generation Tasks**|Shuyang Hou et.al.|[2410.17031](http://arxiv.org/abs/2410.17031)|null|
 |**2024-10-21**|**Building A Coding Assistant via the Retrieval-Augmented Language Model**|Xinze Li et.al.|[2410.16229](http://arxiv.org/abs/2410.16229)|null|
 |**2024-10-22**|**ETF: An Entity Tracing Framework for Hallucination Detection in Code Summaries**|Kishan Maharaj et.al.|[2410.14748](http://arxiv.org/abs/2410.14748)|null|
 |**2024-10-18**|**Beyond Dataset Watermarking: Model-Level Copyright Protection for Code Summarization Models**|Jiale Zhang et.al.|[2410.14102](http://arxiv.org/abs/2410.14102)|null|
