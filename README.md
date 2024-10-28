@@ -308,6 +308,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**DeMuVGN: Effective Software Defect Prediction Model by Learning Multi-view Software Dependency via Graph Neural Networks**|Yu Qiao et.al.|[2410.19550](http://arxiv.org/abs/2410.19550)|null|
 |**2024-10-21**|**Evaluating the Performance of a D-Wave Quantum Annealing System for Feature Subset Selection in Software Defect Prediction**|Ashis Kumar Mandal et.al.|[2410.16469](http://arxiv.org/abs/2410.16469)|null|
 |**2024-10-15**|**Just-In-Time Software Defect Prediction via Bi-modal Change Representation Learning**|Yuze Jiang et.al.|[2410.12107](http://arxiv.org/abs/2410.12107)|**[link](https://github.com/jyz-1201/jit-bicc)**|
 |**2024-10-13**|**A Hybrid Sampling and Multi-Objective Optimization Approach for Enhanced Software Defect Prediction**|Jie Zhang et.al.|[2410.10046](http://arxiv.org/abs/2410.10046)|null|
