@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-11**|**FastFixer: An Efficient and Effective Approach for Repairing Programming Assignments**|Fang Liu et.al.|[2410.21285](http://arxiv.org/abs/2410.21285)|null|
 |**2024-10-28**|**Combining Logic with Large Language Models for Automatic Debugging and Repair of ASP Programs**|Ricardo Brancas et.al.|[2410.20962](http://arxiv.org/abs/2410.20962)|null|
 |**2024-10-08**|**In-Context Code-Text Learning for Bimodal Software Engineering**|Xunzhu Tang et.al.|[2410.18107](http://arxiv.org/abs/2410.18107)|null|
 |**2024-10-22**|**Semantic-guided Search for Efficient Program Repair with Large Language Models**|Thanh Le-Cong et.al.|[2410.16655](http://arxiv.org/abs/2410.16655)|**[link](https://github.com/thanhlecongg/flames)**|
@@ -189,6 +190,7 @@
 |---|---|---|---|---|
 |**2024-08-02**|**The Impact of Program Reduction on Automated Program Repair**|Linas Vidziunas et.al.|[2408.01134](http://arxiv.org/abs/2408.01134)|null|
 |**2024-07-12**|**Towards Practical and Useful Automated Program Repair for Debugging**|Qi Xin et.al.|[2407.08958](http://arxiv.org/abs/2407.08958)|null|
+|**2024-10-29**|**Agentless: Demystifying LLM-based Software Engineering Agents**|Chunqiu Steven Xia et.al.|[2407.01489](http://arxiv.org/abs/2407.01489)|**[link](https://github.com/OpenAutoCoder/Agentless)**|
 |**2024-06-23**|**On The Effectiveness of Dynamic Reduction Techniques in Automated Program Repair**|Omar I. Al-Bataineh et.al.|[2406.16225](http://arxiv.org/abs/2406.16225)|null|
 |**2024-05-24**|**A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback**|Ummay Kulsum et.al.|[2405.15690](http://arxiv.org/abs/2405.15690)|null|
 |**2023-10-10**|**Automatic Generation of Test Cases based on Bug Reports: a Feasibility Study with Large Language Models**|Laura Plein et.al.|[2310.06320](http://arxiv.org/abs/2310.06320)|null|
