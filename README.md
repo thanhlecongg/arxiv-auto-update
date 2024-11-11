@@ -314,6 +314,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**Feature Importance in the Context of Traditional and Just-In-Time Software Defect Prediction Models**|Susmita Haldar et.al.|[2411.05230](http://arxiv.org/abs/2411.05230)|null|
 |**2024-10-25**|**DeMuVGN: Effective Software Defect Prediction Model by Learning Multi-view Software Dependency via Graph Neural Networks**|Yu Qiao et.al.|[2410.19550](http://arxiv.org/abs/2410.19550)|null|
 |**2024-10-21**|**Evaluating the Performance of a D-Wave Quantum Annealing System for Feature Subset Selection in Software Defect Prediction**|Ashis Kumar Mandal et.al.|[2410.16469](http://arxiv.org/abs/2410.16469)|null|
 |**2024-10-15**|**Just-In-Time Software Defect Prediction via Bi-modal Change Representation Learning**|Yuze Jiang et.al.|[2410.12107](http://arxiv.org/abs/2410.12107)|**[link](https://github.com/jyz-1201/jit-bicc)**|
