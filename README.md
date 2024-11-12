@@ -314,6 +314,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-10**|**MBL-CPDP: A Multi-objective Bilevel Method for Cross-Project Defect Prediction via Automated Machine Learning**|Jiaxin Chen et.al.|[2411.06491](http://arxiv.org/abs/2411.06491)|null|
 |**2024-11-07**|**Feature Importance in the Context of Traditional and Just-In-Time Software Defect Prediction Models**|Susmita Haldar et.al.|[2411.05230](http://arxiv.org/abs/2411.05230)|null|
 |**2024-10-25**|**DeMuVGN: Effective Software Defect Prediction Model by Learning Multi-view Software Dependency via Graph Neural Networks**|Yu Qiao et.al.|[2410.19550](http://arxiv.org/abs/2410.19550)|null|
 |**2024-10-21**|**Evaluating the Performance of a D-Wave Quantum Annealing System for Feature Subset Selection in Software Defect Prediction**|Ashis Kumar Mandal et.al.|[2410.16469](http://arxiv.org/abs/2410.16469)|null|
@@ -403,6 +404,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Model Editing for LLMs4Code: How Far are We?**|Xiaopeng Li et.al.|[2411.06638](http://arxiv.org/abs/2411.06638)|**[link](https://github.com/xpq-tech/code-llmedit)**|
 |**2024-11-06**|**Crystal: Illuminating LLM Abilities on Language and Code**|Tianhua Tao et.al.|[2411.04156](http://arxiv.org/abs/2411.04156)|null|
 |**2024-11-04**|**Do Advanced Language Models Eliminate the Need for Prompt Engineering in Software Engineering?**|Guoqing Wang et.al.|[2411.02093](http://arxiv.org/abs/2411.02093)|null|
 |**2024-10-28**|**Automatic Generation of Benchmarks and Reliable LLM Judgment for Code Tasks**|Eitan Farchi et.al.|[2410.21071](http://arxiv.org/abs/2410.21071)|null|
