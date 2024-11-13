@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**A Comprehensive Survey of AI-Driven Advancements and Techniques in Automated Program Repair and Code Generation**|Avinash Anand et.al.|[2411.07586](http://arxiv.org/abs/2411.07586)|null|
 |**2024-11-04**|**MdEval: Massively Multilingual Code Debugging**|Shukai Liu et.al.|[2411.02310](http://arxiv.org/abs/2411.02310)|null|
 |**2024-10-11**|**FastFixer: An Efficient and Effective Approach for Repairing Programming Assignments**|Fang Liu et.al.|[2410.21285](http://arxiv.org/abs/2410.21285)|null|
 |**2024-10-28**|**Combining Logic with Large Language Models for Automatic Debugging and Repair of ASP Programs**|Ricardo Brancas et.al.|[2410.20962](http://arxiv.org/abs/2410.20962)|null|
