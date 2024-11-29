@@ -17,7 +17,7 @@ layout: default
 |**2024-10-11**|**FastFixer: An Efficient and Effective Approach for Repairing Programming Assignments**|Fang Liu et.al.|[2410.21285](http://arxiv.org/abs/2410.21285)|null|
 |**2024-10-28**|**Combining Logic with Large Language Models for Automatic Debugging and Repair of ASP Programs**|Ricardo Brancas et.al.|[2410.20962](http://arxiv.org/abs/2410.20962)|null|
 |**2024-10-08**|**In-Context Code-Text Learning for Bimodal Software Engineering**|Xunzhu Tang et.al.|[2410.18107](http://arxiv.org/abs/2410.18107)|null|
-|**2024-10-22**|**Semantic-guided Search for Efficient Program Repair with Large Language Models**|Thanh Le-Cong et.al.|[2410.16655](http://arxiv.org/abs/2410.16655)|**[link](https://github.com/thanhlecongg/flames)**|
+|**2024-10-22**|**Semantic-guided Search for Efficient Program Repair with Large Language Models**|Thanh Le-Cong et.al.|[2410.16655](http://arxiv.org/abs/2410.16655)|null|
 |**2024-10-13**|**Collu-Bench: A Benchmark for Predicting Language Model Hallucinations in Code**|Nan Jiang et.al.|[2410.09997](http://arxiv.org/abs/2410.09997)|null|
 |**2024-10-10**|**Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing**|Pengyu Xue et.al.|[2410.07516](http://arxiv.org/abs/2410.07516)|null|
 |**2024-10-06**|**Exploring the Potential of Conversational Test Suite Based Program Repair on SWE-bench**|Anton Cheshkov et.al.|[2410.04485](http://arxiv.org/abs/2410.04485)|null|
