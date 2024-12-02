@@ -251,6 +251,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-28**|**A Comparative Analysis of Vulnerability Management Tools: Evaluating Nessus, Acunetix, and Nikto for Risk Based Security Solutions**|Swetha B et.al.|[2411.19123](http://arxiv.org/abs/2411.19123)|null|
 |**2024-11-18**|**Establishing Minimum Elements for Effective Vulnerability Management in AI Software**|Mohamad Fazelnia et.al.|[2411.11317](http://arxiv.org/abs/2411.11317)|null|
 |**2024-11-05**|**Revisiting Game-Theoretic Control in Socio-Technical Networks: Emerging Design Frameworks and Contemporary Applications**|Quanyan Zhu et.al.|[2411.01794](http://arxiv.org/abs/2411.01794)|null|
 |**2024-09-12**|**A Mixed-Methods Study of Open-Source Software Maintainers On Vulnerability Management and Platform Security Features**|Jessy Ayala et.al.|[2409.07669](http://arxiv.org/abs/2409.07669)|null|
