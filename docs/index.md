@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.03
+## Updated on 2024.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -387,7 +387,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-11**|**Model Editing for LLMs4Code: How Far are We?**|Xiaopeng Li et.al.|[2411.06638](http://arxiv.org/abs/2411.06638)|**[link](https://github.com/xpq-tech/code-llmedit)**|
+|**2024-12-03**|**Model Editing for LLMs4Code: How Far are We?**|Xiaopeng Li et.al.|[2411.06638](http://arxiv.org/abs/2411.06638)|**[link](https://github.com/xpq-tech/code-llmedit)**|
 |**2024-11-06**|**Crystal: Illuminating LLM Abilities on Language and Code**|Tianhua Tao et.al.|[2411.04156](http://arxiv.org/abs/2411.04156)|null|
 |**2024-11-04**|**Do Advanced Language Models Eliminate the Need for Prompt Engineering in Software Engineering?**|Guoqing Wang et.al.|[2411.02093](http://arxiv.org/abs/2411.02093)|null|
 |**2024-10-28**|**Automatic Generation of Benchmarks and Reliable LLM Judgment for Code Tasks**|Eitan Farchi et.al.|[2410.21071](http://arxiv.org/abs/2410.21071)|null|
