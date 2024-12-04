@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-02**|**When Fine-Tuning LLMs Meets Data Privacy: An Empirical Study of Federated Learning in LLM-Based Program Repair**|Wenqiang Luo et.al.|[2412.01072](http://arxiv.org/abs/2412.01072)|null|
 |**2024-11-27**|**There are More Fish in the Sea: Automated Vulnerability Repair via Binary Templates**|Bo Lin et.al.|[2411.18088](http://arxiv.org/abs/2411.18088)|null|
 |**2024-11-21**|**Planning-Driven Programming: A Large Language Model Programming Workflow**|Chao Lei et.al.|[2411.14503](http://arxiv.org/abs/2411.14503)|null|
 |**2024-11-15**|**An Empirical Study on LLM-based Agents for Automated Bug Fixing**|Xiangxin Meng et.al.|[2411.10213](http://arxiv.org/abs/2411.10213)|null|
@@ -321,6 +322,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-01**|**What You See Is What You Get: Attention-based Self-guided Automatic Unit Test Generation**|Xin Yin et.al.|[2412.00828](http://arxiv.org/abs/2412.00828)|**[link](https://github.com/vinci-grape/AUGER)**|
 |**2024-11-10**|**MBL-CPDP: A Multi-objective Bilevel Method for Cross-Project Defect Prediction via Automated Machine Learning**|Jiaxin Chen et.al.|[2411.06491](http://arxiv.org/abs/2411.06491)|null|
 |**2024-11-07**|**Feature Importance in the Context of Traditional and Just-In-Time Software Defect Prediction Models**|Susmita Haldar et.al.|[2411.05230](http://arxiv.org/abs/2411.05230)|null|
 |**2024-10-25**|**DeMuVGN: Effective Software Defect Prediction Model by Learning Multi-view Software Dependency via Graph Neural Networks**|Yu Qiao et.al.|[2410.19550](http://arxiv.org/abs/2410.19550)|null|
@@ -411,6 +413,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-02**|**Can Large Language Models Serve as Evaluators for Code Summarization?**|Yang Wu et.al.|[2412.01333](http://arxiv.org/abs/2412.01333)|null|
 |**2024-12-03**|**Model Editing for LLMs4Code: How Far are We?**|Xiaopeng Li et.al.|[2411.06638](http://arxiv.org/abs/2411.06638)|**[link](https://github.com/xpq-tech/code-llmedit)**|
 |**2024-11-06**|**Crystal: Illuminating LLM Abilities on Language and Code**|Tianhua Tao et.al.|[2411.04156](http://arxiv.org/abs/2411.04156)|null|
 |**2024-11-04**|**Do Advanced Language Models Eliminate the Need for Prompt Engineering in Software Engineering?**|Guoqing Wang et.al.|[2411.02093](http://arxiv.org/abs/2411.02093)|null|
