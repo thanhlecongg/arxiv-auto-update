@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.12.06
+## Updated on 2024.12.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair**|Qiong Feng et.al.|[2412.03905](http://arxiv.org/abs/2412.03905)|null|
+|**2024-12-05**|**Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair**|Qiong Feng et.al.|[2412.03905](http://arxiv.org/abs/2412.03905)|**[link](https://github.com/xyzboom/devlore)**|
 |**2024-12-02**|**When Fine-Tuning LLMs Meets Data Privacy: An Empirical Study of Federated Learning in LLM-Based Program Repair**|Wenqiang Luo et.al.|[2412.01072](http://arxiv.org/abs/2412.01072)|null|
 |**2024-11-27**|**There are More Fish in the Sea: Automated Vulnerability Repair via Binary Templates**|Bo Lin et.al.|[2411.18088](http://arxiv.org/abs/2411.18088)|null|
 |**2024-11-21**|**Planning-Driven Programming: A Large Language Model Programming Workflow**|Chao Lei et.al.|[2411.14503](http://arxiv.org/abs/2411.14503)|null|
@@ -391,7 +391,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-02**|**Can Large Language Models Serve as Evaluators for Code Summarization?**|Yang Wu et.al.|[2412.01333](http://arxiv.org/abs/2412.01333)|null|
+|**2024-12-02**|**Can Large Language Models Serve as Evaluators for Code Summarization?**|Yang Wu et.al.|[2412.01333](http://arxiv.org/abs/2412.01333)|**[link](https://github.com/CGCL-codes/naturalcc)**|
 |**2024-12-03**|**Model Editing for LLMs4Code: How Far are We?**|Xiaopeng Li et.al.|[2411.06638](http://arxiv.org/abs/2411.06638)|**[link](https://github.com/xpq-tech/code-llmedit)**|
 |**2024-11-06**|**Crystal: Illuminating LLM Abilities on Language and Code**|Tianhua Tao et.al.|[2411.04156](http://arxiv.org/abs/2411.04156)|null|
 |**2024-11-04**|**Do Advanced Language Models Eliminate the Need for Prompt Engineering in Software Engineering?**|Guoqing Wang et.al.|[2411.02093](http://arxiv.org/abs/2411.02093)|null|
