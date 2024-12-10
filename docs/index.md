@@ -237,7 +237,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-06**|**Supply Chain Insecurity: The Lack of Integrity Protection in SBOM Solutions**|Can Ozkan et.al.|[2412.05138](http://arxiv.org/abs/2412.05138)|null|
+|**2024-12-09**|**Vulnerability, Where Art Thou? An Investigation of Vulnerability Management in Android Smartphone Chipsets**|Daniel Klischies et.al.|[2412.06556](http://arxiv.org/abs/2412.06556)|null|
+|**2024-12-09**|**Applications of Positive Unlabeled (PU) and Negative Unlabeled (NU) Learning in Cybersecurity**|Robert Dilworth et.al.|[2412.06203](http://arxiv.org/abs/2412.06203)|null|
+|**2024-12-09**|**Supply Chain Insecurity: The Lack of Integrity Protection in SBOM Solutions**|Can Ozkan et.al.|[2412.05138](http://arxiv.org/abs/2412.05138)|null|
 |**2024-11-28**|**A Comparative Analysis of Vulnerability Management Tools: Evaluating Nessus, Acunetix, and Nikto for Risk Based Security Solutions**|Swetha B et.al.|[2411.19123](http://arxiv.org/abs/2411.19123)|null|
 |**2024-11-18**|**Establishing Minimum Elements for Effective Vulnerability Management in AI Software**|Mohamad Fazelnia et.al.|[2411.11317](http://arxiv.org/abs/2411.11317)|null|
 |**2024-11-05**|**Revisiting Game-Theoretic Control in Socio-Technical Networks: Emerging Design Frameworks and Contemporary Applications**|Quanyan Zhu et.al.|[2411.01794](http://arxiv.org/abs/2411.01794)|null|
