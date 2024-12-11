@@ -326,6 +326,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-10**|**Quantum vs. Classical Machine Learning Algorithms for Software Defect Prediction: Challenges and Opportunities**|Md Nadim et.al.|[2412.07698](http://arxiv.org/abs/2412.07698)|null|
 |**2024-12-03**|**Predicting post-release defects with knowledge units (KUs) of programming languages: an empirical study**|Md Ahasanuzzaman et.al.|[2412.02907](http://arxiv.org/abs/2412.02907)|null|
 |**2024-12-01**|**What You See Is What You Get: Attention-based Self-guided Automatic Unit Test Generation**|Xin Yin et.al.|[2412.00828](http://arxiv.org/abs/2412.00828)|**[link](https://github.com/vinci-grape/AUGER)**|
 |**2024-11-10**|**MBL-CPDP: A Multi-objective Bilevel Method for Cross-Project Defect Prediction via Automated Machine Learning**|Jiaxin Chen et.al.|[2411.06491](http://arxiv.org/abs/2411.06491)|null|
