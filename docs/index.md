@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.19
+## Updated on 2024.12.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -407,7 +407,7 @@ layout: default
 |**2024-10-28**|**Automatic Generation of Benchmarks and Reliable LLM Judgment for Code Tasks**|Eitan Farchi et.al.|[2410.21071](http://arxiv.org/abs/2410.21071)|null|
 |**2024-10-23**|**GeoCode-GPT: A Large Language Model for Geospatial Code Generation Tasks**|Shuyang Hou et.al.|[2410.17031](http://arxiv.org/abs/2410.17031)|null|
 |**2024-11-02**|**Building A Coding Assistant via the Retrieval-Augmented Language Model**|Xinze Li et.al.|[2410.16229](http://arxiv.org/abs/2410.16229)|**[link](https://github.com/NEUIR/CONAN)**|
-|**2024-10-22**|**ETF: An Entity Tracing Framework for Hallucination Detection in Code Summaries**|Kishan Maharaj et.al.|[2410.14748](http://arxiv.org/abs/2410.14748)|null|
+|**2024-12-18**|**ETF: An Entity Tracing Framework for Hallucination Detection in Code Summaries**|Kishan Maharaj et.al.|[2410.14748](http://arxiv.org/abs/2410.14748)|null|
 |**2024-10-18**|**Beyond Dataset Watermarking: Model-Level Copyright Protection for Code Summarization Models**|Jiale Zhang et.al.|[2410.14102](http://arxiv.org/abs/2410.14102)|null|
 |**2024-10-16**|**Codellm-Devkit: A Framework for Contextualizing Code LLMs with Program Analysis Insights**|Rahul Krishna et.al.|[2410.13007](http://arxiv.org/abs/2410.13007)|**[link](https://github.com/ibm/codellm-devkit)**|
 |**2024-10-15**|**Instructive Code Retriever: Learn from Large Language Model's Feedback for Code Intelligence Tasks**|Jiawei Lu et.al.|[2410.11300](http://arxiv.org/abs/2410.11300)|**[link](https://github.com/kingofheven/ICR)**|
