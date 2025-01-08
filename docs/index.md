@@ -400,6 +400,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**|Zhangqian Bi et.al.|[2501.03783](http://arxiv.org/abs/2501.03783)|null|
 |**2024-12-22**|**Analysis on LLMs Performance for Code Summarization**|Md. Ahnaf Akib et.al.|[2412.17094](http://arxiv.org/abs/2412.17094)|null|
 |**2024-12-18**|**On the Compression of Language Models for Code: An Empirical Study on CodeBERT**|Giordano d'Aloisio et.al.|[2412.13737](http://arxiv.org/abs/2412.13737)|null|
 |**2024-12-18**|**Transducer Tuning: Efficient Model Adaptation for Software Tasks Using Code Property Graphs**|Imam Nur Bani Yusuf et.al.|[2412.13467](http://arxiv.org/abs/2412.13467)|**[link](https://github.com/imamnurby/transducer-tuning)**|
