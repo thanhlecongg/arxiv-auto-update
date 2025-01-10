@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-08**|**Do Automated Fixes Truly Mitigate Smart Contract Exploits?**|Sofia Bobadilla et.al.|[2501.04600](http://arxiv.org/abs/2501.04600)|null|
+|**2025-01-09**|**Do Automated Fixes Truly Mitigate Smart Contract Exploits?**|Sofia Bobadilla et.al.|[2501.04600](http://arxiv.org/abs/2501.04600)|null|
 |**2024-12-25**|**The Impact of Input Order Bias on Large Language Models for Software Fault Localization**|Md Nakhla Rafi et.al.|[2412.18750](http://arxiv.org/abs/2412.18750)|null|
 |**2024-12-05**|**Integrating Various Software Artifacts for Better LLM-based Bug Localization and Program Repair**|Qiong Feng et.al.|[2412.03905](http://arxiv.org/abs/2412.03905)|**[link](https://github.com/xyzboom/devlore)**|
 |**2024-12-02**|**When Fine-Tuning LLMs Meets Data Privacy: An Empirical Study of Federated Learning in LLM-Based Program Repair**|Wenqiang Luo et.al.|[2412.01072](http://arxiv.org/abs/2412.01072)|null|
@@ -330,6 +330,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Bringing Order Amidst Chaos: On the Role of Artificial Intelligence in Secure Software Engineering**|Matteo Esposito et.al.|[2501.05165](http://arxiv.org/abs/2501.05165)|null|
 |**2025-01-08**|**Comparative Analysis of Quantum and Classical Support Vector Classifiers for Software Bug Prediction: An Exploratory Study**|Md Nadim et.al.|[2501.04690](http://arxiv.org/abs/2501.04690)|null|
 |**2024-12-23**|**Better Knowledge Enhancement for Privacy-Preserving Cross-Project Defect Prediction**|Yuying Wang et.al.|[2412.17317](http://arxiv.org/abs/2412.17317)|null|
 |**2024-12-15**|**SDPERL: A Framework for Software Defect Prediction Using Ensemble Feature Extraction and Reinforcement Learning**|Mohsen Hesamolhokama et.al.|[2412.07927](http://arxiv.org/abs/2412.07927)|null|
@@ -426,6 +427,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**On the Generalizability of Transformer Models to Code Completions of Different Lengths**|Nathan Cooper et.al.|[2501.05051](http://arxiv.org/abs/2501.05051)|null|
 |**2025-01-07**|**How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**|Zhangqian Bi et.al.|[2501.03783](http://arxiv.org/abs/2501.03783)|null|
 |**2024-12-22**|**Analysis on LLMs Performance for Code Summarization**|Md. Ahnaf Akib et.al.|[2412.17094](http://arxiv.org/abs/2412.17094)|null|
 |**2024-12-18**|**On the Compression of Language Models for Code: An Empirical Study on CodeBERT**|Giordano d'Aloisio et.al.|[2412.13737](http://arxiv.org/abs/2412.13737)|null|
