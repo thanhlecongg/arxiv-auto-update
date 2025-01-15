@@ -405,6 +405,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Hierarchical Repository-Level Code Summarization for Business Applications Using Local LLMs**|Nilesh Dhulshette et.al.|[2501.07857](http://arxiv.org/abs/2501.07857)|null|
 |**2025-01-09**|**On the Generalizability of Transformer Models to Code Completions of Different Lengths**|Nathan Cooper et.al.|[2501.05051](http://arxiv.org/abs/2501.05051)|null|
 |**2025-01-07**|**How to Select Pre-Trained Code Models for Reuse? A Learning Perspective**|Zhangqian Bi et.al.|[2501.03783](http://arxiv.org/abs/2501.03783)|**[link](https://github.com/CGCL-codes/naturalcc)**|
 |**2024-12-22**|**Analysis on LLMs Performance for Code Summarization**|Md. Ahnaf Akib et.al.|[2412.17094](http://arxiv.org/abs/2412.17094)|null|
