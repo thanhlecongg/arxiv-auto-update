@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**Understanding the Effectiveness of LLMs in Automated Self-Admitted Technical Debt Repayment**|Mohammad Sadegh Sheikhaei et.al.|[2501.09888](http://arxiv.org/abs/2501.09888)|null|
 |**2025-01-13**|**Evaluating Agent-based Program Repair at Google**|Pat Rondon et.al.|[2501.07531](http://arxiv.org/abs/2501.07531)|null|
 |**2025-01-13**|**Evaluating Pre-Trained Models for Multi-Language Vulnerability Patching**|Zanis Ali Khan et.al.|[2501.07339](http://arxiv.org/abs/2501.07339)|null|
 |**2025-01-09**|**Do Automated Fixes Truly Mitigate Smart Contract Exploits?**|Sofia Bobadilla et.al.|[2501.04600](http://arxiv.org/abs/2501.04600)|**[link](https://github.com/assert-kth/sb-heists)**|
@@ -242,6 +243,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-17**|**Threat-Specific Risk Assessment for IP Multimedia Subsystem Networks Based on Hierarchical Models**|Abdullah Ehsan Shaikh et.al.|[2501.09936](http://arxiv.org/abs/2501.09936)|null|
 |**2024-12-27**|**The Current Challenges of Software Engineering in the Era of Large Language Models**|Cuiyun Gao et.al.|[2412.14554](http://arxiv.org/abs/2412.14554)|null|
 |**2024-12-09**|**Vulnerability, Where Art Thou? An Investigation of Vulnerability Management in Android Smartphone Chipsets**|Daniel Klischies et.al.|[2412.06556](http://arxiv.org/abs/2412.06556)|null|
 |**2024-12-09**|**Applications of Positive Unlabeled (PU) and Negative Unlabeled (NU) Learning in Cybersecurity**|Robert Dilworth et.al.|[2412.06203](http://arxiv.org/abs/2412.06203)|null|
