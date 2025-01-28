@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**MultiMend: Multilingual Program Repair with Context Augmentation and Multi-Hunk Patch Generation**|Reza Gharibi et.al.|[2501.16044](http://arxiv.org/abs/2501.16044)|null|
 |**2025-01-17**|**Understanding the Effectiveness of LLMs in Automated Self-Admitted Technical Debt Repayment**|Mohammad Sadegh Sheikhaei et.al.|[2501.09888](http://arxiv.org/abs/2501.09888)|**[link](https://github.com/riselabqueens/satd-auto-repayment)**|
 |**2025-01-13**|**Evaluating Agent-based Program Repair at Google**|Pat Rondon et.al.|[2501.07531](http://arxiv.org/abs/2501.07531)|null|
 |**2025-01-13**|**Evaluating Pre-Trained Models for Multi-Language Vulnerability Patching**|Zanis Ali Khan et.al.|[2501.07339](http://arxiv.org/abs/2501.07339)|null|
@@ -200,6 +201,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**MultiMend: Multilingual Program Repair with Context Augmentation and Multi-Hunk Patch Generation**|Reza Gharibi et.al.|[2501.16044](http://arxiv.org/abs/2501.16044)|null|
 |**2024-12-13**|**Beyond Toxic Neurons: A Mechanistic Analysis of DPO for Toxicity Reduction**|Yushi Yang et.al.|[2411.06424](http://arxiv.org/abs/2411.06424)|**[link](https://github.com/yushi-y/dpo-toxic-neurons)**|
 |**2024-08-02**|**The Impact of Program Reduction on Automated Program Repair**|Linas Vidziunas et.al.|[2408.01134](http://arxiv.org/abs/2408.01134)|null|
 |**2024-07-12**|**Towards Practical and Useful Automated Program Repair for Debugging**|Qi Xin et.al.|[2407.08958](http://arxiv.org/abs/2407.08958)|null|
@@ -259,11 +261,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing**|Yuwei Zhang et.al.|[2501.16149](http://arxiv.org/abs/2501.16149)|null|
 |**2025-01-17**|**Threat-Specific Risk Assessment for IP Multimedia Subsystem Networks Based on Hierarchical Models**|Abdullah Ehsan Shaikh et.al.|[2501.09936](http://arxiv.org/abs/2501.09936)|null|
 |**2024-12-27**|**The Current Challenges of Software Engineering in the Era of Large Language Models**|Cuiyun Gao et.al.|[2412.14554](http://arxiv.org/abs/2412.14554)|null|
 |**2024-12-09**|**Vulnerability, Where Art Thou? An Investigation of Vulnerability Management in Android Smartphone Chipsets**|Daniel Klischies et.al.|[2412.06556](http://arxiv.org/abs/2412.06556)|null|
 |**2024-12-09**|**Applications of Positive Unlabeled (PU) and Negative Unlabeled (NU) Learning in Cybersecurity**|Robert Dilworth et.al.|[2412.06203](http://arxiv.org/abs/2412.06203)|null|
 |**2024-12-09**|**Supply Chain Insecurity: The Lack of Integrity Protection in SBOM Solutions**|Can Ozkan et.al.|[2412.05138](http://arxiv.org/abs/2412.05138)|null|
+|**2025-01-27**|**ACTISM: Threat-informed Dynamic Security Modelling for Automotive Systems**|Shaofei Huang et.al.|[2412.00416](http://arxiv.org/abs/2412.00416)|null|
 |**2024-11-28**|**A Comparative Analysis of Vulnerability Management Tools: Evaluating Nessus, Acunetix, and Nikto for Risk Based Security Solutions**|Swetha B et.al.|[2411.19123](http://arxiv.org/abs/2411.19123)|null|
 |**2024-11-18**|**Establishing Minimum Elements for Effective Vulnerability Management in AI Software**|Mohamad Fazelnia et.al.|[2411.11317](http://arxiv.org/abs/2411.11317)|null|
 |**2024-11-05**|**Revisiting Game-Theoretic Control in Socio-Technical Networks: Emerging Design Frameworks and Contemporary Applications**|Quanyan Zhu et.al.|[2411.01794](http://arxiv.org/abs/2411.01794)|null|
@@ -431,6 +435,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-08**|**From Critique to Clarity: A Pathway to Faithful and Personalized Code Explanations with Large Language Models**|Zexing Xu et.al.|[2501.14731](http://arxiv.org/abs/2501.14731)|null|
 |**2024-12-09**|**Can LLMs Identify Gaps and Misconceptions in Students' Code Explanations?**|Priti Oli et.al.|[2501.10365](http://arxiv.org/abs/2501.10365)|null|
 |**2025-01-14**|**Hierarchical Repository-Level Code Summarization for Business Applications Using Local LLMs**|Nilesh Dhulshette et.al.|[2501.07857](http://arxiv.org/abs/2501.07857)|null|
 |**2025-01-09**|**On the Generalizability of Transformer Models to Code Completions of Different Lengths**|Nathan Cooper et.al.|[2501.05051](http://arxiv.org/abs/2501.05051)|null|
