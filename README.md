@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-01-30**|**o3-mini vs DeepSeek-R1: Which One is Safer?**|Aitor Arrieta et.al.|[2501.18438](http://arxiv.org/abs/2501.18438)|null|
+|**2025-01-31**|**o3-mini vs DeepSeek-R1: Which One is Safer?**|Aitor Arrieta et.al.|[2501.18438](http://arxiv.org/abs/2501.18438)|null|
 |**2025-01-29**|**Automated Repair of Cyber-Physical Systems**|Pablo Valle et.al.|[2501.17678](http://arxiv.org/abs/2501.17678)|null|
 |**2025-01-27**|**MultiMend: Multilingual Program Repair with Context Augmentation and Multi-Hunk Patch Generation**|Reza Gharibi et.al.|[2501.16044](http://arxiv.org/abs/2501.16044)|**[link](https://github.com/h4iku/multimend)**|
 |**2025-01-17**|**Understanding the Effectiveness of LLMs in Automated Self-Admitted Technical Debt Repayment**|Mohammad Sadegh Sheikhaei et.al.|[2501.09888](http://arxiv.org/abs/2501.09888)|**[link](https://github.com/riselabqueens/satd-auto-repayment)**|
@@ -263,6 +263,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Streamlining Security Vulnerability Triage with Large Language Models**|Mohammad Jalili Torkamani et.al.|[2501.18908](http://arxiv.org/abs/2501.18908)|null|
 |**2025-01-27**|**PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing**|Yuwei Zhang et.al.|[2501.16149](http://arxiv.org/abs/2501.16149)|null|
 |**2025-01-17**|**Threat-Specific Risk Assessment for IP Multimedia Subsystem Networks Based on Hierarchical Models**|Abdullah Ehsan Shaikh et.al.|[2501.09936](http://arxiv.org/abs/2501.09936)|null|
 |**2024-12-27**|**The Current Challenges of Software Engineering in the Era of Large Language Models**|Cuiyun Gao et.al.|[2412.14554](http://arxiv.org/abs/2412.14554)|null|
