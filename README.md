@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Flow Graph-Based Classification of Defects4J Faults**|Alexandra van der Spuy et.al.|[2502.02299](http://arxiv.org/abs/2502.02299)|null|
+|**2025-02-03**|**Agentic Bug Reproduction for Effective Automated Program Repair at Google**|Runxiang Cheng et.al.|[2502.01821](http://arxiv.org/abs/2502.01821)|null|
 |**2025-01-31**|**o3-mini vs DeepSeek-R1: Which One is Safer?**|Aitor Arrieta et.al.|[2501.18438](http://arxiv.org/abs/2501.18438)|**[link](https://github.com/trust4ai/astral)**|
 |**2025-01-29**|**Automated Repair of Cyber-Physical Systems**|Pablo Valle et.al.|[2501.17678](http://arxiv.org/abs/2501.17678)|null|
 |**2025-01-27**|**MultiMend: Multilingual Program Repair with Context Augmentation and Multi-Hunk Patch Generation**|Reza Gharibi et.al.|[2501.16044](http://arxiv.org/abs/2501.16044)|**[link](https://github.com/h4iku/multimend)**|
@@ -438,6 +440,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-03**|**Analysis of Student-LLM Interaction in a Software Engineering Project**|Agrawal Naman et.al.|[2502.01273](http://arxiv.org/abs/2502.01273)|null|
 |**2024-12-08**|**From Critique to Clarity: A Pathway to Faithful and Personalized Code Explanations with Large Language Models**|Zexing Xu et.al.|[2501.14731](http://arxiv.org/abs/2501.14731)|null|
 |**2024-12-09**|**Can LLMs Identify Gaps and Misconceptions in Students' Code Explanations?**|Priti Oli et.al.|[2501.10365](http://arxiv.org/abs/2501.10365)|null|
 |**2025-01-14**|**Hierarchical Repository-Level Code Summarization for Business Applications Using Local LLMs**|Nilesh Dhulshette et.al.|[2501.07857](http://arxiv.org/abs/2501.07857)|null|
