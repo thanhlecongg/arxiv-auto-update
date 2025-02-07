@@ -440,6 +440,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Should Code Models Learn Pedagogically? A Preliminary Evaluation of Curriculum Learning for Real-World Software Engineering Tasks**|Kyi Shin Khant et.al.|[2502.03806](http://arxiv.org/abs/2502.03806)|null|
+|**2025-02-05**|**Resource-Efficient & Effective Code Summarization**|Saima Afrin et.al.|[2502.03617](http://arxiv.org/abs/2502.03617)|null|
 |**2025-02-03**|**Analysis of Student-LLM Interaction in a Software Engineering Project**|Agrawal Naman et.al.|[2502.01273](http://arxiv.org/abs/2502.01273)|null|
 |**2024-12-08**|**From Critique to Clarity: A Pathway to Faithful and Personalized Code Explanations with Large Language Models**|Zexing Xu et.al.|[2501.14731](http://arxiv.org/abs/2501.14731)|null|
 |**2024-12-09**|**Can LLMs Identify Gaps and Misconceptions in Students' Code Explanations?**|Priti Oli et.al.|[2501.10365](http://arxiv.org/abs/2501.10365)|null|
