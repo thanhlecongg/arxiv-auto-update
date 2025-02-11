@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**LessLeak-Bench: A First Investigation of Data Leakage in LLMs Across 83 Software Engineering Benchmarks**|Xin Zhou et.al.|[2502.06215](http://arxiv.org/abs/2502.06215)|null|
 |**2025-02-04**|**Flow Graph-Based Classification of Defects4J Faults**|Alexandra van der Spuy et.al.|[2502.02299](http://arxiv.org/abs/2502.02299)|**[link](https://github.com/alexvdspuy/fcd4j)**|
 |**2025-02-03**|**Agentic Bug Reproduction for Effective Automated Program Repair at Google**|Runxiang Cheng et.al.|[2502.01821](http://arxiv.org/abs/2502.01821)|null|
 |**2025-01-31**|**o3-mini vs DeepSeek-R1: Which One is Safer?**|Aitor Arrieta et.al.|[2501.18438](http://arxiv.org/abs/2501.18438)|**[link](https://github.com/trust4ai/astral)**|
@@ -440,6 +441,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Can LLMs Replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Software Engineering**|Ruiqi Wang et.al.|[2502.06193](http://arxiv.org/abs/2502.06193)|null|
 |**2025-02-06**|**Should Code Models Learn Pedagogically? A Preliminary Evaluation of Curriculum Learning for Real-World Software Engineering Tasks**|Kyi Shin Khant et.al.|[2502.03806](http://arxiv.org/abs/2502.03806)|null|
 |**2025-02-05**|**Resource-Efficient & Effective Code Summarization**|Saima Afrin et.al.|[2502.03617](http://arxiv.org/abs/2502.03617)|null|
 |**2025-02-03**|**Analysis of Student-LLM Interaction in a Software Engineering Project**|Agrawal Naman et.al.|[2502.01273](http://arxiv.org/abs/2502.01273)|null|
