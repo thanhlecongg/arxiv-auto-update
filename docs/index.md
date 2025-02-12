@@ -417,6 +417,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**Optimizing Datasets for Code Summarization: Is Code-Comment Coherence Enough?**|Antonio Vitale et.al.|[2502.07611](http://arxiv.org/abs/2502.07611)|null|
+|**2025-02-07**|**Can Large Language Models Understand Intermediate Representations?**|Hailong Jiang et.al.|[2502.06854](http://arxiv.org/abs/2502.06854)|null|
 |**2025-02-10**|**Can LLMs Replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Software Engineering**|Ruiqi Wang et.al.|[2502.06193](http://arxiv.org/abs/2502.06193)|null|
 |**2025-02-06**|**Should Code Models Learn Pedagogically? A Preliminary Evaluation of Curriculum Learning for Real-World Software Engineering Tasks**|Kyi Shin Khant et.al.|[2502.03806](http://arxiv.org/abs/2502.03806)|null|
 |**2025-02-05**|**Resource-Efficient & Effective Code Summarization**|Saima Afrin et.al.|[2502.03617](http://arxiv.org/abs/2502.03617)|null|
