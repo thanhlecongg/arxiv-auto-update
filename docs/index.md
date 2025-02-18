@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-16**|**Empirical evaluation of LLMs in predicting fixes of Configuration bugs in Smart Home System**|Sheikh Moonwara Anjum Monisha et.al.|[2502.10953](http://arxiv.org/abs/2502.10953)|null|
 |**2025-02-13**|**Knowledge-Enhanced Program Repair for Data Science Code**|Shuyin Ouyang et.al.|[2502.09771](http://arxiv.org/abs/2502.09771)|null|
 |**2024-12-19**|**Counterexample Guided Program Repair Using Zero-Shot Learning and MaxSAT-based Fault Localization**|Pedro Orvalho et.al.|[2502.07786](http://arxiv.org/abs/2502.07786)|null|
 |**2025-02-10**|**LessLeak-Bench: A First Investigation of Data Leakage in LLMs Across 83 Software Engineering Benchmarks**|Xin Zhou et.al.|[2502.06215](http://arxiv.org/abs/2502.06215)|null|
@@ -252,8 +253,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-16**|**VulRG: Multi-Level Explainable Vulnerability Patch Ranking for Complex Systems Using Graphs**|Yuning Jiang et.al.|[2502.11143](http://arxiv.org/abs/2502.11143)|null|
 |**2025-01-31**|**Streamlining Security Vulnerability Triage with Large Language Models**|Mohammad Jalili Torkamani et.al.|[2501.18908](http://arxiv.org/abs/2501.18908)|null|
-|**2025-01-27**|**PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing**|Yuwei Zhang et.al.|[2501.16149](http://arxiv.org/abs/2501.16149)|null|
+|**2025-02-16**|**PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing**|Yuwei Zhang et.al.|[2501.16149](http://arxiv.org/abs/2501.16149)|null|
 |**2025-01-17**|**Threat-Specific Risk Assessment for IP Multimedia Subsystem Networks Based on Hierarchical Models**|Abdullah Ehsan Shaikh et.al.|[2501.09936](http://arxiv.org/abs/2501.09936)|null|
 |**2024-12-27**|**The Current Challenges of Software Engineering in the Era of Large Language Models**|Cuiyun Gao et.al.|[2412.14554](http://arxiv.org/abs/2412.14554)|null|
 |**2024-12-09**|**Vulnerability, Where Art Thou? An Investigation of Vulnerability Management in Android Smartphone Chipsets**|Daniel Klischies et.al.|[2412.06556](http://arxiv.org/abs/2412.06556)|null|
@@ -419,6 +421,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Energy-Conscious LLM Decoding: Impact of Text Generation Strategies on GPU Energy Consumption**|Alireza Nik et.al.|[2502.11723](http://arxiv.org/abs/2502.11723)|null|
 |**2025-02-11**|**Optimizing Datasets for Code Summarization: Is Code-Comment Coherence Enough?**|Antonio Vitale et.al.|[2502.07611](http://arxiv.org/abs/2502.07611)|null|
 |**2025-02-07**|**Can Large Language Models Understand Intermediate Representations?**|Hailong Jiang et.al.|[2502.06854](http://arxiv.org/abs/2502.06854)|null|
 |**2025-02-10**|**Can LLMs Replace Human Evaluators? An Empirical Study of LLM-as-a-Judge in Software Engineering**|Ruiqi Wang et.al.|[2502.06193](http://arxiv.org/abs/2502.06193)|null|
