@@ -308,6 +308,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Identifying Bug Inducing Commits by Combining Fault Localisation and Code Change Histories**|Gabin An et.al.|[2502.12922](http://arxiv.org/abs/2502.12922)|null|
 |**2024-11-19**|**WIA-SZZ: Work Item Aware SZZ**|Salomé Perez-Rosero et.al.|[2411.12740](http://arxiv.org/abs/2411.12740)|null|
 |**2024-11-04**|**Fast Fixes and Faulty Drivers: An Empirical Analysis of Regression Bug Fixing Times in the Linux Kernel**|Jukka Ruohonen et.al.|[2411.02091](http://arxiv.org/abs/2411.02091)|null|
 |**2023-08-19**|**Repeated Builds During Code Review: An Empirical Study of the OpenStack Community**|Rungroj Maipradit et.al.|[2308.10078](http://arxiv.org/abs/2308.10078)|null|
