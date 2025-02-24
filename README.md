@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**Bugfix: a standard language, database schema and repository for research on bugs and automatic program repair**|Victoria Kananchuk et.al.|[2502.15599](http://arxiv.org/abs/2502.15599)|null|
+|**2025-02-21**|**Computation Tree Logic Guided Program Repair**|Yu Liu et.al.|[2502.15344](http://arxiv.org/abs/2502.15344)|null|
 |**2025-02-20**|**Where's the Bug? Attention Probing for Scalable Fault Localization**|Adam Stein et.al.|[2502.13966](http://arxiv.org/abs/2502.13966)|null|
 |**2025-02-16**|**Empirical evaluation of LLMs in predicting fixes of Configuration bugs in Smart Home System**|Sheikh Moonwara Anjum Monisha et.al.|[2502.10953](http://arxiv.org/abs/2502.10953)|null|
 |**2025-02-13**|**Knowledge-Enhanced Program Repair for Data Science Code**|Shuyin Ouyang et.al.|[2502.09771](http://arxiv.org/abs/2502.09771)|null|
