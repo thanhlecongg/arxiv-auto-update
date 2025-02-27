@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-29**|**Empirical Research on Utilizing LLM-based Agents for Automated Bug Fixing via LangGraph**|Jialin Wang et.al.|[2502.18465](http://arxiv.org/abs/2502.18465)|null|
 |**2025-02-21**|**Bugfix: a standard language, database schema and repository for research on bugs and automatic program repair**|Victoria Kananchuk et.al.|[2502.15599](http://arxiv.org/abs/2502.15599)|null|
 |**2025-02-21**|**Computation Tree Logic Guided Program Repair**|Yu Liu et.al.|[2502.15344](http://arxiv.org/abs/2502.15344)|null|
 |**2025-02-20**|**Where's the Bug? Attention Probing for Scalable Fault Localization**|Adam Stein et.al.|[2502.13966](http://arxiv.org/abs/2502.13966)|null|
@@ -426,6 +427,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**CodeIF: Benchmarking the Instruction-Following Capabilities of Large Language Models for Code Generation**|Kaiwen Yan et.al.|[2502.19166](http://arxiv.org/abs/2502.19166)|null|
 |**2025-02-23**|**Code Summarization Beyond Function Level**|Vladimir Makharev et.al.|[2502.16704](http://arxiv.org/abs/2502.16704)|**[link](https://github.com/kilimanj4r0/code-summarization-beyond-function-level)**|
 |**2025-02-17**|**Energy-Conscious LLM Decoding: Impact of Text Generation Strategies on GPU Energy Consumption**|Alireza Nik et.al.|[2502.11723](http://arxiv.org/abs/2502.11723)|null|
 |**2025-02-11**|**Optimizing Datasets for Code Summarization: Is Code-Comment Coherence Enough?**|Antonio Vitale et.al.|[2502.07611](http://arxiv.org/abs/2502.07611)|null|
