@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -333,7 +333,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-23**|**A Joint Learning Framework for Bridging Defect Prediction and Interpretation**|Guifang Xu et.al.|[2502.16429](http://arxiv.org/abs/2502.16429)|null|
+|**2025-02-23**|**A Joint Learning Framework for Bridging Defect Prediction and Interpretation**|Guifang Xu et.al.|[2502.16429](http://arxiv.org/abs/2502.16429)|**[link](https://github.com/bugpredictor/software-defect-prediction)**|
 |**2025-01-09**|**Bringing Order Amidst Chaos: On the Role of Artificial Intelligence in Secure Software Engineering**|Matteo Esposito et.al.|[2501.05165](http://arxiv.org/abs/2501.05165)|null|
 |**2025-01-08**|**Comparative Analysis of Quantum and Classical Support Vector Classifiers for Software Bug Prediction: An Exploratory Study**|Md Nadim et.al.|[2501.04690](http://arxiv.org/abs/2501.04690)|null|
 |**2024-12-23**|**Better Knowledge Enhancement for Privacy-Preserving Cross-Project Defect Prediction**|Yuying Wang et.al.|[2412.17317](http://arxiv.org/abs/2412.17317)|null|
