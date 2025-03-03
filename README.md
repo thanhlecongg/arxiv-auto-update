@@ -353,6 +353,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**Multimodal Learning for Just-In-Time Software Defect Prediction in Autonomous Driving Systems**|Faisal Mohammad et.al.|[2502.20806](http://arxiv.org/abs/2502.20806)|null|
 |**2025-02-23**|**A Joint Learning Framework for Bridging Defect Prediction and Interpretation**|Guifang Xu et.al.|[2502.16429](http://arxiv.org/abs/2502.16429)|**[link](https://github.com/bugpredictor/software-defect-prediction)**|
 |**2025-01-09**|**Bringing Order Amidst Chaos: On the Role of Artificial Intelligence in Secure Software Engineering**|Matteo Esposito et.al.|[2501.05165](http://arxiv.org/abs/2501.05165)|null|
 |**2025-01-08**|**Comparative Analysis of Quantum and Classical Support Vector Classifiers for Software Bug Prediction: An Exploratory Study**|Md Nadim et.al.|[2501.04690](http://arxiv.org/abs/2501.04690)|null|
@@ -451,7 +452,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-26**|**CodeIF: Benchmarking the Instruction-Following Capabilities of Large Language Models for Code Generation**|Kaiwen Yan et.al.|[2502.19166](http://arxiv.org/abs/2502.19166)|null|
+|**2025-02-26**|**CodeIF: Benchmarking the Instruction-Following Capabilities of Large Language Models for Code Generation**|Kaiwen Yan et.al.|[2502.19166](http://arxiv.org/abs/2502.19166)|**[link](https://github.com/lin-rany/codeIF)**|
 |**2025-02-23**|**Code Summarization Beyond Function Level**|Vladimir Makharev et.al.|[2502.16704](http://arxiv.org/abs/2502.16704)|**[link](https://github.com/kilimanj4r0/code-summarization-beyond-function-level)**|
 |**2025-02-17**|**Energy-Conscious LLM Decoding: Impact of Text Generation Strategies on GPU Energy Consumption**|Alireza Nik et.al.|[2502.11723](http://arxiv.org/abs/2502.11723)|null|
 |**2025-02-11**|**Optimizing Datasets for Code Summarization: Is Code-Comment Coherence Enough?**|Antonio Vitale et.al.|[2502.07611](http://arxiv.org/abs/2502.07611)|null|
