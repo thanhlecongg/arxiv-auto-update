@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-01**|**Show Me Why It's Correct: Saving 1/3 of Debugging Time in Program Repair with Interactive Runtime Comparison**|Ruixin Wang et.al.|[2503.00618](http://arxiv.org/abs/2503.00618)|null|
 |**2025-01-29**|**Empirical Research on Utilizing LLM-based Agents for Automated Bug Fixing via LangGraph**|Jialin Wang et.al.|[2502.18465](http://arxiv.org/abs/2502.18465)|null|
 |**2025-02-27**|**Bugfix: a standard language, database schema and repository for research on bugs and automatic program repair**|Victoria Kananchuk et.al.|[2502.15599](http://arxiv.org/abs/2502.15599)|null|
 |**2025-02-21**|**Computation Tree Logic Guided Program Repair**|Yu Liu et.al.|[2502.15344](http://arxiv.org/abs/2502.15344)|null|
@@ -273,6 +274,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-03**|**Bomfather: An eBPF-based Kernel-level Monitoring Framework for Accurate Identification of Unknown, Unused, and Dynamically Loaded Dependencies in Modern Software Supply Chains**|Naveen Srinivasan et.al.|[2503.02097](http://arxiv.org/abs/2503.02097)|null|
 |**2025-02-16**|**VulRG: Multi-Level Explainable Vulnerability Patch Ranking for Complex Systems Using Graphs**|Yuning Jiang et.al.|[2502.11143](http://arxiv.org/abs/2502.11143)|null|
 |**2025-01-31**|**Streamlining Security Vulnerability Triage with Large Language Models**|Mohammad Jalili Torkamani et.al.|[2501.18908](http://arxiv.org/abs/2501.18908)|null|
 |**2025-02-16**|**PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing**|Yuwei Zhang et.al.|[2501.16149](http://arxiv.org/abs/2501.16149)|null|
