@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-06**|**Extracting Fix Ingredients using Language Models**|Julian Aron Prenner et.al.|[2503.04214](http://arxiv.org/abs/2503.04214)|null|
 |**2025-03-01**|**Show Me Why It's Correct: Saving 1/3 of Debugging Time in Program Repair with Interactive Runtime Comparison**|Ruixin Wang et.al.|[2503.00618](http://arxiv.org/abs/2503.00618)|null|
 |**2025-01-29**|**Empirical Research on Utilizing LLM-based Agents for Automated Bug Fixing via LangGraph**|Jialin Wang et.al.|[2502.18465](http://arxiv.org/abs/2502.18465)|null|
 |**2025-02-27**|**Bugfix: a standard language, database schema and repository for research on bugs and automatic program repair**|Victoria Kananchuk et.al.|[2502.15599](http://arxiv.org/abs/2502.15599)|null|
