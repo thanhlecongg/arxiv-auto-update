@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Bogus Bugs, Duplicates, and Revealing Comments: Data Quality Issues in NPR**|Julian Aron Prenner et.al.|[2503.08532](http://arxiv.org/abs/2503.08532)|null|
 |**2025-03-09**|**Less is More: Adaptive Program Repair with Bug Localization and Preference Learning**|Zhenlong Dai et.al.|[2503.06510](http://arxiv.org/abs/2503.06510)|null|
 |**2025-03-06**|**Extracting Fix Ingredients using Language Models**|Julian Aron Prenner et.al.|[2503.04214](http://arxiv.org/abs/2503.04214)|null|
 |**2025-03-01**|**Show Me Why It's Correct: Saving 1/3 of Debugging Time in Program Repair with Interactive Runtime Comparison**|Ruixin Wang et.al.|[2503.00618](http://arxiv.org/abs/2503.00618)|null|
