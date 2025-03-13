@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Evaluating the Generalizability of LLMs in Automated Program Repair**|Fengjie Li et.al.|[2503.09217](http://arxiv.org/abs/2503.09217)|null|
 |**2025-03-11**|**Bogus Bugs, Duplicates, and Revealing Comments: Data Quality Issues in NPR**|Julian Aron Prenner et.al.|[2503.08532](http://arxiv.org/abs/2503.08532)|null|
 |**2025-03-09**|**Less is More: Adaptive Program Repair with Bug Localization and Preference Learning**|Zhenlong Dai et.al.|[2503.06510](http://arxiv.org/abs/2503.06510)|null|
 |**2025-03-06**|**Extracting Fix Ingredients using Language Models**|Julian Aron Prenner et.al.|[2503.04214](http://arxiv.org/abs/2503.04214)|null|
