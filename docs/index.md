@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.14
+## Updated on 2025.03.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-12**|**Evaluating the Generalizability of LLMs in Automated Program Repair**|Fengjie Li et.al.|[2503.09217](http://arxiv.org/abs/2503.09217)|null|
 |**2025-03-11**|**Bogus Bugs, Duplicates, and Revealing Comments: Data Quality Issues in NPR**|Julian Aron Prenner et.al.|[2503.08532](http://arxiv.org/abs/2503.08532)|null|
-|**2025-03-09**|**Less is More: Adaptive Program Repair with Bug Localization and Preference Learning**|Zhenlong Dai et.al.|[2503.06510](http://arxiv.org/abs/2503.06510)|null|
+|**2025-03-09**|**Less is More: Adaptive Program Repair with Bug Localization and Preference Learning**|Zhenlong Dai et.al.|[2503.06510](http://arxiv.org/abs/2503.06510)|**[link](https://github.com/zhenlongDai/AdaPatcher)**|
 |**2025-03-06**|**Extracting Fix Ingredients using Language Models**|Julian Aron Prenner et.al.|[2503.04214](http://arxiv.org/abs/2503.04214)|null|
 |**2025-03-01**|**Show Me Why It's Correct: Saving 1/3 of Debugging Time in Program Repair with Interactive Runtime Comparison**|Ruixin Wang et.al.|[2503.00618](http://arxiv.org/abs/2503.00618)|null|
 |**2025-01-29**|**Empirical Research on Utilizing LLM-based Agents for Automated Bug Fixing via LangGraph**|Jialin Wang et.al.|[2502.18465](http://arxiv.org/abs/2502.18465)|null|
