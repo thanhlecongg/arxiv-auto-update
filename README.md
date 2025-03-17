@@ -458,6 +458,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**Commenting Higher-level Code Unit: Full Code, Reduced Code, or Hierarchical Code Summarization**|Weisong Sun et.al.|[2503.10737](http://arxiv.org/abs/2503.10737)|null|
 |**2025-03-05**|**CodeIF: Benchmarking the Instruction-Following Capabilities of Large Language Models for Code Generation**|Kaiwen Yan et.al.|[2502.19166](http://arxiv.org/abs/2502.19166)|**[link](https://github.com/lin-rany/codeIF)**|
 |**2025-02-23**|**Code Summarization Beyond Function Level**|Vladimir Makharev et.al.|[2502.16704](http://arxiv.org/abs/2502.16704)|**[link](https://github.com/kilimanj4r0/code-summarization-beyond-function-level)**|
 |**2025-02-17**|**Energy-Conscious LLM Decoding: Impact of Text Generation Strategies on GPU Energy Consumption**|Alireza Nik et.al.|[2502.11723](http://arxiv.org/abs/2502.11723)|null|
