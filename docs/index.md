@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Studying and Understanding the Effectiveness and Failures of Conversational LLM-Based Repair**|Aolin Chen et.al.|[2503.15050](http://arxiv.org/abs/2503.15050)|null|
 |**2025-03-12**|**Evaluating the Generalizability of LLMs in Automated Program Repair**|Fengjie Li et.al.|[2503.09217](http://arxiv.org/abs/2503.09217)|null|
 |**2025-03-11**|**Bogus Bugs, Duplicates, and Revealing Comments: Data Quality Issues in NPR**|Julian Aron Prenner et.al.|[2503.08532](http://arxiv.org/abs/2503.08532)|null|
 |**2025-03-09**|**Less is More: Adaptive Program Repair with Bug Localization and Preference Learning**|Zhenlong Dai et.al.|[2503.06510](http://arxiv.org/abs/2503.06510)|**[link](https://github.com/zhenlongDai/AdaPatcher)**|
@@ -206,6 +207,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Are "Solved Issues" in SWE-bench Really Solved Correctly? An Empirical Study**|You Wang et.al.|[2503.15223](http://arxiv.org/abs/2503.15223)|null|
 |**2025-01-27**|**MultiMend: Multilingual Program Repair with Context Augmentation and Multi-Hunk Patch Generation**|Reza Gharibi et.al.|[2501.16044](http://arxiv.org/abs/2501.16044)|**[link](https://github.com/h4iku/multimend)**|
 |**2024-12-13**|**Beyond Toxic Neurons: A Mechanistic Analysis of DPO for Toxicity Reduction**|Yushi Yang et.al.|[2411.06424](http://arxiv.org/abs/2411.06424)|**[link](https://github.com/yushi-y/dpo-toxic-neurons)**|
 |**2024-08-02**|**The Impact of Program Reduction on Automated Program Repair**|Linas Vidziunas et.al.|[2408.01134](http://arxiv.org/abs/2408.01134)|null|
@@ -434,6 +436,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-19**|**Enhancing Code LLM Training with Programmer Attention**|Yifan Zhang et.al.|[2503.14936](http://arxiv.org/abs/2503.14936)|null|
 |**2025-03-15**|**Is Multi-Agent Debate (MAD) the Silver Bullet? An Empirical Analysis of MAD in Code Summarization and Translation**|Jina Chun et.al.|[2503.12029](http://arxiv.org/abs/2503.12029)|null|
 |**2025-03-13**|**Commenting Higher-level Code Unit: Full Code, Reduced Code, or Hierarchical Code Summarization**|Weisong Sun et.al.|[2503.10737](http://arxiv.org/abs/2503.10737)|null|
 |**2025-03-05**|**CodeIF: Benchmarking the Instruction-Following Capabilities of Large Language Models for Code Generation**|Kaiwen Yan et.al.|[2502.19166](http://arxiv.org/abs/2502.19166)|**[link](https://github.com/lin-rany/codeIF)**|
