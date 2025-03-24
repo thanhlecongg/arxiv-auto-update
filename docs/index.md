@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**InfraFix: Technology-Agnostic Repair of Infrastructure as Code**|Nuno Saavedra et.al.|[2503.17220](http://arxiv.org/abs/2503.17220)|null|
 |**2025-03-20**|**Attention Pruning: Automated Fairness Repair of Language Models via Surrogate Simulated Annealing**|Vishnu Asutosh Dasu et.al.|[2503.15815](http://arxiv.org/abs/2503.15815)|null|
 |**2025-03-19**|**Studying and Understanding the Effectiveness and Failures of Conversational LLM-Based Repair**|Aolin Chen et.al.|[2503.15050](http://arxiv.org/abs/2503.15050)|null|
 |**2025-03-12**|**Evaluating the Generalizability of LLMs in Automated Program Repair**|Fengjie Li et.al.|[2503.09217](http://arxiv.org/abs/2503.09217)|null|
