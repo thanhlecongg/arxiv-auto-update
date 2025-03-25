@@ -266,6 +266,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Understanding the Changing Landscape of Automotive Software Vulnerabilities: Insights from a Seven-Year Analysis**|Srijita Basu et.al.|[2503.17537](http://arxiv.org/abs/2503.17537)|null|
 |**2025-03-03**|**Bomfather: An eBPF-based Kernel-level Monitoring Framework for Accurate Identification of Unknown, Unused, and Dynamically Loaded Dependencies in Modern Software Supply Chains**|Naveen Srinivasan et.al.|[2503.02097](http://arxiv.org/abs/2503.02097)|null|
 |**2025-02-16**|**VulRG: Multi-Level Explainable Vulnerability Patch Ranking for Complex Systems Using Graphs**|Yuning Jiang et.al.|[2502.11143](http://arxiv.org/abs/2502.11143)|null|
 |**2025-01-31**|**Streamlining Security Vulnerability Triage with Large Language Models**|Mohammad Jalili Torkamani et.al.|[2501.18908](http://arxiv.org/abs/2501.18908)|null|
@@ -322,6 +323,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**Regression Testing with a Natural Language Oracle**|Michael Pradel et.al.|[2503.18597](http://arxiv.org/abs/2503.18597)|null|
 |**2025-02-19**|**Identifying Bug Inducing Commits by Combining Fault Localisation and Code Change Histories**|Gabin An et.al.|[2502.12922](http://arxiv.org/abs/2502.12922)|null|
 |**2024-11-19**|**WIA-SZZ: Work Item Aware SZZ**|Salomé Perez-Rosero et.al.|[2411.12740](http://arxiv.org/abs/2411.12740)|null|
 |**2024-11-04**|**Fast Fixes and Faulty Drivers: An Empirical Analysis of Regression Bug Fixing Times in the Linux Kernel**|Jukka Ruohonen et.al.|[2411.02091](http://arxiv.org/abs/2411.02091)|null|
