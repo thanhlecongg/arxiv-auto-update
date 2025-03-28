@@ -323,7 +323,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-24**|**Regression Testing with a Natural Language Oracle**|Michael Pradel et.al.|[2503.18597](http://arxiv.org/abs/2503.18597)|null|
+|**2025-03-24**|**Regression Testing with a Natural Language Oracle**|Michael Pradel et.al.|[2503.18597](http://arxiv.org/abs/2503.18597)|**[link](https://github.com/michaelpradel/Testora)**|
 |**2025-02-19**|**Identifying Bug Inducing Commits by Combining Fault Localisation and Code Change Histories**|Gabin An et.al.|[2502.12922](http://arxiv.org/abs/2502.12922)|null|
 |**2024-11-19**|**WIA-SZZ: Work Item Aware SZZ**|Salomé Perez-Rosero et.al.|[2411.12740](http://arxiv.org/abs/2411.12740)|null|
 |**2024-11-04**|**Fast Fixes and Faulty Drivers: An Empirical Analysis of Regression Bug Fixing Times in the Linux Kernel**|Jukka Ruohonen et.al.|[2411.02091](http://arxiv.org/abs/2411.02091)|null|
