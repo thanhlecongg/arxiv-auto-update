@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.28
+## Updated on 2025.03.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -331,7 +331,7 @@ layout: default
 |**2024-06-07**|**Evaluating SZZ Implementations: An Empirical Study on the Linux Kernel**|Yunbo Lyu et.al.|[2308.05060](http://arxiv.org/abs/2308.05060)|null|
 |**2023-01-25**|**Backward Compatibility During Data Updates by Weight Interpolation**|Raphael Schumann et.al.|[2301.10546](http://arxiv.org/abs/2301.10546)|null|
 |**2023-02-15**|**Fonte: Finding Bug Inducing Commits from Failures**|Gabin An et.al.|[2212.06376](http://arxiv.org/abs/2212.06376)|**[link](https://github.com/coinse/fonte)**|
-|**2022-12-07**|**Utilizing Source Code Syntax Patterns to Detect Bug Inducing Commits using Machine Learning Models**|Md Nadim et.al.|[2212.03399](http://arxiv.org/abs/2212.03399)|null|
+|**2022-12-07**|**Utilizing Source Code Syntax Patterns to Detect Bug Inducing Commits using Machine Learning Models**|Md Nadim et.al.|[2212.03399](http://arxiv.org/abs/2212.03399)|**[link](https://github.com/mnadims/bicdetectionsf)**|
 |**2022-04-22**|**Comparative Study of Machine Learning Test Case Prioritization for Continuous Integration Testing**|Dusica Marijan et.al.|[2204.10899](http://arxiv.org/abs/2204.10899)|null|
 |**2022-07-04**|**RegMiner: Towards Constructing a Large Regression Dataset from Code Evolution History**|Xuezhi Song et.al.|[2109.12389](http://arxiv.org/abs/2109.12389)|null|
 |**2021-06-21**|**An empirical evaluation of the usefulness of Tree Kernels for Commit-time Defect Detection in large software systems**|Hareem Sahar et.al.|[2106.10789](http://arxiv.org/abs/2106.10789)|null|
