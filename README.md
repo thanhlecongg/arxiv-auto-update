@@ -19,6 +19,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Generating Mitigations for Downstream Projects to Neutralize Upstream Library Vulnerability**|Zirui Chen et.al.|[2503.24273](http://arxiv.org/abs/2503.24273)|null|
+|**2025-03-31**|**LLMigrate: Transforming "Lazy" Large Language Models into Efficient Source Code Migrators**|Yuchen Liu et.al.|[2503.23791](http://arxiv.org/abs/2503.23791)|null|
+|**2025-03-28**|**Identifying and Mitigating API Misuse in Large Language Models**|Terry Yue Zhuo et.al.|[2503.22821](http://arxiv.org/abs/2503.22821)|null|
 |**2025-03-28**|**Unlocking LLM Repair Capabilities in Low-Resource Programming Languages Through Cross-Language Translation and Multi-Agent Refinement**|Wenqiang Luo et.al.|[2503.22512](http://arxiv.org/abs/2503.22512)|null|
 |**2025-03-28**|**CoSIL: Software Issue Localization via LLM-Driven Code Repository Graph Searching**|Zhonghao Jiang et.al.|[2503.22424](http://arxiv.org/abs/2503.22424)|**[link](https://github.com/zhonghaojiang/cosil)**|
 |**2025-03-21**|**InfraFix: Technology-Agnostic Repair of Infrastructure as Code**|Nuno Saavedra et.al.|[2503.17220](http://arxiv.org/abs/2503.17220)|null|
@@ -284,6 +287,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-29**|**Improving the Context Length and Efficiency of Code Retrieval for Tracing Security Vulnerability Fixes**|Xueqing Liu et.al.|[2503.22935](http://arxiv.org/abs/2503.22935)|null|
+|**2025-03-28**|**Chasing the Clock: How Fast Are Vulnerabilities Fixed in the Maven Ecosystem?**|Md Fazle Rabbi et.al.|[2503.22894](http://arxiv.org/abs/2503.22894)|null|
 |**2025-03-28**|**Understanding Software Vulnerabilities in the Maven Ecosystem: Patterns, Timelines, and Risks**|Md Fazle Rabbi et.al.|[2503.22391](http://arxiv.org/abs/2503.22391)|null|
 |**2025-03-21**|**Understanding the Changing Landscape of Automotive Software Vulnerabilities: Insights from a Seven-Year Analysis**|Srijita Basu et.al.|[2503.17537](http://arxiv.org/abs/2503.17537)|null|
 |**2025-03-03**|**Bomfather: An eBPF-based Kernel-level Monitoring Framework for Accurate Identification of Unknown, Unused, and Dynamically Loaded Dependencies in Modern Software Supply Chains**|Naveen Srinivasan et.al.|[2503.02097](http://arxiv.org/abs/2503.02097)|null|
