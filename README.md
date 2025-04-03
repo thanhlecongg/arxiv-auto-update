@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Adapting Knowledge Prompt Tuning for Enhanced Automated Program Repair**|Xuemeng Cai et.al.|[2504.01523](http://arxiv.org/abs/2504.01523)|null|
 |**2025-03-31**|**Generating Mitigations for Downstream Projects to Neutralize Upstream Library Vulnerability**|Zirui Chen et.al.|[2503.24273](http://arxiv.org/abs/2503.24273)|null|
 |**2025-03-31**|**LLMigrate: Transforming "Lazy" Large Language Models into Efficient Source Code Migrators**|Yuchen Liu et.al.|[2503.23791](http://arxiv.org/abs/2503.23791)|null|
 |**2025-03-28**|**Identifying and Mitigating API Misuse in Large Language Models**|Terry Yue Zhuo et.al.|[2503.22821](http://arxiv.org/abs/2503.22821)|null|
@@ -349,6 +350,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models**|Lingxiao Tang et.al.|[2504.01404](http://arxiv.org/abs/2504.01404)|null|
 |**2025-03-24**|**Regression Testing with a Natural Language Oracle**|Michael Pradel et.al.|[2503.18597](http://arxiv.org/abs/2503.18597)|**[link](https://github.com/michaelpradel/Testora)**|
 |**2025-02-19**|**Identifying Bug Inducing Commits by Combining Fault Localisation and Code Change Histories**|Gabin An et.al.|[2502.12922](http://arxiv.org/abs/2502.12922)|null|
 |**2024-11-19**|**WIA-SZZ: Work Item Aware SZZ**|Salomé Perez-Rosero et.al.|[2411.12740](http://arxiv.org/abs/2411.12740)|null|
@@ -373,6 +375,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-01**|**Unveiling Hybrid Cyclomatic Complexity: A Comprehensive Analysis and Evaluation as an Integral Feature in Automatic Defect Prediction Models**|Laura Diana Cernau et.al.|[2504.00477](http://arxiv.org/abs/2504.00477)|null|
 |**2025-03-20**|**Enhancing Software Quality Assurance with an Adaptive Differential Evolution based Quantum Variational Autoencoder-Transformer Model**|Seshu Babu Barma et.al.|[2503.16335](http://arxiv.org/abs/2503.16335)|null|
 |**2025-02-28**|**Multimodal Learning for Just-In-Time Software Defect Prediction in Autonomous Driving Systems**|Faisal Mohammad et.al.|[2502.20806](http://arxiv.org/abs/2502.20806)|null|
 |**2025-02-23**|**A Joint Learning Framework for Bridging Defect Prediction and Interpretation**|Guifang Xu et.al.|[2502.16429](http://arxiv.org/abs/2502.16429)|**[link](https://github.com/bugpredictor/software-defect-prediction)**|
