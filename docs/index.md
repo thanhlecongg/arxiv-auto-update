@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -13,7 +13,7 @@ layout: default
 |**2025-03-31**|**Generating Mitigations for Downstream Projects to Neutralize Upstream Library Vulnerability**|Zirui Chen et.al.|[2503.24273](http://arxiv.org/abs/2503.24273)|null|
 |**2025-03-31**|**LLMigrate: Transforming "Lazy" Large Language Models into Efficient Source Code Migrators**|Yuchen Liu et.al.|[2503.23791](http://arxiv.org/abs/2503.23791)|null|
 |**2025-03-28**|**Identifying and Mitigating API Misuse in Large Language Models**|Terry Yue Zhuo et.al.|[2503.22821](http://arxiv.org/abs/2503.22821)|null|
-|**2025-03-28**|**Unlocking LLM Repair Capabilities in Low-Resource Programming Languages Through Cross-Language Translation and Multi-Agent Refinement**|Wenqiang Luo et.al.|[2503.22512](http://arxiv.org/abs/2503.22512)|null|
+|**2025-04-03**|**Unlocking LLM Repair Capabilities in Low-Resource Programming Languages Through Cross-Language Translation and Multi-Agent Refinement**|Wenqiang Luo et.al.|[2503.22512](http://arxiv.org/abs/2503.22512)|null|
 |**2025-03-28**|**CoSIL: Software Issue Localization via LLM-Driven Code Repository Graph Searching**|Zhonghao Jiang et.al.|[2503.22424](http://arxiv.org/abs/2503.22424)|**[link](https://github.com/zhonghaojiang/cosil)**|
 |**2025-03-21**|**InfraFix: Technology-Agnostic Repair of Infrastructure as Code**|Nuno Saavedra et.al.|[2503.17220](http://arxiv.org/abs/2503.17220)|null|
 |**2025-03-20**|**Attention Pruning: Automated Fairness Repair of Language Models via Surrogate Simulated Annealing**|Vishnu Asutosh Dasu et.al.|[2503.15815](http://arxiv.org/abs/2503.15815)|null|
