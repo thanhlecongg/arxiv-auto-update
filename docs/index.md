@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -18,7 +18,7 @@ layout: default
 |**2025-03-28**|**CoSIL: Software Issue Localization via LLM-Driven Code Repository Graph Searching**|Zhonghao Jiang et.al.|[2503.22424](http://arxiv.org/abs/2503.22424)|**[link](https://github.com/zhonghaojiang/cosil)**|
 |**2025-03-21**|**InfraFix: Technology-Agnostic Repair of Infrastructure as Code**|Nuno Saavedra et.al.|[2503.17220](http://arxiv.org/abs/2503.17220)|null|
 |**2025-03-20**|**Attention Pruning: Automated Fairness Repair of Language Models via Surrogate Simulated Annealing**|Vishnu Asutosh Dasu et.al.|[2503.15815](http://arxiv.org/abs/2503.15815)|null|
-|**2025-03-19**|**Studying and Understanding the Effectiveness and Failures of Conversational LLM-Based Repair**|Aolin Chen et.al.|[2503.15050](http://arxiv.org/abs/2503.15050)|null|
+|**2025-04-09**|**Studying and Understanding the Effectiveness and Failures of Conversational LLM-Based Repair**|Aolin Chen et.al.|[2503.15050](http://arxiv.org/abs/2503.15050)|null|
 |**2025-03-12**|**Evaluating the Generalizability of LLMs in Automated Program Repair**|Fengjie Li et.al.|[2503.09217](http://arxiv.org/abs/2503.09217)|null|
 |**2025-03-11**|**Bogus Bugs, Duplicates, and Revealing Comments: Data Quality Issues in NPR**|Julian Aron Prenner et.al.|[2503.08532](http://arxiv.org/abs/2503.08532)|null|
 |**2025-03-09**|**Less is More: Adaptive Program Repair with Bug Localization and Preference Learning**|Zhenlong Dai et.al.|[2503.06510](http://arxiv.org/abs/2503.06510)|**[link](https://github.com/zhenlongDai/AdaPatcher)**|
