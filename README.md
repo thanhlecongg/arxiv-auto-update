@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Using ML filters to help automated vulnerability repairs: when it helps and when it doesn't**|Maria Camporese et.al.|[2504.07027](http://arxiv.org/abs/2504.07027)|null|
+|**2025-04-08**|**We've Got You Covered: Type-Guided Repair of Incomplete Input Generators**|Patrick LaFontaine et.al.|[2504.06421](http://arxiv.org/abs/2504.06421)|null|
 |**2025-04-07**|**ACE-RLHF: Automated Code Evaluation and Socratic Feedback Generation Tool using Large Language Models and Reinforcement Learning with Human Feedback**|Tasnia Rahman et.al.|[2504.04657](http://arxiv.org/abs/2504.04657)|null|
 |**2025-04-02**|**Adapting Knowledge Prompt Tuning for Enhanced Automated Program Repair**|Xuemeng Cai et.al.|[2504.01523](http://arxiv.org/abs/2504.01523)|**[link](https://github.com/cxm211/k-prompt)**|
 |**2025-03-31**|**Generating Mitigations for Downstream Projects to Neutralize Upstream Library Vulnerability**|Zirui Chen et.al.|[2503.24273](http://arxiv.org/abs/2503.24273)|null|
