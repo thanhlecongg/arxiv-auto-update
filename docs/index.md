@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Agent That Debugs: Dynamic State-Guided Vulnerability Repair**|Zhengyao Liu et.al.|[2504.07634](http://arxiv.org/abs/2504.07634)|null|
 |**2025-04-09**|**Using ML filters to help automated vulnerability repairs: when it helps and when it doesn't**|Maria Camporese et.al.|[2504.07027](http://arxiv.org/abs/2504.07027)|null|
 |**2025-04-08**|**We've Got You Covered: Type-Guided Repair of Incomplete Input Generators**|Patrick LaFontaine et.al.|[2504.06421](http://arxiv.org/abs/2504.06421)|null|
 |**2025-04-07**|**ACE-RLHF: Automated Code Evaluation and Socratic Feedback Generation Tool using Large Language Models and Reinforcement Learning with Human Feedback**|Tasnia Rahman et.al.|[2504.04657](http://arxiv.org/abs/2504.04657)|null|
