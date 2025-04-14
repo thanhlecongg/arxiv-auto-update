@@ -379,6 +379,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Bringing Structure to Naturalness: On the Naturalness of ASTs**|Profir-Petru Pârţachi et.al.|[2504.08234](http://arxiv.org/abs/2504.08234)|null|
 |**2025-04-01**|**Unveiling Hybrid Cyclomatic Complexity: A Comprehensive Analysis and Evaluation as an Integral Feature in Automatic Defect Prediction Models**|Laura Diana Cernau et.al.|[2504.00477](http://arxiv.org/abs/2504.00477)|null|
 |**2025-03-20**|**Enhancing Software Quality Assurance with an Adaptive Differential Evolution based Quantum Variational Autoencoder-Transformer Model**|Seshu Babu Barma et.al.|[2503.16335](http://arxiv.org/abs/2503.16335)|null|
 |**2025-02-28**|**Multimodal Learning for Just-In-Time Software Defect Prediction in Autonomous Driving Systems**|Faisal Mohammad et.al.|[2502.20806](http://arxiv.org/abs/2502.20806)|null|
@@ -480,6 +481,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**A Vulnerability Code Intent Summary Dataset**|Yifan Huang et.al.|[2504.08180](http://arxiv.org/abs/2504.08180)|null|
 |**2025-03-25**|**SLA-Awareness for AI-assisted coding**|Kishanthan Thangarajah et.al.|[2503.19876](http://arxiv.org/abs/2503.19876)|null|
 |**2025-03-19**|**Enhancing Code LLM Training with Programmer Attention**|Yifan Zhang et.al.|[2503.14936](http://arxiv.org/abs/2503.14936)|null|
 |**2025-03-15**|**Is Multi-Agent Debate (MAD) the Silver Bullet? An Empirical Analysis of MAD in Code Summarization and Translation**|Jina Chun et.al.|[2503.12029](http://arxiv.org/abs/2503.12029)|null|
