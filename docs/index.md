@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -460,7 +460,7 @@ layout: default
 |**2025-04-11**|**Code-Craft: Hierarchical Graph-Based Code Summarization for Enhanced Context Retrieval**|David Sounthiraraj et.al.|[2504.08975](http://arxiv.org/abs/2504.08975)|null|
 |**2025-04-11**|**A Vulnerability Code Intent Summary Dataset**|Yifan Huang et.al.|[2504.08180](http://arxiv.org/abs/2504.08180)|null|
 |**2025-03-25**|**SLA-Awareness for AI-assisted coding**|Kishanthan Thangarajah et.al.|[2503.19876](http://arxiv.org/abs/2503.19876)|null|
-|**2025-03-19**|**Enhancing Code LLM Training with Programmer Attention**|Yifan Zhang et.al.|[2503.14936](http://arxiv.org/abs/2503.14936)|null|
+|**2025-04-15**|**Enhancing Code LLM Training with Programmer Attention**|Yifan Zhang et.al.|[2503.14936](http://arxiv.org/abs/2503.14936)|null|
 |**2025-03-15**|**Is Multi-Agent Debate (MAD) the Silver Bullet? An Empirical Analysis of MAD in Code Summarization and Translation**|Jina Chun et.al.|[2503.12029](http://arxiv.org/abs/2503.12029)|null|
 |**2025-03-13**|**Commenting Higher-level Code Unit: Full Code, Reduced Code, or Hierarchical Code Summarization**|Weisong Sun et.al.|[2503.10737](http://arxiv.org/abs/2503.10737)|null|
 |**2025-03-05**|**CodeIF: Benchmarking the Instruction-Following Capabilities of Large Language Models for Code Generation**|Kaiwen Yan et.al.|[2502.19166](http://arxiv.org/abs/2502.19166)|**[link](https://github.com/lin-rany/codeIF)**|
