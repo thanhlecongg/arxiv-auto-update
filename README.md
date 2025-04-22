@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-20**|**SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs**|Minh V. T. Pham et.al.|[2504.14757](http://arxiv.org/abs/2504.14757)|null|
 |**2025-04-16**|**RePurr: Automated Repair of Block-Based Learners' Programs**|Sebastian Schweikl et.al.|[2504.12445](http://arxiv.org/abs/2504.12445)|null|
 |**2025-04-10**|**Agent That Debugs: Dynamic State-Guided Vulnerability Repair**|Zhengyao Liu et.al.|[2504.07634](http://arxiv.org/abs/2504.07634)|null|
 |**2025-04-09**|**Using ML filters to help automated vulnerability repairs: when it helps and when it doesn't**|Maria Camporese et.al.|[2504.07027](http://arxiv.org/abs/2504.07027)|null|
