@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets**|Hao-Nan Zhu et.al.|[2504.17977](http://arxiv.org/abs/2504.17977)|null|
 |**2025-04-20**|**SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs**|Minh V. T. Pham et.al.|[2504.14757](http://arxiv.org/abs/2504.14757)|null|
 |**2025-04-16**|**RePurr: Automated Repair of Block-Based Learners' Programs**|Sebastian Schweikl et.al.|[2504.12445](http://arxiv.org/abs/2504.12445)|null|
 |**2025-04-10**|**Agent That Debugs: Dynamic State-Guided Vulnerability Repair**|Zhengyao Liu et.al.|[2504.07634](http://arxiv.org/abs/2504.07634)|null|
@@ -381,6 +382,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Co-Change Graph Entropy: A New Process Metric for Defect Prediction**|Ethari Hrishikesh et.al.|[2504.18511](http://arxiv.org/abs/2504.18511)|null|
 |**2025-04-16**|**On the calibration of Just-in-time Defect Prediction**|Xhulja Shahini et.al.|[2504.12051](http://arxiv.org/abs/2504.12051)|null|
 |**2025-04-11**|**Bringing Structure to Naturalness: On the Naturalness of ASTs**|Profir-Petru Pârţachi et.al.|[2504.08234](http://arxiv.org/abs/2504.08234)|null|
 |**2025-04-01**|**Unveiling Hybrid Cyclomatic Complexity: A Comprehensive Analysis and Evaluation as an Integral Feature in Automatic Defect Prediction Models**|Laura Diana Cernau et.al.|[2504.00477](http://arxiv.org/abs/2504.00477)|null|
