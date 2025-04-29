@@ -382,6 +382,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-27**|**Critical Considerations on Effort-aware Software Defect Prediction Metrics**|Luigi Lavazza et.al.|[2504.19181](http://arxiv.org/abs/2504.19181)|null|
 |**2025-04-25**|**Co-Change Graph Entropy: A New Process Metric for Defect Prediction**|Ethari Hrishikesh et.al.|[2504.18511](http://arxiv.org/abs/2504.18511)|null|
 |**2025-04-16**|**On the calibration of Just-in-time Defect Prediction**|Xhulja Shahini et.al.|[2504.12051](http://arxiv.org/abs/2504.12051)|null|
 |**2025-04-11**|**Bringing Structure to Naturalness: On the Naturalness of ASTs**|Profir-Petru Pârţachi et.al.|[2504.08234](http://arxiv.org/abs/2504.08234)|null|
@@ -486,6 +487,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Large Language Models are Qualified Benchmark Builders: Rebuilding Pre-Training Datasets for Advancing Code Intelligence Tasks**|Kang Yang et.al.|[2504.19444](http://arxiv.org/abs/2504.19444)|null|
 |**2025-04-11**|**Code-Craft: Hierarchical Graph-Based Code Summarization for Enhanced Context Retrieval**|David Sounthiraraj et.al.|[2504.08975](http://arxiv.org/abs/2504.08975)|null|
 |**2025-04-11**|**A Vulnerability Code Intent Summary Dataset**|Yifan Huang et.al.|[2504.08180](http://arxiv.org/abs/2504.08180)|null|
 |**2025-03-25**|**SLA-Awareness for AI-assisted coding**|Kishanthan Thangarajah et.al.|[2503.19876](http://arxiv.org/abs/2503.19876)|null|
