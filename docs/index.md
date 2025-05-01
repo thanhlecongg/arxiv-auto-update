@@ -463,6 +463,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**An Empirical Study on the Effectiveness of Large Language Models for Binary Code Understanding**|Xiuwei Shang et.al.|[2504.21803](http://arxiv.org/abs/2504.21803)|null|
+|**2025-04-29**|**A Systematic Literature Review of Parameter-Efficient Fine-Tuning for Large Code Models**|Md Zahidul Haque et.al.|[2504.21569](http://arxiv.org/abs/2504.21569)|null|
 |**2025-04-28**|**Large Language Models are Qualified Benchmark Builders: Rebuilding Pre-Training Datasets for Advancing Code Intelligence Tasks**|Kang Yang et.al.|[2504.19444](http://arxiv.org/abs/2504.19444)|null|
 |**2025-04-11**|**Code-Craft: Hierarchical Graph-Based Code Summarization for Enhanced Context Retrieval**|David Sounthiraraj et.al.|[2504.08975](http://arxiv.org/abs/2504.08975)|null|
 |**2025-04-11**|**A Vulnerability Code Intent Summary Dataset**|Yifan Huang et.al.|[2504.08180](http://arxiv.org/abs/2504.08180)|null|
