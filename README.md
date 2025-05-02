@@ -295,6 +295,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Security-by-Design at the Telco Edge with OSS: Challenges and Lessons Learned**|Carmine Cesarano et.al.|[2505.00111](http://arxiv.org/abs/2505.00111)|null|
 |**2025-03-29**|**Improving the Context Length and Efficiency of Code Retrieval for Tracing Security Vulnerability Fixes**|Xueqing Liu et.al.|[2503.22935](http://arxiv.org/abs/2503.22935)|null|
 |**2025-03-28**|**Chasing the Clock: How Fast Are Vulnerabilities Fixed in the Maven Ecosystem?**|Md Fazle Rabbi et.al.|[2503.22894](http://arxiv.org/abs/2503.22894)|null|
 |**2025-03-28**|**Understanding Software Vulnerabilities in the Maven Ecosystem: Patterns, Timelines, and Risks**|Md Fazle Rabbi et.al.|[2503.22391](http://arxiv.org/abs/2503.22391)|null|
