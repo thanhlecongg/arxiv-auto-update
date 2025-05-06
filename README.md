@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629](http://arxiv.org/abs/2505.02629)|null|
 |**2025-04-24**|**From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets**|Hao-Nan Zhu et.al.|[2504.17977](http://arxiv.org/abs/2504.17977)|null|
 |**2025-04-20**|**SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs**|Minh V. T. Pham et.al.|[2504.14757](http://arxiv.org/abs/2504.14757)|null|
 |**2025-04-16**|**RePurr: Automated Repair of Block-Based Learners' Programs**|Sebastian Schweikl et.al.|[2504.12445](http://arxiv.org/abs/2504.12445)|null|
@@ -234,6 +235,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629](http://arxiv.org/abs/2505.02629)|null|
 |**2025-03-19**|**Are "Solved Issues" in SWE-bench Really Solved Correctly? An Empirical Study**|You Wang et.al.|[2503.15223](http://arxiv.org/abs/2503.15223)|null|
 |**2025-01-27**|**MultiMend: Multilingual Program Repair with Context Augmentation and Multi-Hunk Patch Generation**|Reza Gharibi et.al.|[2501.16044](http://arxiv.org/abs/2501.16044)|**[link](https://github.com/h4iku/multimend)**|
 |**2024-12-13**|**Beyond Toxic Neurons: A Mechanistic Analysis of DPO for Toxicity Reduction**|Yushi Yang et.al.|[2411.06424](http://arxiv.org/abs/2411.06424)|**[link](https://github.com/yushi-y/dpo-toxic-neurons)**|
