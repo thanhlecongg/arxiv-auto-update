@@ -21,7 +21,7 @@
 |---|---|---|---|---|
 |**2025-05-07**|**Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs**|Mirazul Haque et.al.|[2505.04441](http://arxiv.org/abs/2505.04441)|null|
 |**2025-05-05**|**The Art of Repair: Optimizing Iterative Program Repair with Instruction-Tuned Models**|Fernando Vallecillos Ruiz et.al.|[2505.02931](http://arxiv.org/abs/2505.02931)|null|
-|**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629](http://arxiv.org/abs/2505.02629)|null|
+|**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629](http://arxiv.org/abs/2505.02629)|**[link](https://github.com/sedeepl/graphlora)**|
 |**2025-04-24**|**From Bugs to Benchmarks: A Comprehensive Survey of Software Defect Datasets**|Hao-Nan Zhu et.al.|[2504.17977](http://arxiv.org/abs/2504.17977)|null|
 |**2025-04-20**|**SWE-Synth: Synthesizing Verifiable Bug-Fix Data to Enable Large Language Models in Resolving Real-World Bugs**|Minh V. T. Pham et.al.|[2504.14757](http://arxiv.org/abs/2504.14757)|null|
 |**2025-04-16**|**RePurr: Automated Repair of Block-Based Learners' Programs**|Sebastian Schweikl et.al.|[2504.12445](http://arxiv.org/abs/2504.12445)|null|
@@ -237,7 +237,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629](http://arxiv.org/abs/2505.02629)|null|
+|**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629](http://arxiv.org/abs/2505.02629)|**[link](https://github.com/sedeepl/graphlora)**|
 |**2025-03-19**|**Are "Solved Issues" in SWE-bench Really Solved Correctly? An Empirical Study**|You Wang et.al.|[2503.15223](http://arxiv.org/abs/2503.15223)|null|
 |**2025-01-27**|**MultiMend: Multilingual Program Repair with Context Augmentation and Multi-Hunk Patch Generation**|Reza Gharibi et.al.|[2501.16044](http://arxiv.org/abs/2501.16044)|**[link](https://github.com/h4iku/multimend)**|
 |**2024-12-13**|**Beyond Toxic Neurons: A Mechanistic Analysis of DPO for Toxicity Reduction**|Yushi Yang et.al.|[2411.06424](http://arxiv.org/abs/2411.06424)|**[link](https://github.com/yushi-y/dpo-toxic-neurons)**|
@@ -387,8 +387,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-02**|**Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning**|Liguo Ji et.al.|[2505.01022](http://arxiv.org/abs/2505.01022)|null|
-|**2025-05-02**|**Identifying Root Cause of bugs by Capturing Changed Code Lines with Relational Graph Neural Networks**|Jiaqi Zhang et.al.|[2505.00990](http://arxiv.org/abs/2505.00990)|null|
+|**2025-05-02**|**Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning**|Liguo Ji et.al.|[2505.01022](http://arxiv.org/abs/2505.01022)|**[link](https://github.com/hellojlg/rc_detector)**|
+|**2025-05-02**|**Identifying Root Cause of bugs by Capturing Changed Code Lines with Relational Graph Neural Networks**|Jiaqi Zhang et.al.|[2505.00990](http://arxiv.org/abs/2505.00990)|**[link](https://github.com/leling666/rc-detection)**|
 |**2025-04-27**|**Critical Considerations on Effort-aware Software Defect Prediction Metrics**|Luigi Lavazza et.al.|[2504.19181](http://arxiv.org/abs/2504.19181)|null|
 |**2025-04-25**|**Co-Change Graph Entropy: A New Process Metric for Defect Prediction**|Ethari Hrishikesh et.al.|[2504.18511](http://arxiv.org/abs/2504.18511)|null|
 |**2025-04-16**|**On the calibration of Just-in-time Defect Prediction**|Xhulja Shahini et.al.|[2504.12051](http://arxiv.org/abs/2504.12051)|null|
@@ -496,7 +496,7 @@
 |---|---|---|---|---|
 |**2025-05-02**|**Evaluating the Impact of Data Cleaning on the Quality of Generated Pull Request Descriptions**|Kutay Tire et.al.|[2505.01120](http://arxiv.org/abs/2505.01120)|null|
 |**2025-04-30**|**An Empirical Study on the Effectiveness of Large Language Models for Binary Code Understanding**|Xiuwei Shang et.al.|[2504.21803](http://arxiv.org/abs/2504.21803)|null|
-|**2025-04-29**|**A Systematic Literature Review of Parameter-Efficient Fine-Tuning for Large Code Models**|Md Zahidul Haque et.al.|[2504.21569](http://arxiv.org/abs/2504.21569)|null|
+|**2025-04-29**|**A Systematic Literature Review of Parameter-Efficient Fine-Tuning for Large Code Models**|Md Zahidul Haque et.al.|[2504.21569](http://arxiv.org/abs/2504.21569)|**[link](https://github.com/alvi75/slr-peft)**|
 |**2025-04-28**|**Large Language Models are Qualified Benchmark Builders: Rebuilding Pre-Training Datasets for Advancing Code Intelligence Tasks**|Kang Yang et.al.|[2504.19444](http://arxiv.org/abs/2504.19444)|null|
 |**2025-04-11**|**Code-Craft: Hierarchical Graph-Based Code Summarization for Enhanced Context Retrieval**|David Sounthiraraj et.al.|[2504.08975](http://arxiv.org/abs/2504.08975)|null|
 |**2025-04-11**|**A Vulnerability Code Intent Summary Dataset**|Yifan Huang et.al.|[2504.08180](http://arxiv.org/abs/2504.08180)|null|
