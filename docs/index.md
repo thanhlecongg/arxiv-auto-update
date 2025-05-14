@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -369,9 +369,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-12**|**Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning**|Liguo Ji et.al.|[2505.01022](http://arxiv.org/abs/2505.01022)|**[link](https://github.com/hellojlg/rc_detector)**|
+|**2025-05-13**|**Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning**|Liguo Ji et.al.|[2505.01022](http://arxiv.org/abs/2505.01022)|**[link](https://github.com/hellojlg/rc_detector)**|
 |**2025-05-02**|**Identifying Root Cause of bugs by Capturing Changed Code Lines with Relational Graph Neural Networks**|Jiaqi Zhang et.al.|[2505.00990](http://arxiv.org/abs/2505.00990)|**[link](https://github.com/leling666/rc-detection)**|
-|**2025-04-27**|**Critical Considerations on Effort-aware Software Defect Prediction Metrics**|Luigi Lavazza et.al.|[2504.19181](http://arxiv.org/abs/2504.19181)|null|
+|**2025-04-27**|**Critical Considerations on Effort-aware Software Defect Prediction Metrics**|Luigi Lavazza et.al.|[2504.19181](http://arxiv.org/abs/2504.19181)|**[link](https://github.com/BruhZul/Supplement-material-EAM-EASE25)**|
 |**2025-04-25**|**Co-Change Graph Entropy: A New Process Metric for Defect Prediction**|Ethari Hrishikesh et.al.|[2504.18511](http://arxiv.org/abs/2504.18511)|null|
 |**2025-04-16**|**On the calibration of Just-in-time Defect Prediction**|Xhulja Shahini et.al.|[2504.12051](http://arxiv.org/abs/2504.12051)|null|
 |**2025-04-11**|**Bringing Structure to Naturalness: On the Naturalness of ASTs**|Profir-Petru Pârţachi et.al.|[2504.08234](http://arxiv.org/abs/2504.08234)|null|
