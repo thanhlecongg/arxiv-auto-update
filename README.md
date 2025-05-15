@@ -496,6 +496,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610](http://arxiv.org/abs/2505.09610)|null|
+|**2025-05-14**|**Variational Prefix Tuning for Diverse and Accurate Code Summarization Using Pre-trained Language Models**|Junda Zhao et.al.|[2505.09062](http://arxiv.org/abs/2505.09062)|**[link](https://github.com/jundaz/VPT)**|
 |**2025-05-12**|**BinMetric: A Comprehensive Binary Analysis Benchmark for Large Language Models**|Xiuwei Shang et.al.|[2505.07360](http://arxiv.org/abs/2505.07360)|null|
 |**2025-05-02**|**Evaluating the Impact of Data Cleaning on the Quality of Generated Pull Request Descriptions**|Kutay Tire et.al.|[2505.01120](http://arxiv.org/abs/2505.01120)|null|
 |**2025-04-30**|**An Empirical Study on the Effectiveness of Large Language Models for Binary Code Understanding**|Xiuwei Shang et.al.|[2504.21803](http://arxiv.org/abs/2504.21803)|null|
