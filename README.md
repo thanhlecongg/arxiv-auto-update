@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair**|Han Zheng et.al.|[2505.13103](http://arxiv.org/abs/2505.13103)|null|
+|**2025-05-19**|**Adversarial Reasoning for Repair Based on Inferred Program Intent**|He Ye et.al.|[2505.13008](http://arxiv.org/abs/2505.13008)|null|
 |**2025-05-12**|**Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data**|David de-Fitero-Dominguez et.al.|[2505.07372](http://arxiv.org/abs/2505.07372)|null|
 |**2025-05-12**|**Automated Repair of Ambiguous Natural Language Requirements**|Haoxiang Jia et.al.|[2505.07270](http://arxiv.org/abs/2505.07270)|null|
 |**2025-05-07**|**Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs**|Mirazul Haque et.al.|[2505.04441](http://arxiv.org/abs/2505.04441)|null|
@@ -390,6 +392,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-18**|**Shaky Structures: The Wobbly World of Causal Graphs in Software Analytics**|Jeremy Hulse et.al.|[2505.12554](http://arxiv.org/abs/2505.12554)|null|
 |**2025-05-13**|**Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning**|Liguo Ji et.al.|[2505.01022](http://arxiv.org/abs/2505.01022)|**[link](https://github.com/hellojlg/rc_detector)**|
 |**2025-05-02**|**Identifying Root Cause of bugs by Capturing Changed Code Lines with Relational Graph Neural Networks**|Jiaqi Zhang et.al.|[2505.00990](http://arxiv.org/abs/2505.00990)|**[link](https://github.com/leling666/rc-detection)**|
 |**2025-04-27**|**Critical Considerations on Effort-aware Software Defect Prediction Metrics**|Luigi Lavazza et.al.|[2504.19181](http://arxiv.org/abs/2504.19181)|**[link](https://github.com/BruhZul/Supplement-material-EAM-EASE25)**|
@@ -497,6 +500,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-18**|**EVALOOP: Assessing LLM Robustness in Programming from a Self-consistency Perspective**|Sen Fang et.al.|[2505.12185](http://arxiv.org/abs/2505.12185)|null|
+|**2025-05-17**|**Do Code LLMs Do Static Analysis?**|Chia-Yi Su et.al.|[2505.12118](http://arxiv.org/abs/2505.12118)|null|
 |**2025-05-14**|**Customizing a Large Language Model for VHDL Design of High-Performance Microprocessors**|Nicolas Dupuis et.al.|[2505.09610](http://arxiv.org/abs/2505.09610)|null|
 |**2025-05-14**|**Variational Prefix Tuning for Diverse and Accurate Code Summarization Using Pre-trained Language Models**|Junda Zhao et.al.|[2505.09062](http://arxiv.org/abs/2505.09062)|**[link](https://github.com/jundaz/VPT)**|
 |**2025-05-12**|**BinMetric: A Comprehensive Binary Analysis Benchmark for Large Language Models**|Xiuwei Shang et.al.|[2505.07360](http://arxiv.org/abs/2505.07360)|null|
