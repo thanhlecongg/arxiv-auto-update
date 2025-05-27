@@ -242,6 +242,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-25**|**Co-PatcheR: Collaborative Software Patching with Component(s)-specific Small Reasoning Models**|Yuheng Tang et.al.|[2505.18955](http://arxiv.org/abs/2505.18955)|null|
 |**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629](http://arxiv.org/abs/2505.02629)|**[link](https://github.com/sedeepl/graphlora)**|
 |**2025-03-19**|**Are "Solved Issues" in SWE-bench Really Solved Correctly? An Empirical Study**|You Wang et.al.|[2503.15223](http://arxiv.org/abs/2503.15223)|null|
 |**2025-01-27**|**MultiMend: Multilingual Program Repair with Context Augmentation and Multi-Hunk Patch Generation**|Reza Gharibi et.al.|[2501.16044](http://arxiv.org/abs/2501.16044)|**[link](https://github.com/h4iku/multimend)**|
@@ -304,6 +305,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Eradicating the Unseen: Detecting, Exploiting, and Remediating a Path Traversal Vulnerability across GitHub**|Jafar Akhoundali et.al.|[2505.20186](http://arxiv.org/abs/2505.20186)|null|
 |**2025-05-23**|**LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability Management Framework**|Yanli Jin et.al.|[2505.17416](http://arxiv.org/abs/2505.17416)|null|
 |**2025-05-20**|**VulCPE: Context-Aware Cybersecurity Vulnerability Retrieval and Management**|Yuning Jiang et.al.|[2505.13895](http://arxiv.org/abs/2505.13895)|null|
 |**2025-05-15**|**AutoPentest: Enhancing Vulnerability Management With Autonomous LLM Agents**|Julius Henke et.al.|[2505.10321](http://arxiv.org/abs/2505.10321)|**[link](https://github.com/juliushenke/autopentest)**|
@@ -503,6 +505,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Compliance-to-Code: Enhancing Financial Compliance Checking via Code Generation**|Siyuan Li et.al.|[2505.19804](http://arxiv.org/abs/2505.19804)|null|
 |**2025-05-22**|**LEANCODE: Understanding Models Better for Code Simplification of Pre-trained Large Language Models**|Yan Wang et.al.|[2505.14759](http://arxiv.org/abs/2505.14759)|null|
 |**2025-05-20**|**Capturing the Effects of Quantization on Trojans in Code LLMs**|Aftab Hussain et.al.|[2505.14200](http://arxiv.org/abs/2505.14200)|null|
 |**2025-05-18**|**EVALOOP: Assessing LLM Robustness in Programming from a Self-consistency Perspective**|Sen Fang et.al.|[2505.12185](http://arxiv.org/abs/2505.12185)|null|
