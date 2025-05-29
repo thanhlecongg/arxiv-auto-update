@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**CADReview: Automatically Reviewing CAD Programs with Error Detection and Correction**|Jiali Chen et.al.|[2505.22304](http://arxiv.org/abs/2505.22304)|null|
 |**2025-05-27**|**An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE Tasks**|Xin Zhou et.al.|[2505.20854](http://arxiv.org/abs/2505.20854)|null|
 |**2025-05-23**|**Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces**|André Silva et.al.|[2505.17703](http://arxiv.org/abs/2505.17703)|null|
 |**2025-05-24**|**Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair**|Han Zheng et.al.|[2505.13103](http://arxiv.org/abs/2505.13103)|null|
@@ -398,6 +399,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Cosmic Strings as Dynamical Dark Energy: Novel Constraints**|Hanyu Cheng et.al.|[2505.22066](http://arxiv.org/abs/2505.22066)|null|
 |**2025-05-18**|**Shaky Structures: The Wobbly World of Causal Graphs in Software Analytics**|Jeremy Hulse et.al.|[2505.12554](http://arxiv.org/abs/2505.12554)|null|
 |**2025-05-13**|**Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning**|Liguo Ji et.al.|[2505.01022](http://arxiv.org/abs/2505.01022)|**[link](https://github.com/hellojlg/rc_detector)**|
 |**2025-05-02**|**Identifying Root Cause of bugs by Capturing Changed Code Lines with Relational Graph Neural Networks**|Jiaqi Zhang et.al.|[2505.00990](http://arxiv.org/abs/2505.00990)|**[link](https://github.com/leling666/rc-detection)**|
