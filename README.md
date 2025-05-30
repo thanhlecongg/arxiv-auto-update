@@ -399,6 +399,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Quantum-Based Software Engineering**|Jianjun Zhao et.al.|[2505.23674](http://arxiv.org/abs/2505.23674)|null|
 |**2025-05-28**|**Cosmic Strings as Dynamical Dark Energy: Novel Constraints**|Hanyu Cheng et.al.|[2505.22066](http://arxiv.org/abs/2505.22066)|null|
 |**2025-05-18**|**Shaky Structures: The Wobbly World of Causal Graphs in Software Analytics**|Jeremy Hulse et.al.|[2505.12554](http://arxiv.org/abs/2505.12554)|null|
 |**2025-05-13**|**Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning**|Liguo Ji et.al.|[2505.01022](http://arxiv.org/abs/2505.01022)|**[link](https://github.com/hellojlg/rc_detector)**|
