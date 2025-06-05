@@ -19,6 +19,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Boosting Open-Source LLMs for Program Repair via Reasoning Transfer and LLM-Guided Reinforcement Learning**|Xunzhu Tang et.al.|[2506.03921](http://arxiv.org/abs/2506.03921)|null|
+|**2025-06-03**|**Empirical Evaluation of Generalizable Automated Program Repair with Large Language Models**|Viola Campos et.al.|[2506.03283](http://arxiv.org/abs/2506.03283)|null|
 |**2025-05-28**|**CADReview: Automatically Reviewing CAD Programs with Error Detection and Correction**|Jiali Chen et.al.|[2505.22304](http://arxiv.org/abs/2505.22304)|null|
 |**2025-05-27**|**An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE Tasks**|Xin Zhou et.al.|[2505.20854](http://arxiv.org/abs/2505.20854)|null|
 |**2025-05-23**|**Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces**|André Silva et.al.|[2505.17703](http://arxiv.org/abs/2505.17703)|null|
@@ -307,6 +309,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Software Bill of Materials in Software Supply Chain Security A Systematic Literature Review**|Eric O'Donoghue et.al.|[2506.03507](http://arxiv.org/abs/2506.03507)|null|
 |**2025-06-03**|**Vulnerability Management Chaining: An Integrated Framework for Efficient Cybersecurity Risk Prioritization**|Naoyuki Shimizu et.al.|[2506.01220](http://arxiv.org/abs/2506.01220)|null|
 |**2025-05-26**|**Eradicating the Unseen: Detecting, Exploiting, and Remediating a Path Traversal Vulnerability across GitHub**|Jafar Akhoundali et.al.|[2505.20186](http://arxiv.org/abs/2505.20186)|null|
 |**2025-05-23**|**LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability Management Framework**|Yanli Jin et.al.|[2505.17416](http://arxiv.org/abs/2505.17416)|**[link](https://github.com/sosol717/llm-bscvm)**|
