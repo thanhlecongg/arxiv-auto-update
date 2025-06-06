@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -293,7 +293,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-04**|**Software Bill of Materials in Software Supply Chain Security A Systematic Literature Review**|Eric O'Donoghue et.al.|[2506.03507](http://arxiv.org/abs/2506.03507)|null|
+|**2025-06-05**|**Software Bill of Materials in Software Supply Chain Security A Systematic Literature Review**|Eric O'Donoghue et.al.|[2506.03507](http://arxiv.org/abs/2506.03507)|null|
 |**2025-06-03**|**Vulnerability Management Chaining: An Integrated Framework for Efficient Cybersecurity Risk Prioritization**|Naoyuki Shimizu et.al.|[2506.01220](http://arxiv.org/abs/2506.01220)|null|
 |**2025-05-26**|**Eradicating the Unseen: Detecting, Exploiting, and Remediating a Path Traversal Vulnerability across GitHub**|Jafar Akhoundali et.al.|[2505.20186](http://arxiv.org/abs/2505.20186)|null|
 |**2025-05-23**|**LLM-BSCVM: An LLM-Based Blockchain Smart Contract Vulnerability Management Framework**|Yanli Jin et.al.|[2505.17416](http://arxiv.org/abs/2505.17416)|**[link](https://github.com/sosol717/llm-bscvm)**|
