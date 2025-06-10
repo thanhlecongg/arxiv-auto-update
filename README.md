@@ -1,4 +1,4 @@
-## Updated on 2025.06.07
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2025-05-24**|**Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair**|Han Zheng et.al.|[2505.13103](http://arxiv.org/abs/2505.13103)|null|
 |**2025-05-19**|**Adversarial Reasoning for Repair Based on Inferred Program Intent**|He Ye et.al.|[2505.13008](http://arxiv.org/abs/2505.13008)|null|
 |**2025-05-12**|**Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data**|David de-Fitero-Dominguez et.al.|[2505.07372](http://arxiv.org/abs/2505.07372)|null|
-|**2025-05-12**|**Automated Repair of Ambiguous Natural Language Requirements**|Haoxiang Jia et.al.|[2505.07270](http://arxiv.org/abs/2505.07270)|null|
+|**2025-06-07**|**Automated Repair of Ambiguous Natural Language Requirements**|Haoxiang Jia et.al.|[2505.07270](http://arxiv.org/abs/2505.07270)|**[link](https://github.com/msv-lab/specfix)**|
 |**2025-05-07**|**Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs**|Mirazul Haque et.al.|[2505.04441](http://arxiv.org/abs/2505.04441)|null|
 |**2025-05-05**|**The Art of Repair: Optimizing Iterative Program Repair with Instruction-Tuned Models**|Fernando Vallecillos Ruiz et.al.|[2505.02931](http://arxiv.org/abs/2505.02931)|null|
 |**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629](http://arxiv.org/abs/2505.02629)|**[link](https://github.com/sedeepl/graphlora)**|
@@ -241,7 +241,7 @@
 |**2022-07-22**|**Test-based Patch Clustering for Automatically-Generated Patches Assessment**|Matias Martinez et.al.|[2207.11082](http://arxiv.org/abs/2207.11082)|null|
 |**2022-07-21**|**BigIssue: A Realistic Bug Localization Benchmark**|Paul Kassianik et.al.|[2207.10739](http://arxiv.org/abs/2207.10739)|null|
 
-<p align=right>(<a href=#Updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## Automated Patch Correctness Assessment
 
@@ -251,7 +251,7 @@
 |**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629](http://arxiv.org/abs/2505.02629)|**[link](https://github.com/sedeepl/graphlora)**|
 |**2025-03-19**|**Are "Solved Issues" in SWE-bench Really Solved Correctly? An Empirical Study**|You Wang et.al.|[2503.15223](http://arxiv.org/abs/2503.15223)|null|
 |**2025-01-27**|**MultiMend: Multilingual Program Repair with Context Augmentation and Multi-Hunk Patch Generation**|Reza Gharibi et.al.|[2501.16044](http://arxiv.org/abs/2501.16044)|**[link](https://github.com/h4iku/multimend)**|
-|**2024-12-13**|**Beyond Toxic Neurons: A Mechanistic Analysis of DPO for Toxicity Reduction**|Yushi Yang et.al.|[2411.06424](http://arxiv.org/abs/2411.06424)|**[link](https://github.com/yushi-y/dpo-toxic-neurons)**|
+|**2025-06-08**|**How Does DPO Reduce Toxicity? A Mechanistic Neuron-Level Analysis**|Yushi Yang et.al.|[2411.06424](http://arxiv.org/abs/2411.06424)|**[link](https://github.com/yushi-y/dpo-toxic-neurons)**|
 |**2024-08-02**|**The Impact of Program Reduction on Automated Program Repair**|Linas Vidziunas et.al.|[2408.01134](http://arxiv.org/abs/2408.01134)|null|
 |**2024-07-12**|**Towards Practical and Useful Automated Program Repair for Debugging**|Qi Xin et.al.|[2407.08958](http://arxiv.org/abs/2407.08958)|null|
 |**2024-10-29**|**Agentless: Demystifying LLM-based Software Engineering Agents**|Chunqiu Steven Xia et.al.|[2407.01489](http://arxiv.org/abs/2407.01489)|**[link](https://github.com/OpenAutoCoder/Agentless)**|
@@ -275,7 +275,7 @@
 |**2020-03-31**|**RESTORE: Retrospective Fault Localization Enhancing Automated Program Repair**|Tongtong Xu et.al.|[1906.01778](http://arxiv.org/abs/1906.01778)|null|
 |**2020-09-28**|**A Comprehensive Study of Automatic Program Repair on the QuixBugs Benchmark**|He Ye et.al.|[1805.03454](http://arxiv.org/abs/1805.03454)|**[link](https://github.com/KTH/quixbugs-experiment)**|
 
-<p align=right>(<a href=#Updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## Code Naturalness
 
@@ -304,7 +304,7 @@
 |**2011-09-05**|**Quantized Compute and Forward: A Low-Complexity Architecture for Distributed Antenna Systems**|Song-Nam Hong et.al.|[1109.0800](http://arxiv.org/abs/1109.0800)|null|
 |**2007-07-29**|**Embedded Rank Distance Codes for ISI channels**|S. Dusad et.al.|[0707.4311](http://arxiv.org/abs/0707.4311)|null|
 
-<p align=right>(<a href=#Updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## Bug/Vulnerability Management
 
@@ -373,7 +373,7 @@
 |**2017-05-15**|**Software Vulnerability Analysis Using CPE and CVE**|Luis Alberto Benthin Sanguino et.al.|[1705.05347](http://arxiv.org/abs/1705.05347)|null|
 |**2012-09-28**|**Vulnerability Management for an Enterprise Resource Planning System**|Shivani Goel et.al.|[1209.6484](http://arxiv.org/abs/1209.6484)|null|
 
-<p align=right>(<a href=#Updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## Regression Bugs/Bug Inducing Commit
 
@@ -398,13 +398,13 @@
 |**2021-01-21**|**TAOS-CI: Lightweight & Modular Continuous Integration System for Edge Computing**|Geunsik Lim et.al.|[2101.08889](http://arxiv.org/abs/2101.08889)|null|
 |**2015-05-06**|**Localization of real world regression Bugs using single execution**|Dekel Cohen et.al.|[1505.01286](http://arxiv.org/abs/1505.01286)|null|
 
-<p align=right>(<a href=#Updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## Defect Prediction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-29**|**Quantum-Based Software Engineering**|Jianjun Zhao et.al.|[2505.23674](http://arxiv.org/abs/2505.23674)|null|
+|**2025-06-07**|**Quantum-Based Software Engineering**|Jianjun Zhao et.al.|[2505.23674](http://arxiv.org/abs/2505.23674)|null|
 |**2025-05-28**|**Cosmic Strings as Dynamical Dark Energy: Novel Constraints**|Hanyu Cheng et.al.|[2505.22066](http://arxiv.org/abs/2505.22066)|null|
 |**2025-05-18**|**Shaky Structures: The Wobbly World of Causal Graphs in Software Analytics**|Jeremy Hulse et.al.|[2505.12554](http://arxiv.org/abs/2505.12554)|null|
 |**2025-05-13**|**Detecting the Root Cause Code Lines in Bug-Fixing Commits by Heterogeneous Graph Learning**|Liguo Ji et.al.|[2505.01022](http://arxiv.org/abs/2505.01022)|**[link](https://github.com/hellojlg/rc_detector)**|
@@ -499,7 +499,7 @@
 |**2022-03-07**|**Online Adaptable Bug Localization for Rapidly Evolving Software**|Agnieszka Ciborowska et.al.|[2203.03544](http://arxiv.org/abs/2203.03544)|**[link](https://github.com/aciborowska/jingo)**|
 |**2022-04-30**|**ApacheJIT: A Large Dataset for Just-In-Time Defect Prediction**|Hossein Keshavarz et.al.|[2203.00101](http://arxiv.org/abs/2203.00101)|null|
 
-<p align=right>(<a href=#Updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## Bug Explanation
 
@@ -508,17 +508,17 @@
 |**2023-03-15**|**Defectors: A Large, Diverse Python Dataset for Defect Prediction**|Parvez Mahbub et.al.|[2303.04738](http://arxiv.org/abs/2303.04738)|null|
 |**2016-10-27**|**Learning Likely Invariants to Explain Why a Program Fails**|Jun Sun et.al.|[1610.08607](http://arxiv.org/abs/1610.08607)|null|
 
-<p align=right>(<a href=#Updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## Code Summarization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-03**|**Rethinking the effects of data contamination in Code Intelligence**|Zhen Yang et.al.|[2506.02791](http://arxiv.org/abs/2506.02791)|null|
+|**2025-06-08**|**Rethinking the effects of data contamination in Code Intelligence**|Zhen Yang et.al.|[2506.02791](http://arxiv.org/abs/2506.02791)|null|
 |**2025-06-02**|**Which Factors Make Code LLMs More Vulnerable to Backdoor Attacks? A Systematic Study**|Chenyu Wang et.al.|[2506.01825](http://arxiv.org/abs/2506.01825)|null|
 |**2025-05-27**|**An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE Tasks**|Xin Zhou et.al.|[2505.20854](http://arxiv.org/abs/2505.20854)|null|
-|**2025-05-26**|**Compliance-to-Code: Enhancing Financial Compliance Checking via Code Generation**|Siyuan Li et.al.|[2505.19804](http://arxiv.org/abs/2505.19804)|null|
-|**2025-05-22**|**LEANCODE: Understanding Models Better for Code Simplification of Pre-trained Large Language Models**|Yan Wang et.al.|[2505.14759](http://arxiv.org/abs/2505.14759)|null|
+|**2025-06-09**|**Compliance-to-Code: Enhancing Financial Compliance Checking via Code Generation**|Siyuan Li et.al.|[2505.19804](http://arxiv.org/abs/2505.19804)|**[link](https://github.com/alexjjjchen/compliance-to-code)**|
+|**2025-06-08**|**LEANCODE: Understanding Models Better for Code Simplification of Pre-trained Large Language Models**|Yan Wang et.al.|[2505.14759](http://arxiv.org/abs/2505.14759)|null|
 |**2025-05-20**|**Capturing the Effects of Quantization on Trojans in Code LLMs**|Aftab Hussain et.al.|[2505.14200](http://arxiv.org/abs/2505.14200)|null|
 |**2025-06-01**|**EVALOOP: Assessing LLM Robustness in Programming from a Self-consistency Perspective**|Sen Fang et.al.|[2505.12185](http://arxiv.org/abs/2505.12185)|null|
 |**2025-05-17**|**Do Code LLMs Do Static Analysis?**|Chia-Yi Su et.al.|[2505.12118](http://arxiv.org/abs/2505.12118)|**[link](https://github.com/apcl-research/llm-reason)**|
@@ -675,5 +675,5 @@
 |**2022-07-24**|**No More Fine-Tuning? An Experimental Evaluation of Prompt Tuning in Code Intelligence**|Chaozheng Wang et.al.|[2207.11680](http://arxiv.org/abs/2207.11680)|**[link](https://github.com/adf1178/pt4code)**|
 |**2022-10-16**|**Are We Building on the Rock? On the Importance of Data Preprocessing for Code Summarization**|Lin Shi et.al.|[2207.05579](http://arxiv.org/abs/2207.05579)|**[link](https://github.com/builtontherock/fse22_builtontherock)**|
 
-<p align=right>(<a href=#Updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
