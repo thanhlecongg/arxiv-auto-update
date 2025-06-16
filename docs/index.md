@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -296,7 +296,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-04**|**CPS-Guard: Framework for Dependability Assurance of AI- and LLM-Based Cyber-Physical Systems**|Trisanth Srinivasan et.al.|[2506.06381](http://arxiv.org/abs/2506.06381)|null|
+|**2025-06-13**|**DURA-CPS: A Multi-Role Orchestrator for Dependability Assurance in LLM-Enabled Cyber-Physical Systems**|Trisanth Srinivasan et.al.|[2506.06381](http://arxiv.org/abs/2506.06381)|null|
 |**2025-06-05**|**Software Bill of Materials in Software Supply Chain Security A Systematic Literature Review**|Eric O'Donoghue et.al.|[2506.03507](http://arxiv.org/abs/2506.03507)|null|
 |**2025-06-03**|**Vulnerability Management Chaining: An Integrated Framework for Efficient Cybersecurity Risk Prioritization**|Naoyuki Shimizu et.al.|[2506.01220](http://arxiv.org/abs/2506.01220)|null|
 |**2025-05-26**|**Eradicating the Unseen: Detecting, Exploiting, and Remediating a Path Traversal Vulnerability across GitHub**|Jafar Akhoundali et.al.|[2505.20186](http://arxiv.org/abs/2505.20186)|null|
