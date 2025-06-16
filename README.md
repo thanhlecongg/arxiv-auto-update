@@ -248,6 +248,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**SoK: Automated Vulnerability Repair: Methods, Tools, and Assessments**|Yiwei Hu et.al.|[2506.11697](http://arxiv.org/abs/2506.11697)|null|
 |**2025-06-09**|**Repeton: Structured Bug Repair with ReAct-Guided Patch-and-Test Cycles**|Nguyen Phu Vinh et.al.|[2506.08173](http://arxiv.org/abs/2506.08173)|null|
 |**2025-05-25**|**Co-PatcheR: Collaborative Software Patching with Component(s)-specific Small Reasoning Models**|Yuheng Tang et.al.|[2505.18955](http://arxiv.org/abs/2505.18955)|null|
 |**2025-05-05**|**Parameter-Efficient Fine-Tuning with Attributed Patch Semantic Graph for Automated Patch Correctness Assessment**|Zhenyu Yang et.al.|[2505.02629](http://arxiv.org/abs/2505.02629)|**[link](https://github.com/sedeepl/graphlora)**|
@@ -312,6 +313,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-22**|**Software Security Mapping Framework: Operationalization of Security Requirements**|Sung Une Lee et.al.|[2506.11051](http://arxiv.org/abs/2506.11051)|null|
 |**2025-06-13**|**DURA-CPS: A Multi-Role Orchestrator for Dependability Assurance in LLM-Enabled Cyber-Physical Systems**|Trisanth Srinivasan et.al.|[2506.06381](http://arxiv.org/abs/2506.06381)|null|
 |**2025-06-05**|**Software Bill of Materials in Software Supply Chain Security A Systematic Literature Review**|Eric O'Donoghue et.al.|[2506.03507](http://arxiv.org/abs/2506.03507)|null|
 |**2025-06-03**|**Vulnerability Management Chaining: An Integrated Framework for Efficient Cybersecurity Risk Prioritization**|Naoyuki Shimizu et.al.|[2506.01220](http://arxiv.org/abs/2506.01220)|null|
