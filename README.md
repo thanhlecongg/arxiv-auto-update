@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Empirical Evaluation of Large Language Models in Automated Program Repair**|Jiajun Sun et.al.|[2506.13186](http://arxiv.org/abs/2506.13186)|null|
 |**2025-06-12**|**EXPEREPAIR: Dual-Memory Enhanced LLM-based Repository-Level Program Repair**|Fangwen Mu et.al.|[2506.10484](http://arxiv.org/abs/2506.10484)|null|
 |**2025-06-05**|**A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair**|Zanis Ali Khan et.al.|[2506.04987](http://arxiv.org/abs/2506.04987)|null|
 |**2025-06-04**|**Boosting Open-Source LLMs for Program Repair via Reasoning Transfer and LLM-Guided Reinforcement Learning**|Xunzhu Tang et.al.|[2506.03921](http://arxiv.org/abs/2506.03921)|null|
@@ -384,6 +385,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**From Empirical Evaluation to Context-Aware Enhancement: Repairing Regression Errors with LLMs**|Anh Ho et.al.|[2506.13182](http://arxiv.org/abs/2506.13182)|null|
 |**2025-04-02**|**LLM4SZZ: Enhancing SZZ Algorithm with Context-Enhanced Assessment on Large Language Models**|Lingxiao Tang et.al.|[2504.01404](http://arxiv.org/abs/2504.01404)|null|
 |**2025-03-24**|**Regression Testing with a Natural Language Oracle**|Michael Pradel et.al.|[2503.18597](http://arxiv.org/abs/2503.18597)|**[link](https://github.com/michaelpradel/Testora)**|
 |**2025-02-19**|**Identifying Bug Inducing Commits by Combining Fault Localisation and Code Change Histories**|Gabin An et.al.|[2502.12922](http://arxiv.org/abs/2502.12922)|null|
