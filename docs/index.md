@@ -391,6 +391,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Anticipating Bugs: Ticket-Level Bug Prediction and Temporal Proximity Effects**|Daniele La Prova et.al.|[2506.14290](http://arxiv.org/abs/2506.14290)|null|
 |**2025-06-07**|**Quantum-Based Software Engineering**|Jianjun Zhao et.al.|[2505.23674](http://arxiv.org/abs/2505.23674)|null|
 |**2025-05-28**|**Cosmic Strings as Dynamical Dark Energy: Novel Constraints**|Hanyu Cheng et.al.|[2505.22066](http://arxiv.org/abs/2505.22066)|null|
 |**2025-05-18**|**Shaky Structures: The Wobbly World of Causal Graphs in Software Analytics**|Jeremy Hulse et.al.|[2505.12554](http://arxiv.org/abs/2505.12554)|null|
