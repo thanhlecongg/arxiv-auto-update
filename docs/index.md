@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -18,7 +18,7 @@ layout: default
 |**2025-05-27**|**An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE Tasks**|Xin Zhou et.al.|[2505.20854](http://arxiv.org/abs/2505.20854)|null|
 |**2025-05-23**|**Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces**|André Silva et.al.|[2505.17703](http://arxiv.org/abs/2505.17703)|null|
 |**2025-05-24**|**Fixing 7,400 Bugs for 1$: Cheap Crash-Site Program Repair**|Han Zheng et.al.|[2505.13103](http://arxiv.org/abs/2505.13103)|null|
-|**2025-05-19**|**Adversarial Reasoning for Repair Based on Inferred Program Intent**|He Ye et.al.|[2505.13008](http://arxiv.org/abs/2505.13008)|null|
+|**2025-06-20**|**Adversarial Reasoning for Repair Based on Inferred Program Intent**|He Ye et.al.|[2505.13008](http://arxiv.org/abs/2505.13008)|null|
 |**2025-05-12**|**Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data**|David de-Fitero-Dominguez et.al.|[2505.07372](http://arxiv.org/abs/2505.07372)|null|
 |**2025-06-07**|**Automated Repair of Ambiguous Natural Language Requirements**|Haoxiang Jia et.al.|[2505.07270](http://arxiv.org/abs/2505.07270)|**[link](https://github.com/msv-lab/specfix)**|
 |**2025-05-07**|**Towards Effectively Leveraging Execution Traces for Program Repair with Code LLMs**|Mirazul Haque et.al.|[2505.04441](http://arxiv.org/abs/2505.04441)|null|
