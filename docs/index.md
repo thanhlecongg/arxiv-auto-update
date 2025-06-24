@@ -9,6 +9,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824](http://arxiv.org/abs/2506.18824)|null|
+|**2025-06-23**|**Tracing Errors, Constructing Fixes: Repository-Level Memory Error Repair via Typestate-Guided Context Retrieval**|Xiao Cheng et.al.|[2506.18394](http://arxiv.org/abs/2506.18394)|null|
 |**2025-06-20**|**Dissecting the SWE-Bench Leaderboards: Profiling Submitters and Architectures of LLM- and Agent-Based Repair Systems**|Matias Martinez et.al.|[2506.17208](http://arxiv.org/abs/2506.17208)|null|
 |**2025-06-19**|**SemAgent: A Semantics Aware Program Repair Agent**|Anvith Pabba et.al.|[2506.16650](http://arxiv.org/abs/2506.16650)|null|
 |**2025-06-19**|**Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Fixing**|Kai Huang et.al.|[2506.16136](http://arxiv.org/abs/2506.16136)|null|
