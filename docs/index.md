@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -318,7 +318,7 @@ layout: default
 |**2025-03-28**|**Understanding Software Vulnerabilities in the Maven Ecosystem: Patterns, Timelines, and Risks**|Md Fazle Rabbi et.al.|[2503.22391](http://arxiv.org/abs/2503.22391)|null|
 |**2025-03-21**|**Understanding the Changing Landscape of Automotive Software Vulnerabilities: Insights from a Seven-Year Analysis**|Srijita Basu et.al.|[2503.17537](http://arxiv.org/abs/2503.17537)|null|
 |**2025-03-03**|**Bomfather: An eBPF-based Kernel-level Monitoring Framework for Accurate Identification of Unknown, Unused, and Dynamically Loaded Dependencies in Modern Software Supply Chains**|Naveen Srinivasan et.al.|[2503.02097](http://arxiv.org/abs/2503.02097)|null|
-|**2025-02-16**|**VulRG: Multi-Level Explainable Vulnerability Patch Ranking for Complex Systems Using Graphs**|Yuning Jiang et.al.|[2502.11143](http://arxiv.org/abs/2502.11143)|null|
+|**2025-02-16**|**VulRG: Multi-Level Explainable Vulnerability Patch Ranking for Complex Systems Using Graphs**|Yuning Jiang et.al.|[2502.11143](http://arxiv.org/abs/2502.11143)|**[link](https://github.com/Yuning-J/PatchRank)**|
 |**2025-01-31**|**Streamlining Security Vulnerability Triage with Large Language Models**|Mohammad Jalili Torkamani et.al.|[2501.18908](http://arxiv.org/abs/2501.18908)|null|
 |**2025-02-16**|**PATCH: Empowering Large Language Model with Programmer-Intent Guidance and Collaborative-Behavior Simulation for Automatic Bug Fixing**|Yuwei Zhang et.al.|[2501.16149](http://arxiv.org/abs/2501.16149)|null|
 |**2025-01-17**|**Threat-Specific Risk Assessment for IP Multimedia Subsystem Networks Based on Hierarchical Models**|Abdullah Ehsan Shaikh et.al.|[2501.09936](http://arxiv.org/abs/2501.09936)|null|
