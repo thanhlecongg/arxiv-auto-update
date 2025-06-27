@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**$T^3$ : Multi-level Tree-based Automatic Program Repair with Large Language Models**|Quanming Liu et.al.|[2506.21211](http://arxiv.org/abs/2506.21211)|null|
 |**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824](http://arxiv.org/abs/2506.18824)|null|
 |**2025-06-23**|**Tracing Errors, Constructing Fixes: Repository-Level Memory Error Repair via Typestate-Guided Context Retrieval**|Xiao Cheng et.al.|[2506.18394](http://arxiv.org/abs/2506.18394)|null|
 |**2025-06-20**|**Dissecting the SWE-Bench Leaderboards: Profiling Submitters and Architectures of LLM- and Agent-Based Repair Systems**|Matias Martinez et.al.|[2506.17208](http://arxiv.org/abs/2506.17208)|null|
@@ -528,6 +529,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**CodeGuard: A Generalized and Stealthy Backdoor Watermarking for Generative Code Models**|Haoxuan Li et.al.|[2506.20926](http://arxiv.org/abs/2506.20926)|null|
 |**2025-06-08**|**Rethinking the effects of data contamination in Code Intelligence**|Zhen Yang et.al.|[2506.02791](http://arxiv.org/abs/2506.02791)|null|
 |**2025-06-02**|**Which Factors Make Code LLMs More Vulnerable to Backdoor Attacks? A Systematic Study**|Chenyu Wang et.al.|[2506.01825](http://arxiv.org/abs/2506.01825)|null|
 |**2025-05-27**|**An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE Tasks**|Xin Zhou et.al.|[2505.20854](http://arxiv.org/abs/2505.20854)|null|
