@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Automated Program Repair
@@ -506,7 +506,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-27**|**What Makes ChatGPT Effective for Software Issue Resolution? An Empirical Study of Developer-ChatGPT Conversations in GitHub**|Ramtin Ehsani et.al.|[2506.22390](http://arxiv.org/abs/2506.22390)|null|
-|**2025-06-26**|**CodeGuard: A Generalized and Stealthy Backdoor Watermarking for Generative Code Models**|Haoxuan Li et.al.|[2506.20926](http://arxiv.org/abs/2506.20926)|null|
+|**2025-06-29**|**Towards Generalized and Stealthy Watermarking for Generative Code Models**|Haoxuan Li et.al.|[2506.20926](http://arxiv.org/abs/2506.20926)|null|
 |**2025-06-08**|**Rethinking the effects of data contamination in Code Intelligence**|Zhen Yang et.al.|[2506.02791](http://arxiv.org/abs/2506.02791)|null|
 |**2025-06-02**|**Which Factors Make Code LLMs More Vulnerable to Backdoor Attacks? A Systematic Study**|Chenyu Wang et.al.|[2506.01825](http://arxiv.org/abs/2506.01825)|null|
 |**2025-05-27**|**An LLM-as-Judge Metric for Bridging the Gap with Human Evaluation in SE Tasks**|Xin Zhou et.al.|[2505.20854](http://arxiv.org/abs/2505.20854)|null|
