@@ -9,6 +9,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**CORE: Benchmarking LLMs Code Reasoning Capabilities through Static Analysis Tasks**|Danning Xie et.al.|[2507.05269](http://arxiv.org/abs/2507.05269)|null|
 |**2025-07-04**|**Specification-Guided Repair of Arithmetic Errors in Dafny Programs using LLMs**|Valentina Wu et.al.|[2507.03659](http://arxiv.org/abs/2507.03659)|null|
 |**2025-06-30**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976](http://arxiv.org/abs/2507.02976)|null|
 |**2025-07-02**|**APRMCTS: Improving LLM-based Automated Program Repair with Iterative Tree Search**|Haichuan Hu et.al.|[2507.01827](http://arxiv.org/abs/2507.01827)|null|
@@ -311,6 +312,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Automated Reasoning for Vulnerability Management by Design**|Avi Shaked et.al.|[2507.05794](http://arxiv.org/abs/2507.05794)|null|
 |**2025-05-22**|**Software Security Mapping Framework: Operationalization of Security Requirements**|Sung Une Lee et.al.|[2506.11051](http://arxiv.org/abs/2506.11051)|null|
 |**2025-06-13**|**DURA-CPS: A Multi-Role Orchestrator for Dependability Assurance in LLM-Enabled Cyber-Physical Systems**|Trisanth Srinivasan et.al.|[2506.06381](http://arxiv.org/abs/2506.06381)|null|
 |**2025-06-05**|**Software Bill of Materials in Software Supply Chain Security A Systematic Literature Review**|Eric O'Donoghue et.al.|[2506.03507](http://arxiv.org/abs/2506.03507)|null|
