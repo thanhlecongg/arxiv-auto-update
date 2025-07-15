@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Accelerating Automatic Program Repair with Dual Retrieval-Augmented Fine-Tuning and Patch Generation on Large Language Models**|Hanyang Guo et.al.|[2507.10103](http://arxiv.org/abs/2507.10103)|null|
 |**2025-07-11**|**LLMCup: Ranking-Enhanced Comment Updating with LLMs**|Hua Ge et.al.|[2507.08671](http://arxiv.org/abs/2507.08671)|null|
 |**2025-07-03**|**CORE: Benchmarking LLMs Code Reasoning Capabilities through Static Analysis Tasks**|Danning Xie et.al.|[2507.05269](http://arxiv.org/abs/2507.05269)|null|
 |**2025-07-04**|**Specification-Guided Repair of Arithmetic Errors in Dafny Programs using LLMs**|Valentina Wu et.al.|[2507.03659](http://arxiv.org/abs/2507.03659)|null|
@@ -329,6 +330,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-13**|**A Mixture of Linear Corrections Generates Secure Code**|Weichen Yu et.al.|[2507.09508](http://arxiv.org/abs/2507.09508)|null|
 |**2025-07-08**|**Automated Reasoning for Vulnerability Management by Design**|Avi Shaked et.al.|[2507.05794](http://arxiv.org/abs/2507.05794)|null|
 |**2025-05-22**|**Software Security Mapping Framework: Operationalization of Security Requirements**|Sung Une Lee et.al.|[2506.11051](http://arxiv.org/abs/2506.11051)|null|
 |**2025-06-13**|**DURA-CPS: A Multi-Role Orchestrator for Dependability Assurance in LLM-Enabled Cyber-Physical Systems**|Trisanth Srinivasan et.al.|[2506.06381](http://arxiv.org/abs/2506.06381)|null|
