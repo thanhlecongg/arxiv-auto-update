@@ -542,6 +542,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**On the Effectiveness of LLM-as-a-judge for Code Generation and Summarization**|Giuseppe Crupi et.al.|[2507.16587](http://arxiv.org/abs/2507.16587)|null|
 |**2025-07-02**|**Enhancing COBOL Code Explanations: A Multi-Agents Approach Using Large Language Models**|Fangjian Lei et.al.|[2507.02182](http://arxiv.org/abs/2507.02182)|null|
 |**2025-06-27**|**What Makes ChatGPT Effective for Software Issue Resolution? An Empirical Study of Developer-ChatGPT Conversations in GitHub**|Ramtin Ehsani et.al.|[2506.22390](http://arxiv.org/abs/2506.22390)|null|
 |**2025-06-29**|**Towards Generalized and Stealthy Watermarking for Generative Code Models**|Haoxuan Li et.al.|[2506.20926](http://arxiv.org/abs/2506.20926)|null|
