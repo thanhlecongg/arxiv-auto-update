@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning**|Lingxiao Tang et.al.|[2507.17548](http://arxiv.org/abs/2507.17548)|null|
 |**2025-07-21**|**Do AI models help produce verified bug fixes?**|Li Huang et.al.|[2507.15822](http://arxiv.org/abs/2507.15822)|null|
 |**2025-07-21**|**Input Reduction Enhanced LLM-based Program Repair**|Boyang Yang et.al.|[2507.15251](http://arxiv.org/abs/2507.15251)|null|
 |**2025-07-14**|**Accelerating Automatic Program Repair with Dual Retrieval-Augmented Fine-Tuning and Patch Generation on Large Language Models**|Hanyang Guo et.al.|[2507.10103](http://arxiv.org/abs/2507.10103)|null|
